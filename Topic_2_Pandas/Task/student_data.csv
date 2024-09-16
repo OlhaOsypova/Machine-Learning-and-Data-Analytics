@@ -1,0 +1,1201 @@
+Student_identifier_code_for_participation_in_the_survey,Age_of_student_at_the_time_of_the_data_collection_process,Grade_level_of_the_participant_in_the_educational_program,Hours_spent_studying_on_a_weekly_basis,Preferred_study_method_in_lecture_or_practical_sessions,Number_of_absent_days_in_the_current_semester,Average_test_score_in_mathematical_subjects,Student_participation_in_extracurricular_activities,Preferred_programming_language_for_project_work,Satisfaction_level_with_academic_facilities_in_percentage,Plans_for_further_education_or_employment_after_graduation
+ID_2126,24.0,Freshman,13.0,Lecture,6.0,73.44,No,Java,84.4,Employment
+ID_1860,20.0,Senior,28.0,Lecture,,85.28,Yes,,93.2,Undecided
+ID_2130,19.0,Junior,21.0,,10.0,96.11,Yes,JavaScript,64.94,Employment
+ID_2095,20.0,Sophomore,28.0,Practical,4.0,57.1,No,C++,59.65,Undecided
+ID_2044,19.0,Senior,25.0,Self-study,5.0,65.21,No,Java,55.81,Employment
+ID_1121,24.0,Freshman,17.0,,9.0,56.96,No,Java,80.81,Freelancing
+ID_1466,18.0,Junior,15.0,Group-study,3.0,80.6,No,Python,72.19,Higher education
+ID_1330,23.0,Sophomore,23.0,Lecture,,65.32,,,59.4,Freelancing
+ID_1087,,Sophomore,15.0,Lecture,11.0,66.31,No,JavaScript,82.66,Employment
+ID_2123,20.0,Senior,17.0,Self-study,1.0,53.55,No,R,57.42,Higher education
+,21.0,Junior,5.0,Self-study,12.0,67.49,Yes,Python,77.72,Higher education
+ID_1130,21.0,Junior,23.0,Self-study,9.0,93.12,Yes,JavaScript,76.36,Higher education
+ID_1769,22.0,Junior,16.0,Practical,8.0,61.65,Yes,R,86.71,Undecided
+ID_1343,19.0,Junior,12.0,Practical,9.0,,,Java,52.76,Freelancing
+ID_1805,20.0,Freshman,12.0,,14.0,81.48,Yes,Java,94.39,
+,22.0,Junior,16.0,Self-study,,93.17,No,C++,85.15,
+ID_1955,20.0,,37.0,Lecture,3.0,56.61,Yes,R,60.81,Freelancing
+ID_1276,,Sophomore,,,2.0,,Yes,,59.17,
+,24.0,Freshman,32.0,Group-study,9.0,79.13,,Java,71.58,Employment
+ID_1459,,Sophomore,9.0,Self-study,,99.77,Yes,C++,90.88,Undecided
+ID_1021,21.0,Sophomore,12.0,Self-study,14.0,95.58,Yes,,92.15,
+ID_1252,24.0,Junior,29.0,Group-study,2.0,61.08,Yes,Java,,Employment
+ID_1747,24.0,Sophomore,,Self-study,8.0,52.81,Yes,Python,93.04,Undecided
+ID_1856,18.0,Freshman,27.0,Practical,4.0,62.78,Yes,Python,50.27,
+ID_1474,21.0,Junior,34.0,,12.0,76.38,,,51.76,Higher education
+ID_2082,22.0,Senior,27.0,Self-study,14.0,58.58,No,,95.59,Undecided
+,23.0,Junior,24.0,Group-study,2.0,,,C++,,Employment
+ID_1699,18.0,Freshman,22.0,Lecture,14.0,73.13,No,Python,72.54,Freelancing
+ID_1975,22.0,Junior,22.0,Self-study,4.0,51.66,No,Python,87.68,Undecided
+ID_1189,,Junior,6.0,Self-study,,,No,JavaScript,97.78,Freelancing
+,18.0,Freshman,8.0,Lecture,,70.79,Yes,R,88.6,Employment
+ID_1686,22.0,Junior,34.0,Self-study,3.0,53.16,Yes,R,92.12,
+ID_1957,19.0,Freshman,37.0,Lecture,9.0,69.84,Yes,JavaScript,88.03,Employment
+ID_1562,21.0,Freshman,22.0,Group-study,,73.7,No,,58.41,Employment
+ID_1831,23.0,Senior,23.0,Practical,1.0,72.56,No,,,Higher education
+ID_2154,19.0,Sophomore,32.0,Group-study,11.0,93.46,,Python,59.76,Higher education
+ID_1646,24.0,Sophomore,24.0,Practical,7.0,76.5,Yes,R,94.63,Employment
+ID_1020,20.0,Junior,37.0,Lecture,0.0,73.4,No,Python,72.93,Undecided
+ID_1840,19.0,Junior,16.0,Practical,13.0,70.54,No,C++,83.85,
+ID_1166,19.0,Senior,19.0,Group-study,6.0,90.88,Yes,Java,74.86,Employment
+ID_1387,23.0,Senior,6.0,Practical,4.0,94.75,No,Python,54.7,Freelancing
+,20.0,Senior,33.0,Lecture,14.0,92.66,No,JavaScript,64.54,Freelancing
+ID_1315,24.0,Freshman,14.0,Practical,,83.68,,Java,99.19,Undecided
+ID_1013,,Senior,6.0,Self-study,7.0,56.87,No,JavaScript,98.04,Freelancing
+ID_1241,22.0,Senior,15.0,Group-study,0.0,63.84,No,JavaScript,66.02,Freelancing
+ID_1776,19.0,Junior,17.0,Self-study,10.0,,No,,99.81,Employment
+ID_1564,20.0,Senior,14.0,Lecture,6.0,96.54,No,Python,92.28,Freelancing
+ID_1897,20.0,Freshman,18.0,Practical,4.0,83.04,Yes,R,80.55,Freelancing
+ID_1091,24.0,Freshman,22.0,Self-study,3.0,87.32,Yes,Java,52.01,Freelancing
+ID_1955,23.0,Junior,,,6.0,65.58,,C++,95.07,Freelancing
+ID_1508,21.0,,32.0,Practical,9.0,92.28,No,R,77.87,Employment
+ID_1775,22.0,,7.0,Practical,14.0,,No,,,Freelancing
+ID_1034,,,,Group-study,1.0,,Yes,JavaScript,91.72,Undecided
+ID_1205,18.0,Senior,10.0,Self-study,11.0,68.82,Yes,C++,91.65,Higher education
+,22.0,Senior,,,14.0,78.54,No,,84.91,Undecided
+ID_2025,23.0,Senior,6.0,Lecture,0.0,73.94,Yes,R,64.57,
+ID_2021,22.0,Sophomore,33.0,,0.0,93.1,No,R,66.81,Undecided
+ID_1565,21.0,Junior,7.0,Lecture,,55.27,,,65.42,Higher education
+ID_2129,18.0,Sophomore,20.0,Self-study,11.0,77.69,No,Python,51.0,Higher education
+ID_1702,21.0,Junior,34.0,,0.0,75.65,No,Java,79.13,Higher education
+ID_1401,24.0,Freshman,6.0,Self-study,14.0,64.07,No,C++,84.94,Higher education
+ID_1729,18.0,Senior,21.0,Self-study,11.0,91.11,No,JavaScript,92.69,Employment
+ID_1161,19.0,Junior,16.0,Lecture,4.0,87.64,No,Java,57.01,Undecided
+ID_1201,23.0,Sophomore,,Lecture,9.0,86.64,Yes,R,77.21,Higher education
+ID_1995,18.0,Senior,,Practical,6.0,93.81,No,C++,50.4,Undecided
+ID_1269,24.0,Freshman,19.0,Practical,1.0,86.14,Yes,,54.75,Freelancing
+ID_1815,,Junior,,,9.0,61.59,No,R,52.71,Higher education
+ID_1455,21.0,Junior,25.0,Self-study,7.0,85.28,No,R,86.27,Undecided
+ID_2016,,Junior,35.0,Lecture,3.0,65.39,Yes,Python,54.05,Employment
+ID_1295,18.0,Senior,29.0,Group-study,11.0,62.11,Yes,R,85.82,Undecided
+ID_1719,23.0,Sophomore,27.0,Self-study,,53.65,No,JavaScript,62.48,Higher education
+ID_1337,18.0,Sophomore,28.0,Group-study,9.0,87.2,Yes,JavaScript,93.89,Freelancing
+ID_1878,20.0,,32.0,Lecture,10.0,85.55,,Java,90.66,Undecided
+ID_2076,22.0,Freshman,25.0,Self-study,7.0,,,R,97.89,Freelancing
+ID_1791,23.0,Freshman,22.0,Group-study,1.0,87.47,Yes,R,94.19,Employment
+ID_1216,23.0,,39.0,Group-study,10.0,95.89,Yes,,96.67,Undecided
+ID_1763,19.0,Freshman,13.0,Practical,10.0,55.4,Yes,Python,92.94,Undecided
+ID_1187,21.0,Sophomore,34.0,Practical,12.0,61.63,Yes,Java,84.67,Employment
+,19.0,Junior,38.0,Practical,2.0,87.51,No,,58.51,Employment
+ID_1492,23.0,,36.0,,11.0,63.73,Yes,C++,63.59,Employment
+ID_2064,22.0,Sophomore,7.0,Lecture,2.0,81.23,Yes,Python,60.64,Higher education
+ID_2180,18.0,Junior,7.0,Lecture,9.0,54.06,,Java,80.18,Higher education
+ID_1014,18.0,Freshman,,Practical,10.0,72.61,,Java,75.18,Undecided
+,22.0,Sophomore,19.0,Practical,0.0,86.95,Yes,R,93.35,Undecided
+,23.0,Sophomore,27.0,Practical,5.0,,No,Java,97.63,Undecided
+ID_2152,24.0,Junior,15.0,Group-study,1.0,90.75,No,C++,70.24,Freelancing
+ID_1647,18.0,Freshman,36.0,,0.0,93.87,Yes,Java,75.32,
+ID_2086,24.0,Sophomore,37.0,Group-study,1.0,88.66,Yes,JavaScript,98.58,Undecided
+ID_2162,18.0,Junior,28.0,,,83.58,No,,63.81,Employment
+,18.0,Sophomore,38.0,Self-study,5.0,51.59,Yes,Python,89.62,Higher education
+ID_1391,21.0,Senior,32.0,Self-study,13.0,76.75,No,Python,61.26,Employment
+ID_1418,21.0,Junior,11.0,Self-study,3.0,51.88,No,R,84.07,Freelancing
+ID_1288,20.0,Freshman,8.0,Self-study,5.0,90.4,Yes,R,,Freelancing
+ID_1378,,Freshman,5.0,Group-study,11.0,66.04,No,JavaScript,94.19,
+ID_1230,22.0,Freshman,5.0,Group-study,8.0,78.12,Yes,Python,78.07,Freelancing
+ID_2017,22.0,Freshman,24.0,Practical,,63.97,Yes,,59.3,Freelancing
+ID_1040,22.0,Sophomore,23.0,,9.0,,No,Python,61.22,Higher education
+ID_2051,20.0,Sophomore,33.0,Practical,11.0,94.33,No,,74.69,Undecided
+ID_1134,21.0,Freshman,14.0,Practical,9.0,69.93,Yes,Java,98.08,Freelancing
+,23.0,,,,7.0,93.15,No,C++,88.48,Undecided
+ID_1779,24.0,Freshman,,Group-study,0.0,63.35,Yes,C++,74.42,Employment
+,24.0,Sophomore,39.0,Group-study,12.0,76.73,No,,66.89,Employment
+ID_2056,23.0,Freshman,35.0,Practical,7.0,92.94,No,Java,77.46,Freelancing
+,20.0,Freshman,31.0,Practical,8.0,66.29,Yes,Python,87.42,Employment
+ID_1502,23.0,Senior,,Lecture,5.0,97.7,Yes,Python,89.2,Higher education
+ID_1406,22.0,Senior,9.0,Lecture,9.0,56.09,,R,66.23,
+ID_1804,19.0,Freshman,12.0,,14.0,50.91,No,R,86.06,Freelancing
+ID_1098,18.0,Junior,38.0,Lecture,4.0,95.21,Yes,JavaScript,82.89,Freelancing
+ID_1683,24.0,Freshman,16.0,Lecture,,53.43,Yes,Python,97.96,
+ID_1725,21.0,Senior,5.0,Practical,12.0,99.59,No,JavaScript,96.55,Employment
+ID_1960,21.0,Junior,35.0,Practical,5.0,97.57,No,Java,89.47,Freelancing
+ID_1612,20.0,Junior,8.0,Group-study,8.0,56.85,Yes,C++,86.17,Undecided
+ID_1642,21.0,,,Practical,3.0,76.88,Yes,Python,63.7,Employment
+ID_2028,22.0,Senior,34.0,,,59.25,Yes,Java,92.3,Employment
+,24.0,Senior,28.0,Self-study,10.0,71.41,Yes,Python,71.38,Freelancing
+ID_1766,23.0,Junior,7.0,,10.0,53.07,No,R,63.61,Undecided
+,22.0,Freshman,15.0,Group-study,8.0,61.2,No,JavaScript,69.21,Freelancing
+,20.0,,8.0,Group-study,1.0,68.16,,R,91.8,Employment
+ID_1794,22.0,Sophomore,30.0,Self-study,9.0,71.93,Yes,C++,57.43,
+ID_1392,23.0,Senior,31.0,Practical,8.0,,Yes,R,72.81,Freelancing
+ID_1206,19.0,,31.0,Group-study,1.0,90.39,,Python,74.62,Freelancing
+ID_2038,20.0,Senior,10.0,Group-study,11.0,86.87,Yes,R,,Undecided
+ID_1891,,Senior,19.0,,7.0,76.85,Yes,Python,59.79,Freelancing
+ID_1863,18.0,Senior,34.0,Group-study,8.0,92.0,No,C++,91.34,Employment
+ID_1742,19.0,Sophomore,39.0,,11.0,66.97,No,R,91.54,Freelancing
+ID_1563,18.0,Senior,27.0,Practical,,85.44,Yes,JavaScript,,Undecided
+ID_2020,18.0,Junior,10.0,Lecture,8.0,99.69,,JavaScript,93.74,Higher education
+ID_1095,19.0,Freshman,8.0,Group-study,9.0,65.73,No,JavaScript,,Undecided
+ID_1484,,Freshman,22.0,Group-study,,83.7,Yes,R,70.9,Freelancing
+ID_1230,23.0,Senior,13.0,Group-study,1.0,92.22,Yes,R,87.42,Higher education
+ID_1748,22.0,Freshman,33.0,Self-study,3.0,95.79,No,R,98.07,Freelancing
+ID_2194,22.0,Sophomore,17.0,Group-study,6.0,85.9,No,Python,72.95,Undecided
+ID_1540,,Sophomore,21.0,Practical,11.0,,No,C++,61.92,Higher education
+ID_2059,24.0,Freshman,,Practical,1.0,66.31,Yes,JavaScript,97.09,Higher education
+ID_1524,24.0,,26.0,Self-study,0.0,51.04,,,80.19,Freelancing
+ID_2183,,,8.0,,2.0,88.04,No,JavaScript,,Freelancing
+ID_2109,18.0,Freshman,9.0,Group-study,11.0,52.14,Yes,Python,78.63,Undecided
+,20.0,Freshman,17.0,Lecture,3.0,93.23,Yes,R,,Freelancing
+ID_1681,21.0,Senior,38.0,Self-study,7.0,55.93,No,JavaScript,,Higher education
+,19.0,,26.0,Self-study,5.0,58.59,No,R,76.53,Employment
+ID_2012,,Senior,27.0,,10.0,73.83,Yes,JavaScript,62.76,Employment
+ID_1645,22.0,Freshman,7.0,Group-study,1.0,86.89,,Java,83.78,Undecided
+ID_1795,20.0,Freshman,38.0,Self-study,14.0,56.95,No,Python,77.13,Freelancing
+ID_2051,19.0,Freshman,36.0,Lecture,8.0,72.0,No,Java,61.65,
+ID_1189,20.0,Sophomore,25.0,Self-study,13.0,74.14,,Python,78.68,Employment
+ID_1632,19.0,Senior,25.0,Group-study,1.0,60.61,No,C++,91.08,Employment
+ID_1627,19.0,Senior,15.0,Group-study,12.0,55.78,Yes,JavaScript,51.43,Freelancing
+,23.0,Freshman,8.0,,14.0,91.82,No,,81.54,Higher education
+ID_1709,18.0,,5.0,Lecture,11.0,75.12,Yes,C++,67.48,Freelancing
+ID_1648,20.0,Sophomore,32.0,Self-study,4.0,50.72,Yes,Python,64.63,Employment
+ID_1317,20.0,Sophomore,28.0,Self-study,11.0,90.15,No,Java,69.63,Higher education
+ID_1683,23.0,Sophomore,39.0,,3.0,99.04,No,R,67.1,Undecided
+ID_1663,22.0,Senior,17.0,Lecture,12.0,80.3,Yes,Python,91.61,Employment
+ID_2136,22.0,Senior,38.0,Practical,6.0,75.19,No,R,63.74,Undecided
+ID_1441,24.0,Senior,15.0,Lecture,7.0,93.92,No,,,Higher education
+ID_1563,18.0,Freshman,,Self-study,4.0,97.63,No,R,54.7,Undecided
+,18.0,Senior,39.0,Self-study,,87.73,Yes,Java,,Employment
+ID_1951,21.0,Junior,22.0,Self-study,13.0,72.27,No,Python,81.12,Freelancing
+ID_2104,,Junior,26.0,Lecture,13.0,79.61,No,Java,85.34,Undecided
+ID_1698,22.0,Sophomore,28.0,,4.0,85.05,Yes,Java,64.9,Employment
+,19.0,Senior,23.0,Self-study,1.0,59.71,No,Python,70.6,Employment
+ID_1001,20.0,Junior,25.0,Self-study,,72.36,No,Java,61.19,Higher education
+ID_1641,18.0,Sophomore,12.0,Lecture,13.0,91.49,Yes,JavaScript,96.63,Employment
+ID_1219,20.0,,32.0,Practical,1.0,82.74,Yes,JavaScript,74.41,Freelancing
+,20.0,,9.0,,9.0,,No,JavaScript,,Freelancing
+ID_1384,21.0,,21.0,,,83.17,No,R,,Undecided
+ID_2153,22.0,Freshman,23.0,Group-study,5.0,55.91,Yes,Java,68.56,Undecided
+ID_2076,18.0,Senior,31.0,Self-study,7.0,70.07,Yes,Python,86.01,Undecided
+ID_1729,,Junior,38.0,,5.0,89.66,No,Python,83.8,Undecided
+ID_1246,18.0,,15.0,Self-study,3.0,,No,R,85.28,Freelancing
+ID_1835,19.0,Freshman,16.0,Group-study,12.0,59.3,No,Python,74.46,Higher education
+ID_1202,21.0,,,Lecture,,,Yes,JavaScript,69.15,Undecided
+ID_1122,,Freshman,15.0,Lecture,5.0,60.49,No,Java,61.1,Higher education
+ID_1400,18.0,Senior,32.0,Group-study,13.0,,Yes,Python,91.23,Employment
+ID_1766,24.0,Senior,9.0,Practical,14.0,98.48,Yes,Python,80.42,Employment
+ID_1293,18.0,Freshman,21.0,,12.0,86.74,Yes,,72.22,Undecided
+ID_1279,22.0,Junior,24.0,Lecture,3.0,84.98,,C++,,Employment
+ID_1883,,Freshman,16.0,Self-study,7.0,,No,C++,52.39,Higher education
+ID_1197,20.0,Senior,10.0,Practical,8.0,55.79,No,Java,92.51,Higher education
+ID_1981,19.0,Freshman,21.0,Self-study,0.0,85.3,Yes,JavaScript,,Employment
+ID_1751,21.0,Senior,23.0,Practical,12.0,75.18,No,JavaScript,94.35,
+ID_1143,24.0,Freshman,30.0,Practical,3.0,,Yes,JavaScript,90.52,
+,23.0,Junior,36.0,Self-study,3.0,75.41,Yes,Java,68.72,Higher education
+,20.0,Junior,10.0,Group-study,1.0,81.01,,Java,61.57,Freelancing
+ID_1186,,Freshman,15.0,Practical,5.0,73.89,Yes,C++,86.74,Undecided
+ID_1463,19.0,Freshman,37.0,,2.0,73.91,Yes,Python,65.23,
+ID_1659,19.0,Junior,28.0,Self-study,6.0,88.4,Yes,R,58.8,Employment
+ID_1763,23.0,Senior,27.0,Group-study,,81.43,No,,89.33,Employment
+ID_1954,22.0,Junior,,Practical,,81.66,Yes,Python,65.63,Freelancing
+ID_1402,21.0,Senior,31.0,Practical,10.0,72.51,No,,95.72,Undecided
+ID_1146,22.0,Freshman,15.0,Group-study,4.0,76.56,Yes,,92.03,Higher education
+ID_2171,21.0,Freshman,21.0,Practical,3.0,,No,,92.38,Employment
+ID_1863,22.0,,18.0,Group-study,4.0,91.3,No,R,88.58,Undecided
+ID_1488,22.0,Freshman,31.0,Group-study,7.0,84.83,No,C++,94.04,Undecided
+ID_1928,18.0,Senior,22.0,Self-study,2.0,,No,Java,90.29,Employment
+,19.0,,32.0,Lecture,13.0,,Yes,R,80.13,Employment
+ID_1337,,Junior,8.0,Group-study,6.0,78.09,Yes,Java,64.79,Undecided
+ID_1871,,Sophomore,11.0,Self-study,14.0,83.57,Yes,C++,94.41,Higher education
+ID_1640,22.0,Senior,39.0,Lecture,13.0,96.32,Yes,Python,92.03,Freelancing
+,20.0,Junior,13.0,Practical,5.0,80.96,No,,73.64,Employment
+,19.0,Senior,12.0,Lecture,11.0,91.24,No,JavaScript,51.95,
+ID_1262,20.0,Junior,21.0,Group-study,0.0,84.44,No,C++,81.93,Undecided
+ID_1143,19.0,Junior,,Group-study,12.0,77.6,Yes,JavaScript,52.53,Freelancing
+ID_1345,20.0,Junior,37.0,Group-study,6.0,62.09,No,Java,96.31,Higher education
+ID_1623,22.0,Junior,36.0,Group-study,13.0,71.3,Yes,JavaScript,98.08,Undecided
+ID_2016,22.0,Senior,12.0,Group-study,12.0,98.39,No,C++,59.47,Higher education
+ID_1880,18.0,,23.0,Self-study,6.0,82.89,No,C++,83.82,Undecided
+ID_1001,23.0,Junior,7.0,Group-study,13.0,78.22,No,Java,54.61,Higher education
+ID_1896,20.0,Sophomore,9.0,Self-study,14.0,96.65,No,,86.48,Undecided
+ID_1253,21.0,Freshman,17.0,Practical,11.0,79.33,No,JavaScript,67.36,Higher education
+ID_1452,18.0,Freshman,35.0,Group-study,0.0,,Yes,Python,84.05,Undecided
+ID_2060,20.0,Sophomore,20.0,Group-study,8.0,87.97,,R,68.64,Higher education
+,20.0,Sophomore,36.0,Lecture,5.0,85.63,Yes,C++,57.28,Undecided
+ID_2014,18.0,Senior,26.0,Practical,,,Yes,Python,70.31,Higher education
+ID_1008,22.0,Senior,33.0,Group-study,,73.57,Yes,C++,55.63,Employment
+ID_2122,20.0,,26.0,Group-study,1.0,73.63,Yes,Python,78.84,Freelancing
+ID_1815,22.0,Sophomore,7.0,Practical,4.0,68.91,Yes,R,52.05,Undecided
+ID_1207,,Sophomore,14.0,Self-study,12.0,75.86,,Python,76.37,Higher education
+ID_2154,22.0,Junior,25.0,Group-study,10.0,70.66,Yes,C++,,Employment
+ID_1403,19.0,Senior,20.0,Lecture,3.0,59.97,Yes,,91.89,Undecided
+,21.0,Senior,16.0,Group-study,6.0,70.62,No,C++,94.14,
+ID_1053,24.0,Senior,6.0,Lecture,7.0,53.61,No,Java,96.1,
+ID_2143,20.0,Freshman,28.0,Lecture,10.0,78.79,Yes,,55.23,Freelancing
+ID_1627,,,39.0,Group-study,13.0,92.68,Yes,Java,56.44,Higher education
+ID_1586,,Senior,34.0,Group-study,14.0,86.26,Yes,Java,,Higher education
+ID_1103,24.0,Senior,34.0,Lecture,,68.02,No,R,94.7,Undecided
+ID_1253,22.0,Senior,39.0,Practical,0.0,54.35,,JavaScript,98.72,
+ID_2135,20.0,Freshman,23.0,Practical,4.0,60.11,Yes,JavaScript,52.31,Undecided
+,,Freshman,12.0,Group-study,14.0,77.27,Yes,C++,67.79,Employment
+ID_1098,19.0,Sophomore,30.0,Self-study,2.0,60.35,No,Python,60.64,Undecided
+,18.0,Junior,,Practical,0.0,,No,C++,87.8,Freelancing
+ID_1913,20.0,,34.0,Group-study,,61.58,Yes,C++,82.01,Higher education
+ID_1877,24.0,Junior,11.0,Practical,2.0,92.45,,C++,55.99,
+ID_1337,24.0,Freshman,7.0,Self-study,13.0,69.86,,C++,74.18,Undecided
+ID_1821,19.0,Senior,5.0,Group-study,5.0,62.28,Yes,,84.27,Employment
+ID_2186,19.0,Sophomore,29.0,Self-study,13.0,90.62,No,Python,88.95,Undecided
+ID_1956,20.0,Senior,5.0,Group-study,6.0,67.14,No,C++,,Undecided
+ID_1160,22.0,Sophomore,19.0,Self-study,7.0,55.57,Yes,JavaScript,94.52,Undecided
+ID_1800,23.0,Freshman,17.0,Practical,12.0,78.52,,C++,78.46,Undecided
+ID_1397,24.0,Freshman,,Practical,10.0,79.08,Yes,Java,90.6,Undecided
+ID_1815,24.0,Freshman,9.0,Self-study,3.0,85.73,No,C++,90.4,Higher education
+ID_2158,19.0,Sophomore,13.0,Self-study,2.0,62.01,Yes,,59.49,Freelancing
+ID_1400,21.0,Junior,5.0,Self-study,,72.19,Yes,R,55.51,Employment
+ID_1639,19.0,Sophomore,39.0,Group-study,,64.12,Yes,Java,86.06,Undecided
+ID_2056,23.0,Junior,6.0,,12.0,54.05,No,Python,57.82,Employment
+ID_1687,22.0,Sophomore,27.0,Group-study,5.0,93.83,,C++,92.5,Higher education
+ID_1459,22.0,Sophomore,13.0,Practical,14.0,86.44,No,Python,86.31,Freelancing
+ID_1954,21.0,Freshman,38.0,Lecture,8.0,65.07,Yes,Java,92.09,Undecided
+ID_1469,24.0,Senior,18.0,,14.0,79.97,Yes,C++,,Higher education
+ID_2045,19.0,Senior,,Practical,5.0,,Yes,R,65.83,Higher education
+ID_1749,22.0,Junior,34.0,Practical,1.0,94.51,No,JavaScript,83.56,Freelancing
+ID_1037,,Senior,35.0,Group-study,12.0,55.75,Yes,R,51.57,Undecided
+ID_1229,20.0,,,Group-study,4.0,50.19,Yes,,86.32,Freelancing
+ID_1562,,Sophomore,39.0,Practical,11.0,,No,JavaScript,91.79,Freelancing
+ID_1437,18.0,Freshman,12.0,Group-study,10.0,79.16,No,JavaScript,70.76,Employment
+ID_1026,18.0,Freshman,7.0,Self-study,8.0,78.95,,JavaScript,88.24,Employment
+ID_1225,,Senior,18.0,,7.0,52.73,Yes,C++,58.73,Freelancing
+ID_1797,19.0,,17.0,Group-study,6.0,65.7,No,Python,66.11,Employment
+ID_1283,21.0,Senior,36.0,Group-study,0.0,,Yes,Python,98.72,Higher education
+ID_1878,,Senior,38.0,Practical,3.0,60.83,,JavaScript,99.32,Freelancing
+ID_1959,20.0,Senior,23.0,Self-study,,93.63,No,R,75.63,Undecided
+,,Senior,20.0,Lecture,6.0,54.36,No,Java,96.71,Undecided
+ID_2019,20.0,,6.0,Lecture,,74.37,Yes,JavaScript,76.14,Higher education
+ID_1815,23.0,Junior,21.0,Self-study,6.0,84.57,Yes,R,64.58,Undecided
+ID_1658,24.0,Sophomore,38.0,Self-study,14.0,63.09,Yes,R,63.34,Undecided
+ID_1546,19.0,Junior,20.0,Self-study,5.0,81.21,,C++,96.48,Freelancing
+ID_2072,18.0,Freshman,6.0,Practical,7.0,91.47,Yes,C++,58.62,Higher education
+ID_1016,,Senior,6.0,Lecture,10.0,59.52,Yes,Python,78.98,Freelancing
+ID_2195,24.0,Sophomore,30.0,,12.0,95.86,Yes,,77.78,Higher education
+ID_1157,21.0,Junior,17.0,Practical,5.0,77.68,Yes,Java,86.98,Freelancing
+ID_1476,21.0,Freshman,35.0,,9.0,64.96,Yes,,74.96,Freelancing
+ID_2069,24.0,Freshman,38.0,Group-study,2.0,71.54,No,Java,63.61,Employment
+ID_1517,23.0,Senior,7.0,Practical,3.0,65.61,No,Java,58.47,
+ID_1098,22.0,Junior,12.0,Lecture,13.0,86.26,Yes,R,81.04,Higher education
+ID_2060,22.0,Sophomore,27.0,Practical,,,Yes,R,85.95,Undecided
+,23.0,,18.0,Lecture,0.0,91.65,,Python,,Employment
+ID_1496,21.0,Sophomore,,Lecture,14.0,99.29,Yes,C++,86.92,Higher education
+ID_1301,21.0,Freshman,33.0,,9.0,89.56,No,C++,57.08,Employment
+ID_1180,,,5.0,Practical,4.0,80.07,No,JavaScript,94.12,Undecided
+ID_1606,19.0,Sophomore,21.0,Self-study,14.0,66.96,Yes,R,79.12,Freelancing
+ID_2122,21.0,Senior,34.0,Group-study,0.0,77.23,No,Java,56.34,Employment
+ID_1699,20.0,Sophomore,17.0,,0.0,52.05,No,Java,73.1,
+ID_1992,18.0,Senior,25.0,Lecture,1.0,,Yes,,92.24,Freelancing
+ID_2139,21.0,,23.0,Self-study,,72.3,Yes,C++,94.88,Undecided
+ID_1190,23.0,Senior,23.0,Practical,3.0,,Yes,Java,,
+ID_1252,18.0,Senior,29.0,Self-study,5.0,53.13,Yes,C++,85.56,Undecided
+ID_1980,19.0,Junior,,Self-study,7.0,69.37,No,JavaScript,55.0,Freelancing
+ID_1927,23.0,Sophomore,35.0,Self-study,12.0,79.17,Yes,,51.68,
+ID_2184,18.0,Freshman,,Self-study,2.0,73.21,No,C++,78.02,Employment
+ID_1127,23.0,Senior,27.0,,0.0,80.96,Yes,C++,84.74,Undecided
+ID_1017,19.0,Freshman,36.0,Lecture,2.0,74.01,No,Java,89.79,Freelancing
+,20.0,Junior,14.0,Lecture,11.0,83.09,Yes,Python,67.01,Freelancing
+ID_1569,19.0,Sophomore,14.0,Group-study,,60.96,,R,50.33,Employment
+ID_1685,19.0,Senior,12.0,Lecture,4.0,55.64,No,C++,73.98,
+ID_1625,23.0,Sophomore,24.0,Group-study,10.0,79.82,No,,50.79,Employment
+ID_1853,24.0,Junior,36.0,Group-study,11.0,74.23,No,C++,54.6,Undecided
+ID_1961,22.0,Junior,18.0,Practical,11.0,51.34,,Python,66.33,Freelancing
+ID_1154,,Freshman,,Self-study,3.0,69.02,No,JavaScript,71.86,Higher education
+,21.0,Senior,28.0,Lecture,12.0,55.31,No,Java,63.97,Undecided
+ID_1784,20.0,Freshman,19.0,Practical,,76.57,No,Python,79.09,Employment
+ID_2127,20.0,,26.0,Lecture,8.0,69.79,No,C++,52.77,Freelancing
+ID_1245,21.0,Sophomore,34.0,Group-study,6.0,80.66,No,Python,57.23,Employment
+ID_2199,22.0,,8.0,Lecture,3.0,90.28,No,Python,84.76,Higher education
+ID_2062,,Freshman,17.0,Self-study,2.0,64.98,No,Python,57.11,Higher education
+ID_1758,24.0,Sophomore,27.0,Group-study,5.0,98.11,No,JavaScript,81.99,Higher education
+ID_1537,22.0,Freshman,12.0,Group-study,2.0,76.78,,R,,Higher education
+,20.0,Sophomore,22.0,,5.0,80.91,Yes,Java,70.37,Higher education
+ID_1407,,Senior,16.0,Self-study,10.0,84.03,Yes,JavaScript,58.87,Employment
+ID_1524,23.0,Sophomore,35.0,Group-study,12.0,83.34,No,JavaScript,55.48,Higher education
+ID_1827,24.0,Senior,18.0,Self-study,10.0,75.55,Yes,R,78.35,Higher education
+,,Sophomore,38.0,,12.0,71.44,Yes,JavaScript,,Freelancing
+ID_1035,20.0,Junior,22.0,Self-study,12.0,52.69,No,,52.74,Higher education
+,20.0,Junior,38.0,,,,No,Python,71.08,Freelancing
+ID_1019,19.0,Senior,15.0,Practical,8.0,67.9,No,C++,85.38,Freelancing
+ID_1320,24.0,Senior,16.0,Group-study,5.0,66.68,No,JavaScript,73.13,Freelancing
+ID_1511,19.0,Junior,19.0,Self-study,11.0,69.38,No,C++,90.32,Employment
+ID_1399,19.0,Senior,35.0,Self-study,3.0,56.92,No,Java,58.98,Employment
+ID_1653,,Sophomore,33.0,Group-study,14.0,,Yes,Python,97.98,Undecided
+ID_1971,,Sophomore,30.0,,4.0,,No,Java,69.26,
+,22.0,Junior,22.0,Lecture,12.0,96.94,Yes,R,67.08,Freelancing
+ID_2166,21.0,Freshman,36.0,,,,No,Python,93.73,Employment
+ID_2115,,Sophomore,,Practical,10.0,85.04,No,Java,78.19,Higher education
+ID_1833,20.0,Senior,21.0,Group-study,2.0,92.78,Yes,R,75.82,Undecided
+ID_1726,22.0,Freshman,27.0,Lecture,7.0,70.91,No,Java,86.35,Employment
+ID_1853,18.0,Freshman,28.0,,,65.47,No,R,78.99,Higher education
+ID_1050,24.0,Sophomore,12.0,Lecture,7.0,96.84,Yes,R,58.13,Higher education
+ID_1574,24.0,Sophomore,10.0,Lecture,9.0,75.78,No,Python,83.71,Employment
+ID_2148,24.0,Freshman,9.0,Lecture,9.0,74.86,Yes,C++,56.67,Undecided
+ID_1149,22.0,Freshman,33.0,Practical,2.0,58.92,No,R,,Employment
+ID_1313,22.0,Junior,32.0,Self-study,9.0,55.41,No,R,99.49,Undecided
+ID_1569,20.0,Senior,15.0,Lecture,6.0,92.11,Yes,Python,68.87,Freelancing
+ID_1304,21.0,Junior,5.0,Lecture,10.0,80.71,No,C++,72.24,Employment
+ID_1681,19.0,Sophomore,23.0,,12.0,66.29,Yes,JavaScript,52.32,Employment
+ID_1837,24.0,Junior,13.0,Practical,11.0,59.59,,JavaScript,,Undecided
+ID_2077,,Junior,31.0,Practical,8.0,77.77,Yes,C++,96.07,Undecided
+ID_2002,21.0,Junior,38.0,Self-study,3.0,79.2,No,Java,56.43,Employment
+ID_1443,23.0,Junior,8.0,Practical,7.0,60.35,No,Python,72.29,Higher education
+ID_1612,20.0,Senior,22.0,Group-study,,92.57,Yes,C++,90.77,Higher education
+ID_1992,,Senior,19.0,Group-study,,54.21,No,JavaScript,94.47,Higher education
+ID_1263,20.0,Freshman,17.0,Self-study,2.0,67.8,,R,75.97,Freelancing
+ID_2076,18.0,Sophomore,23.0,Group-study,11.0,84.02,,JavaScript,78.25,Freelancing
+ID_2003,23.0,Junior,10.0,Lecture,14.0,63.71,Yes,R,83.48,Undecided
+ID_1004,,Freshman,16.0,Lecture,,91.38,No,,98.07,Freelancing
+ID_2126,21.0,Freshman,21.0,Group-study,6.0,86.99,Yes,R,,Higher education
+ID_1773,22.0,Freshman,27.0,Self-study,13.0,89.45,No,C++,77.97,Employment
+ID_1876,22.0,Senior,30.0,,10.0,55.96,No,R,50.73,Freelancing
+ID_1991,24.0,Junior,33.0,Self-study,9.0,57.03,Yes,Java,54.05,Freelancing
+ID_1883,22.0,Junior,37.0,Practical,9.0,64.32,No,C++,78.86,Higher education
+ID_1046,20.0,Sophomore,31.0,Group-study,10.0,75.9,Yes,Python,96.81,Freelancing
+ID_1866,21.0,Junior,29.0,Group-study,10.0,87.4,No,C++,93.33,Undecided
+ID_1822,23.0,,14.0,Lecture,5.0,91.83,Yes,Java,99.13,Employment
+ID_1935,20.0,Freshman,27.0,Practical,1.0,85.22,No,Python,76.39,Higher education
+,18.0,Sophomore,25.0,Self-study,10.0,96.43,No,JavaScript,89.4,Undecided
+ID_1268,,Junior,25.0,Group-study,2.0,86.94,No,Java,,Higher education
+ID_1369,,,17.0,,5.0,65.31,Yes,Python,82.4,Undecided
+ID_1635,20.0,Junior,37.0,Lecture,13.0,63.25,Yes,R,66.94,Employment
+ID_2129,18.0,,28.0,Practical,3.0,84.81,Yes,C++,73.5,Employment
+ID_1656,19.0,Senior,15.0,Practical,5.0,59.64,No,Python,92.9,Undecided
+ID_1119,,Freshman,21.0,Group-study,0.0,54.64,Yes,C++,64.93,Undecided
+ID_1830,23.0,Junior,8.0,,9.0,76.61,Yes,R,96.19,Undecided
+ID_2081,24.0,Senior,29.0,Group-study,11.0,91.08,Yes,Python,61.49,Undecided
+,19.0,Sophomore,34.0,Lecture,0.0,55.07,Yes,JavaScript,,Undecided
+ID_1116,22.0,Sophomore,13.0,Practical,,89.59,Yes,Java,81.53,Undecided
+ID_1790,20.0,,25.0,Group-study,7.0,,Yes,Python,87.48,Employment
+ID_2150,18.0,Senior,24.0,Self-study,,74.11,Yes,R,71.87,Undecided
+ID_2012,18.0,Freshman,23.0,Group-study,10.0,52.87,Yes,Python,96.63,Freelancing
+ID_2081,,Senior,23.0,Practical,3.0,58.73,Yes,C++,81.62,Employment
+ID_1633,19.0,Freshman,16.0,Lecture,,85.37,Yes,,64.41,Higher education
+ID_1512,24.0,Junior,21.0,Practical,14.0,85.59,No,JavaScript,81.92,Employment
+ID_1801,21.0,Freshman,32.0,Practical,7.0,94.92,No,Python,64.34,Higher education
+ID_2119,20.0,,39.0,Group-study,6.0,79.13,Yes,Java,,Higher education
+ID_2141,21.0,Senior,22.0,Self-study,10.0,56.21,No,Python,69.98,Freelancing
+ID_1559,23.0,,18.0,Practical,6.0,56.07,No,,92.62,Undecided
+ID_1487,18.0,Senior,39.0,Self-study,12.0,86.06,Yes,Python,75.01,Undecided
+ID_1896,18.0,Senior,11.0,,3.0,59.19,Yes,JavaScript,83.95,Employment
+ID_1703,22.0,,17.0,Self-study,8.0,66.42,Yes,R,69.6,Undecided
+ID_1580,22.0,Sophomore,22.0,Group-study,11.0,74.36,No,Python,63.18,Freelancing
+ID_1789,24.0,,17.0,Lecture,9.0,,Yes,Python,97.73,Employment
+ID_1860,20.0,Freshman,35.0,Self-study,5.0,62.44,No,Java,80.18,
+ID_1246,23.0,Sophomore,6.0,Self-study,13.0,70.39,Yes,JavaScript,96.7,Employment
+ID_2099,19.0,Freshman,20.0,Lecture,11.0,63.98,No,R,60.17,Undecided
+ID_1153,21.0,Senior,13.0,Self-study,10.0,56.82,No,C++,,Undecided
+ID_1996,24.0,Sophomore,13.0,Lecture,2.0,86.4,Yes,Python,92.79,Undecided
+ID_2109,20.0,Junior,15.0,Practical,4.0,90.66,Yes,R,84.05,Employment
+ID_1696,22.0,Junior,26.0,Group-study,,62.87,No,C++,59.33,Employment
+ID_2092,,Junior,37.0,Lecture,,88.72,No,JavaScript,63.47,Higher education
+,,Sophomore,27.0,Self-study,4.0,69.28,,JavaScript,90.03,Higher education
+ID_2008,21.0,Freshman,38.0,Lecture,7.0,75.33,Yes,R,,Undecided
+ID_1093,19.0,Senior,13.0,Self-study,8.0,92.8,No,C++,83.53,Employment
+ID_1957,,Freshman,28.0,Practical,12.0,87.5,Yes,JavaScript,,Undecided
+ID_2011,21.0,Freshman,12.0,Lecture,8.0,90.26,No,R,69.06,Undecided
+ID_1452,23.0,Senior,11.0,,12.0,56.84,Yes,JavaScript,99.54,Higher education
+ID_1911,,Senior,22.0,Group-study,5.0,53.49,Yes,JavaScript,62.38,Freelancing
+ID_1217,18.0,,7.0,,5.0,94.67,Yes,JavaScript,75.32,Undecided
+ID_1473,23.0,Sophomore,32.0,Self-study,8.0,,No,Java,92.22,
+ID_1431,23.0,Sophomore,10.0,Practical,3.0,64.39,Yes,C++,61.96,Freelancing
+ID_1340,24.0,Sophomore,25.0,Group-study,5.0,,No,R,70.76,Employment
+ID_1550,18.0,Sophomore,32.0,Lecture,3.0,91.82,,R,80.75,Employment
+,23.0,Senior,5.0,Lecture,10.0,,No,C++,74.06,Undecided
+ID_1022,21.0,Freshman,25.0,Self-study,0.0,65.8,No,C++,72.98,Higher education
+ID_1521,21.0,Sophomore,39.0,Practical,6.0,92.61,Yes,C++,68.13,Higher education
+ID_2123,21.0,,17.0,Practical,13.0,,No,C++,79.33,Undecided
+ID_1801,18.0,Freshman,14.0,Lecture,9.0,52.48,No,Python,81.22,Undecided
+ID_1761,23.0,Sophomore,14.0,Group-study,10.0,81.18,No,R,82.66,Higher education
+ID_1441,18.0,Freshman,17.0,,11.0,53.16,No,Python,,Freelancing
+ID_1768,21.0,Freshman,28.0,Lecture,5.0,66.23,Yes,,81.55,Undecided
+ID_2015,,Senior,6.0,Lecture,8.0,,Yes,JavaScript,97.66,Freelancing
+ID_1515,23.0,Junior,26.0,Practical,6.0,66.86,Yes,R,,Undecided
+ID_2039,23.0,Senior,21.0,Group-study,12.0,58.98,No,,85.76,Undecided
+ID_1791,22.0,Junior,18.0,Lecture,6.0,64.07,No,C++,77.84,Freelancing
+ID_1335,22.0,Junior,14.0,Lecture,,72.88,Yes,Python,92.74,Freelancing
+ID_1257,19.0,Junior,39.0,Self-study,11.0,73.77,Yes,C++,96.48,Higher education
+ID_1496,20.0,Sophomore,29.0,Lecture,10.0,89.15,No,JavaScript,59.21,
+,22.0,Senior,7.0,Lecture,14.0,87.51,Yes,Python,71.84,
+ID_1159,18.0,Junior,21.0,Group-study,8.0,72.84,Yes,C++,69.62,Employment
+ID_1851,22.0,Freshman,16.0,Practical,9.0,92.28,No,R,70.26,
+ID_1689,19.0,Sophomore,28.0,Group-study,8.0,55.71,Yes,C++,56.28,Undecided
+,,Senior,33.0,Practical,5.0,62.77,No,JavaScript,90.68,Undecided
+ID_1956,19.0,Junior,29.0,Self-study,12.0,91.4,Yes,Python,51.79,Freelancing
+ID_1690,,Freshman,30.0,Lecture,2.0,,No,R,76.41,Employment
+ID_2191,24.0,Senior,5.0,Self-study,,99.06,No,Python,,Employment
+ID_2066,24.0,Senior,24.0,Practical,3.0,73.31,No,R,60.37,Employment
+ID_1284,23.0,Sophomore,32.0,Group-study,13.0,89.6,No,Python,95.29,
+ID_1396,,Senior,20.0,Group-study,13.0,70.12,No,JavaScript,91.93,Freelancing
+ID_1011,22.0,Sophomore,21.0,Self-study,2.0,71.25,Yes,R,,
+ID_1498,18.0,Junior,32.0,Practical,13.0,,Yes,Java,70.56,Higher education
+,18.0,Sophomore,16.0,Self-study,11.0,85.95,Yes,,61.83,Higher education
+ID_1034,,Freshman,31.0,Self-study,0.0,77.38,No,Python,86.5,Employment
+ID_1726,23.0,Sophomore,34.0,Lecture,,97.19,,C++,56.59,Undecided
+ID_1848,18.0,Freshman,38.0,Self-study,13.0,62.54,No,R,84.01,Higher education
+ID_1089,,Sophomore,10.0,Lecture,13.0,55.03,,Java,92.12,
+ID_1775,23.0,Senior,11.0,Lecture,3.0,69.66,Yes,JavaScript,61.42,Undecided
+ID_1604,20.0,Junior,,Group-study,12.0,80.84,No,C++,93.32,Freelancing
+,18.0,,36.0,Lecture,12.0,93.04,Yes,Java,51.67,Undecided
+ID_2021,18.0,,29.0,Lecture,,67.31,,R,95.64,Undecided
+ID_1417,21.0,Sophomore,37.0,Group-study,,,No,Java,55.92,Freelancing
+ID_1114,18.0,Sophomore,11.0,Self-study,7.0,67.51,Yes,Python,82.29,Employment
+ID_1616,23.0,Senior,16.0,Practical,8.0,80.86,No,Python,62.5,
+ID_1825,24.0,Senior,20.0,Practical,2.0,,Yes,C++,91.83,Employment
+ID_2098,23.0,Freshman,20.0,Practical,5.0,61.57,No,R,75.62,Freelancing
+,23.0,Freshman,17.0,Self-study,9.0,70.21,Yes,R,56.76,Higher education
+ID_1728,21.0,Senior,11.0,Lecture,10.0,99.66,No,,78.55,Freelancing
+ID_2020,21.0,Freshman,13.0,Practical,14.0,93.43,Yes,C++,70.39,Undecided
+ID_1760,18.0,,36.0,Self-study,4.0,78.23,Yes,R,83.07,Freelancing
+ID_1675,19.0,Junior,15.0,Lecture,5.0,75.83,,Python,94.1,Higher education
+ID_1456,19.0,Senior,12.0,Group-study,,64.23,,Java,70.47,Higher education
+ID_1919,21.0,Freshman,37.0,Practical,9.0,75.86,No,JavaScript,64.49,Undecided
+ID_1191,18.0,Sophomore,27.0,Lecture,5.0,92.41,No,Python,50.73,Employment
+ID_1738,19.0,Junior,29.0,,6.0,84.26,Yes,,78.74,Higher education
+ID_2122,18.0,Senior,12.0,Practical,8.0,64.5,Yes,R,70.11,Higher education
+ID_1977,18.0,,26.0,Practical,9.0,60.07,Yes,Python,68.73,Higher education
+ID_2008,18.0,Senior,,Lecture,6.0,63.26,Yes,JavaScript,59.15,Undecided
+ID_1095,22.0,Sophomore,,Self-study,5.0,58.49,Yes,,71.5,Higher education
+ID_1662,23.0,Junior,33.0,Lecture,0.0,54.78,No,C++,99.22,Employment
+ID_1036,,Senior,,Practical,1.0,70.96,Yes,Python,64.89,Undecided
+ID_1278,22.0,Senior,38.0,Lecture,0.0,55.66,No,Java,79.99,Employment
+ID_1216,21.0,Senior,38.0,Group-study,8.0,58.6,Yes,Python,88.82,Higher education
+ID_1866,19.0,Sophomore,,Self-study,9.0,77.37,Yes,JavaScript,87.46,Higher education
+ID_1872,23.0,Senior,17.0,Lecture,9.0,58.23,,C++,66.44,Employment
+ID_1061,24.0,Sophomore,19.0,Group-study,8.0,,No,C++,80.54,Undecided
+ID_1595,19.0,Sophomore,27.0,Self-study,6.0,65.87,,Java,93.56,Undecided
+ID_1728,23.0,Sophomore,30.0,Group-study,,61.02,No,C++,,Employment
+ID_1396,24.0,Junior,,Self-study,1.0,75.77,No,C++,71.79,Higher education
+ID_1698,19.0,Junior,30.0,Lecture,5.0,55.12,,C++,61.21,Freelancing
+,23.0,Senior,13.0,Group-study,10.0,87.59,Yes,C++,69.43,Employment
+ID_1176,19.0,Senior,9.0,Practical,3.0,95.31,No,,70.8,Employment
+ID_1395,19.0,Junior,36.0,Group-study,0.0,87.17,Yes,JavaScript,87.33,Employment
+ID_1444,,,24.0,Self-study,0.0,76.64,,,54.69,Higher education
+ID_1075,19.0,Junior,15.0,Lecture,11.0,93.03,Yes,R,,Undecided
+ID_1264,19.0,,19.0,Self-study,4.0,84.75,No,C++,78.21,Higher education
+ID_1454,24.0,Junior,36.0,Group-study,11.0,50.53,Yes,,74.71,Employment
+ID_1717,21.0,Sophomore,32.0,Group-study,1.0,69.7,Yes,R,86.59,Higher education
+ID_1734,,Senior,26.0,Practical,3.0,92.55,Yes,,69.19,
+ID_1850,20.0,Freshman,21.0,Lecture,0.0,67.29,No,,97.25,Employment
+ID_1143,22.0,Senior,30.0,Lecture,3.0,,No,R,74.09,Higher education
+ID_1884,20.0,Sophomore,11.0,Group-study,10.0,87.31,Yes,C++,78.56,Freelancing
+ID_2092,20.0,Sophomore,30.0,Lecture,5.0,90.1,No,,91.28,Higher education
+,23.0,Sophomore,29.0,Practical,9.0,58.03,,Java,63.76,
+ID_1395,18.0,Freshman,,Self-study,3.0,76.87,No,Java,53.76,
+ID_2048,23.0,Junior,23.0,Lecture,0.0,59.6,No,R,85.39,Undecided
+ID_1947,18.0,Senior,15.0,Group-study,6.0,85.96,,,74.15,Employment
+ID_1890,24.0,,17.0,Self-study,13.0,63.58,,JavaScript,94.83,Employment
+ID_2174,24.0,Junior,,Self-study,1.0,65.81,No,JavaScript,99.13,Undecided
+ID_2167,18.0,Senior,8.0,Practical,8.0,92.25,Yes,R,69.96,Freelancing
+ID_1568,19.0,Freshman,35.0,Group-study,12.0,73.82,Yes,C++,70.77,Higher education
+ID_2062,21.0,Senior,32.0,Lecture,2.0,83.49,No,Python,70.4,Freelancing
+ID_1108,19.0,Sophomore,15.0,Group-study,7.0,70.12,Yes,C++,66.23,Freelancing
+ID_2065,21.0,Junior,5.0,Self-study,12.0,64.9,Yes,C++,89.08,Undecided
+ID_1934,23.0,Freshman,,Group-study,7.0,81.27,Yes,C++,87.95,Employment
+ID_1397,21.0,Junior,35.0,Lecture,2.0,57.74,No,C++,,Higher education
+ID_1633,23.0,Freshman,30.0,Lecture,3.0,,No,Python,52.23,Employment
+,24.0,,9.0,Practical,1.0,60.45,No,Java,65.48,
+ID_2186,,Junior,24.0,Lecture,3.0,84.79,No,C++,64.62,Freelancing
+ID_1732,24.0,Senior,,Lecture,10.0,97.21,No,JavaScript,90.55,Employment
+ID_1234,24.0,Freshman,37.0,Group-study,10.0,99.78,,,54.38,Employment
+ID_1657,20.0,Junior,31.0,Group-study,10.0,72.51,No,R,90.28,Undecided
+ID_1750,21.0,Senior,,Self-study,,62.63,Yes,JavaScript,83.46,
+ID_1587,21.0,Junior,19.0,Practical,,72.14,No,C++,86.62,Employment
+ID_2032,23.0,Junior,36.0,Group-study,1.0,92.36,Yes,Python,71.61,Undecided
+ID_2097,19.0,Junior,25.0,Lecture,11.0,60.3,No,Java,83.99,Employment
+ID_1953,23.0,,9.0,Self-study,11.0,97.6,No,R,80.45,Freelancing
+ID_1491,19.0,Senior,10.0,Group-study,12.0,67.09,No,Java,88.45,Employment
+ID_1912,24.0,Sophomore,26.0,Practical,2.0,99.29,No,Python,72.34,Higher education
+ID_2197,20.0,Freshman,22.0,Practical,14.0,91.93,No,R,73.64,Freelancing
+ID_2191,24.0,Freshman,,Self-study,10.0,90.43,No,Java,82.18,Undecided
+ID_1169,18.0,Freshman,14.0,Self-study,10.0,65.9,Yes,Python,55.4,Freelancing
+ID_1945,21.0,Sophomore,17.0,Self-study,14.0,50.44,No,Java,71.81,Undecided
+ID_1794,19.0,Senior,35.0,Self-study,3.0,69.11,Yes,C++,98.6,Higher education
+ID_1633,23.0,Senior,,Self-study,4.0,65.09,No,,51.88,
+ID_1028,20.0,Senior,7.0,Lecture,0.0,51.87,Yes,Java,65.8,Freelancing
+ID_2188,19.0,Junior,34.0,Lecture,6.0,75.27,Yes,C++,65.71,Employment
+ID_1338,23.0,Junior,10.0,Group-study,13.0,70.15,Yes,C++,81.67,Freelancing
+ID_1499,21.0,Junior,,Practical,9.0,81.73,Yes,Python,55.29,Freelancing
+ID_1510,24.0,Sophomore,12.0,Lecture,6.0,81.06,Yes,JavaScript,81.43,Higher education
+ID_1216,,Junior,37.0,Lecture,8.0,56.04,Yes,R,,Undecided
+ID_2155,22.0,Sophomore,,Lecture,3.0,,No,Python,54.75,Freelancing
+ID_2093,,Senior,15.0,Group-study,13.0,59.35,Yes,C++,86.41,
+ID_1444,22.0,Junior,,Self-study,13.0,72.26,No,C++,66.21,Higher education
+ID_1875,20.0,Junior,15.0,Group-study,5.0,74.41,No,Python,98.87,
+ID_1166,19.0,,35.0,Practical,10.0,90.65,Yes,JavaScript,51.87,Freelancing
+ID_1090,20.0,Sophomore,32.0,Practical,1.0,54.96,Yes,R,72.26,Employment
+ID_1713,24.0,Senior,10.0,Practical,,71.43,No,Java,55.66,Freelancing
+ID_1038,23.0,Freshman,20.0,Practical,11.0,81.43,Yes,Python,67.57,Freelancing
+ID_2149,21.0,Freshman,8.0,Lecture,13.0,60.76,Yes,R,99.91,Freelancing
+ID_1172,22.0,Senior,39.0,Lecture,3.0,81.37,Yes,R,94.44,Freelancing
+ID_1652,22.0,Freshman,30.0,Group-study,1.0,96.18,,C++,52.42,Employment
+ID_1753,24.0,Sophomore,16.0,Self-study,9.0,99.88,Yes,Java,78.16,Freelancing
+ID_2081,22.0,,,Practical,4.0,51.62,Yes,Python,82.39,Freelancing
+ID_1475,24.0,Junior,29.0,Group-study,14.0,61.78,Yes,C++,60.48,Freelancing
+ID_1455,20.0,Freshman,,,6.0,65.52,No,C++,,Higher education
+ID_1828,,Junior,23.0,Lecture,12.0,69.96,Yes,,95.22,Employment
+,19.0,Freshman,27.0,,0.0,62.11,No,R,98.44,Higher education
+ID_2024,23.0,Sophomore,22.0,Self-study,,60.17,No,Python,99.59,Higher education
+ID_1386,19.0,Sophomore,30.0,Self-study,9.0,97.73,No,Python,89.49,Employment
+ID_1347,20.0,Sophomore,,Group-study,9.0,95.93,No,Python,83.18,Higher education
+,23.0,Freshman,8.0,Lecture,6.0,52.35,Yes,C++,67.29,Higher education
+,22.0,Sophomore,33.0,Lecture,9.0,66.94,No,JavaScript,58.57,Higher education
+ID_1823,18.0,Freshman,38.0,Self-study,12.0,70.26,No,Java,53.95,Employment
+ID_1928,20.0,Junior,21.0,Practical,5.0,61.95,No,C++,84.66,Freelancing
+,20.0,Freshman,,,5.0,,No,Java,89.24,Undecided
+ID_2140,21.0,Junior,6.0,Group-study,11.0,82.02,No,JavaScript,91.32,Undecided
+ID_1133,19.0,Freshman,38.0,Self-study,7.0,92.53,Yes,R,95.69,
+ID_1057,20.0,Junior,12.0,Self-study,7.0,87.04,Yes,Python,,Undecided
+ID_1684,20.0,,17.0,Group-study,5.0,77.13,No,Java,99.99,Employment
+ID_1671,,,,Self-study,2.0,82.68,Yes,C++,62.2,Employment
+ID_1172,22.0,Sophomore,34.0,Lecture,4.0,63.7,Yes,Java,88.17,Undecided
+ID_1814,23.0,Sophomore,36.0,Practical,1.0,79.65,,R,79.32,Higher education
+ID_2172,24.0,Junior,34.0,Self-study,14.0,74.46,No,Python,63.06,Freelancing
+ID_1079,24.0,Freshman,,Group-study,13.0,56.67,No,Java,99.1,Undecided
+ID_1885,18.0,Freshman,21.0,Practical,4.0,62.13,Yes,R,94.89,Undecided
+ID_1202,24.0,,24.0,Group-study,13.0,64.58,No,C++,56.43,Undecided
+ID_1763,21.0,Freshman,28.0,Practical,8.0,96.22,Yes,JavaScript,,Undecided
+ID_1046,18.0,Senior,26.0,Practical,9.0,61.52,Yes,C++,84.42,
+ID_2166,23.0,Freshman,33.0,Self-study,0.0,64.46,Yes,Python,80.21,Employment
+ID_1655,22.0,Freshman,26.0,Lecture,9.0,68.47,No,,96.79,Freelancing
+ID_1470,24.0,Sophomore,13.0,Self-study,4.0,,Yes,C++,61.7,Freelancing
+ID_1970,19.0,Senior,14.0,Group-study,11.0,,No,C++,54.22,Undecided
+,22.0,Freshman,32.0,,5.0,97.7,No,C++,,Undecided
+ID_1735,21.0,Senior,32.0,Practical,13.0,93.28,No,Python,50.95,Undecided
+ID_1783,22.0,Sophomore,25.0,Practical,10.0,78.86,No,R,51.79,Freelancing
+ID_1967,21.0,Sophomore,28.0,Lecture,6.0,83.7,No,Java,95.74,Undecided
+ID_1357,21.0,,6.0,Self-study,8.0,50.83,Yes,JavaScript,67.6,Higher education
+ID_1971,21.0,Sophomore,12.0,Group-study,5.0,66.95,Yes,Java,70.54,Freelancing
+ID_1667,23.0,Junior,31.0,,4.0,,Yes,Java,,Higher education
+ID_1372,21.0,Junior,26.0,Lecture,,53.87,Yes,,63.53,Undecided
+ID_2031,,Sophomore,,Group-study,6.0,64.12,Yes,Python,90.24,Employment
+ID_2145,19.0,Junior,33.0,,12.0,79.26,No,,80.77,Higher education
+ID_1675,18.0,Freshman,7.0,Group-study,0.0,62.82,No,Python,87.69,Freelancing
+ID_1089,20.0,Senior,17.0,Lecture,10.0,96.7,Yes,Java,,Higher education
+ID_1697,18.0,Freshman,14.0,Lecture,13.0,56.55,,Python,,Freelancing
+,21.0,Senior,13.0,Group-study,4.0,89.87,Yes,R,74.14,Undecided
+ID_1731,19.0,Sophomore,31.0,Self-study,14.0,,No,JavaScript,66.15,Higher education
+ID_1868,22.0,Freshman,38.0,Group-study,1.0,87.52,,R,91.95,Employment
+ID_1040,19.0,Sophomore,5.0,Practical,,65.54,No,Java,64.88,Higher education
+ID_1739,21.0,Sophomore,36.0,Self-study,6.0,75.72,Yes,JavaScript,82.99,Employment
+ID_1501,19.0,Senior,29.0,Practical,4.0,92.84,Yes,Java,56.85,Freelancing
+ID_1958,24.0,Senior,33.0,Group-study,11.0,73.34,Yes,R,84.34,Undecided
+ID_2168,19.0,Senior,11.0,Self-study,5.0,67.99,Yes,Java,,Undecided
+ID_1928,21.0,Freshman,7.0,Practical,,76.81,No,JavaScript,80.43,Employment
+ID_1460,23.0,Junior,24.0,,,85.87,,JavaScript,,Freelancing
+ID_1731,24.0,Senior,24.0,Group-study,6.0,72.18,Yes,,,Undecided
+ID_1751,19.0,Senior,34.0,Self-study,10.0,96.94,Yes,JavaScript,81.37,Freelancing
+ID_1924,20.0,Freshman,39.0,Group-study,1.0,64.75,No,JavaScript,62.98,Employment
+ID_1908,20.0,Senior,39.0,Lecture,11.0,73.77,No,Java,64.62,Employment
+ID_1389,19.0,Freshman,31.0,Practical,5.0,87.85,Yes,R,85.27,Higher education
+ID_1882,,Sophomore,30.0,Practical,4.0,,No,JavaScript,86.77,Undecided
+ID_1255,22.0,Senior,18.0,Group-study,9.0,93.18,No,JavaScript,65.17,Undecided
+ID_1708,21.0,Senior,21.0,Group-study,0.0,99.84,No,,67.27,Higher education
+ID_1449,20.0,Sophomore,22.0,Lecture,11.0,71.34,No,JavaScript,99.55,Employment
+ID_1009,22.0,Sophomore,33.0,Self-study,,55.56,No,,55.1,Employment
+ID_1823,19.0,Sophomore,24.0,Group-study,14.0,51.52,,R,70.23,Employment
+,22.0,Senior,31.0,Group-study,9.0,86.34,Yes,R,53.12,Employment
+ID_1876,24.0,,22.0,Group-study,10.0,93.7,Yes,Python,91.05,
+ID_2028,18.0,Junior,8.0,Group-study,3.0,61.04,No,JavaScript,54.62,Undecided
+ID_2142,,Junior,5.0,Practical,10.0,57.92,No,JavaScript,83.7,Undecided
+ID_2015,19.0,Senior,5.0,Group-study,1.0,53.11,No,Python,52.82,
+ID_1373,,Sophomore,30.0,Practical,3.0,91.14,No,R,83.64,Employment
+ID_2088,23.0,Senior,24.0,Group-study,0.0,65.57,Yes,C++,92.15,Employment
+ID_1145,24.0,Sophomore,27.0,Self-study,1.0,70.08,Yes,C++,69.94,Undecided
+ID_1223,,Senior,14.0,Lecture,12.0,75.14,Yes,R,76.11,Undecided
+ID_1176,21.0,Senior,15.0,Self-study,7.0,91.97,Yes,JavaScript,70.08,Employment
+ID_1852,23.0,Sophomore,9.0,Group-study,5.0,82.54,Yes,C++,65.02,Freelancing
+ID_1062,23.0,Junior,,Group-study,1.0,80.75,Yes,Java,,
+ID_1826,19.0,Sophomore,21.0,Group-study,11.0,58.78,No,Java,63.6,Higher education
+ID_1794,24.0,Freshman,26.0,Self-study,,75.66,No,Python,,
+ID_1688,22.0,Freshman,38.0,Group-study,5.0,85.77,Yes,R,60.31,Undecided
+ID_1104,22.0,Sophomore,33.0,Self-study,9.0,98.66,No,R,62.49,Undecided
+ID_2122,23.0,Senior,8.0,Practical,8.0,60.07,Yes,C++,66.82,Higher education
+ID_1510,22.0,Freshman,,Lecture,6.0,50.48,Yes,JavaScript,,Higher education
+ID_1384,18.0,,15.0,Lecture,8.0,53.77,,R,72.72,Freelancing
+ID_1404,23.0,Senior,,Self-study,,68.79,Yes,C++,87.26,Undecided
+ID_1822,23.0,Senior,39.0,Practical,6.0,91.03,Yes,C++,60.68,Undecided
+,21.0,Junior,,Self-study,10.0,50.36,Yes,R,,Higher education
+,22.0,Senior,30.0,Practical,14.0,72.84,No,C++,88.83,Freelancing
+ID_1708,24.0,Sophomore,23.0,,13.0,66.46,No,Python,,Freelancing
+ID_1770,23.0,Sophomore,11.0,Practical,6.0,52.62,No,Python,52.97,Higher education
+,24.0,Junior,11.0,Practical,11.0,72.51,No,R,80.55,Higher education
+ID_1996,18.0,Freshman,30.0,Practical,,62.74,Yes,JavaScript,68.91,Undecided
+ID_1676,21.0,Freshman,9.0,Lecture,2.0,,No,Python,89.69,Higher education
+,19.0,Senior,25.0,Practical,6.0,85.28,No,,93.72,Employment
+ID_1082,24.0,Sophomore,18.0,Group-study,,76.08,No,R,92.55,
+ID_2168,23.0,Freshman,8.0,Group-study,8.0,56.23,Yes,,88.86,
+ID_2108,18.0,Junior,27.0,Group-study,9.0,98.07,No,C++,63.45,Employment
+ID_2101,20.0,Junior,24.0,,12.0,81.8,No,Python,90.59,Freelancing
+ID_1456,18.0,Sophomore,19.0,Self-study,5.0,88.29,Yes,Java,76.67,Employment
+ID_1000,18.0,Junior,33.0,Self-study,4.0,53.96,Yes,JavaScript,52.64,Employment
+ID_1050,21.0,Junior,12.0,Group-study,6.0,52.35,Yes,Java,72.85,Higher education
+,19.0,Sophomore,23.0,Lecture,4.0,50.97,Yes,R,97.11,
+ID_1716,20.0,Senior,32.0,Self-study,9.0,59.44,No,JavaScript,94.39,Employment
+ID_1448,22.0,Senior,31.0,Practical,4.0,70.72,Yes,JavaScript,55.11,
+ID_1880,22.0,Junior,8.0,Self-study,10.0,96.79,No,Java,87.21,Freelancing
+ID_1487,,Senior,19.0,Group-study,9.0,72.85,No,,90.29,Undecided
+ID_1033,18.0,Senior,39.0,Lecture,10.0,64.51,No,Python,63.57,Higher education
+ID_1094,21.0,Junior,5.0,,6.0,78.1,No,Java,73.58,Undecided
+ID_2095,21.0,,7.0,Self-study,9.0,55.6,No,Python,85.55,Freelancing
+ID_1153,22.0,Junior,28.0,Group-study,14.0,80.48,Yes,Java,71.95,Employment
+ID_1249,24.0,Freshman,31.0,,6.0,78.42,No,Python,55.64,Employment
+ID_1673,24.0,Sophomore,38.0,Lecture,12.0,89.6,No,Java,85.29,Freelancing
+ID_1437,24.0,Sophomore,33.0,Group-study,10.0,99.33,No,JavaScript,,Employment
+ID_1117,20.0,Senior,28.0,Practical,14.0,62.54,Yes,C++,82.62,Undecided
+ID_1770,,Senior,28.0,Self-study,2.0,75.48,No,JavaScript,88.69,Employment
+ID_1267,20.0,,8.0,Practical,2.0,95.44,No,Python,67.92,
+ID_2077,23.0,Sophomore,7.0,Self-study,9.0,89.26,Yes,R,59.16,Undecided
+ID_1235,23.0,Freshman,38.0,Self-study,11.0,74.37,No,,82.14,Undecided
+ID_1388,19.0,Freshman,27.0,,12.0,97.27,No,C++,66.39,Undecided
+ID_1989,22.0,Sophomore,27.0,Group-study,14.0,52.86,,Python,,Higher education
+ID_1762,19.0,Freshman,9.0,Group-study,2.0,96.55,No,JavaScript,,Undecided
+ID_1400,21.0,Sophomore,35.0,Self-study,5.0,52.53,No,Java,,Undecided
+ID_1623,23.0,Freshman,10.0,Group-study,11.0,,No,R,69.84,Higher education
+ID_1766,18.0,Junior,14.0,Self-study,,94.52,No,,96.9,Employment
+ID_1918,18.0,Junior,11.0,Group-study,,63.14,No,JavaScript,57.66,Undecided
+,22.0,Sophomore,25.0,Self-study,12.0,73.61,Yes,Python,50.49,Freelancing
+ID_1577,21.0,Freshman,24.0,Group-study,12.0,66.22,Yes,Java,61.9,Undecided
+ID_1074,20.0,Senior,7.0,,2.0,97.61,Yes,C++,91.01,Undecided
+ID_1434,21.0,Freshman,26.0,Practical,2.0,91.18,No,JavaScript,60.47,Higher education
+ID_1102,18.0,Junior,8.0,,7.0,85.45,,Python,62.04,Freelancing
+ID_1763,18.0,Junior,32.0,Practical,7.0,79.38,No,Python,56.49,
+ID_1737,23.0,Freshman,16.0,,6.0,91.03,Yes,Python,85.77,Employment
+ID_1805,21.0,Freshman,9.0,Self-study,9.0,69.61,No,C++,53.46,Freelancing
+ID_1097,21.0,Senior,17.0,Practical,3.0,72.38,No,,66.56,Undecided
+,18.0,Senior,27.0,Lecture,14.0,86.5,No,R,,Higher education
+ID_1858,20.0,Freshman,34.0,,3.0,67.89,Yes,R,77.76,Freelancing
+ID_1434,22.0,Freshman,29.0,Group-study,2.0,53.2,,Python,86.52,Freelancing
+ID_1446,,Freshman,31.0,Lecture,4.0,53.72,No,R,76.64,Employment
+ID_1248,22.0,,18.0,Group-study,2.0,55.77,No,JavaScript,96.55,Higher education
+ID_1165,,Sophomore,20.0,Practical,12.0,,No,R,97.57,Freelancing
+ID_1983,22.0,Freshman,26.0,Lecture,7.0,73.61,Yes,Python,68.07,Higher education
+ID_2019,18.0,Senior,25.0,,6.0,,Yes,Java,88.88,Undecided
+,18.0,Junior,25.0,Lecture,,69.65,Yes,JavaScript,86.94,Employment
+ID_1758,21.0,Sophomore,12.0,Lecture,2.0,62.94,No,,94.65,Undecided
+,21.0,Freshman,20.0,Group-study,8.0,67.36,Yes,Python,72.4,Higher education
+ID_1080,24.0,Junior,35.0,,,89.71,No,C++,76.52,Undecided
+ID_1132,24.0,Sophomore,14.0,Lecture,13.0,81.26,No,Java,70.79,Employment
+ID_1796,23.0,Junior,36.0,Self-study,12.0,96.88,Yes,C++,92.52,Higher education
+ID_1899,21.0,Freshman,38.0,,4.0,83.99,No,Python,61.49,Freelancing
+ID_1137,20.0,Freshman,13.0,Practical,8.0,78.51,Yes,Python,61.99,Undecided
+ID_1183,22.0,Senior,21.0,Practical,6.0,80.51,No,Java,,Employment
+ID_1784,21.0,Freshman,15.0,Group-study,14.0,97.12,No,Python,61.52,Freelancing
+ID_1983,19.0,Freshman,36.0,Self-study,6.0,89.41,Yes,Java,78.05,Employment
+,23.0,Sophomore,14.0,Practical,5.0,51.2,No,Java,56.72,Higher education
+ID_1545,19.0,,26.0,Lecture,1.0,76.71,No,Python,66.01,Higher education
+ID_1052,18.0,Sophomore,21.0,Lecture,8.0,84.42,No,R,95.67,Undecided
+ID_1204,24.0,Junior,8.0,Group-study,5.0,87.43,No,Java,70.46,Employment
+ID_1125,22.0,Freshman,29.0,Lecture,7.0,60.66,No,Python,87.41,Employment
+ID_1042,21.0,Junior,25.0,,,93.36,No,,55.67,Employment
+ID_1110,19.0,Sophomore,5.0,Lecture,4.0,97.79,No,Java,62.38,Higher education
+ID_1760,22.0,Freshman,29.0,Practical,11.0,61.84,No,R,90.37,Undecided
+ID_1847,,Freshman,21.0,Lecture,0.0,94.13,Yes,JavaScript,88.15,Employment
+ID_1094,24.0,Sophomore,28.0,Self-study,9.0,54.85,Yes,JavaScript,,Employment
+,20.0,Sophomore,6.0,,10.0,52.79,No,,97.72,Freelancing
+ID_1359,23.0,Sophomore,19.0,Group-study,13.0,56.46,No,Java,95.53,Employment
+ID_1899,22.0,Sophomore,36.0,Self-study,,52.89,Yes,Python,98.12,
+ID_1280,22.0,,10.0,Self-study,7.0,92.25,No,C++,71.4,
+ID_1666,20.0,Freshman,,Group-study,,52.95,,Python,59.87,Freelancing
+ID_1092,22.0,Sophomore,27.0,Self-study,8.0,63.58,Yes,C++,81.33,Freelancing
+ID_1671,18.0,Freshman,21.0,Practical,1.0,55.19,Yes,,84.24,
+ID_1060,18.0,Freshman,38.0,Lecture,11.0,64.77,No,Java,56.27,Freelancing
+ID_1633,20.0,Sophomore,33.0,Group-study,8.0,54.53,No,R,89.32,Employment
+ID_2074,23.0,Sophomore,13.0,Self-study,0.0,83.4,No,Python,50.9,Higher education
+ID_2028,21.0,Senior,17.0,,11.0,56.67,,R,,Higher education
+,,Freshman,10.0,Group-study,9.0,92.59,Yes,JavaScript,66.55,Higher education
+ID_1681,21.0,Sophomore,10.0,Self-study,13.0,90.86,Yes,Java,87.02,Higher education
+ID_1533,22.0,Sophomore,24.0,Group-study,13.0,50.68,No,Java,65.64,Higher education
+ID_1837,19.0,Sophomore,7.0,Self-study,8.0,94.79,Yes,JavaScript,91.34,Higher education
+,20.0,Senior,21.0,Group-study,3.0,51.45,Yes,Python,79.75,Higher education
+ID_1232,,Senior,16.0,Practical,,61.98,No,JavaScript,89.69,Freelancing
+ID_1523,23.0,Junior,5.0,Practical,6.0,51.62,Yes,Python,99.47,Undecided
+ID_1345,,,21.0,Lecture,10.0,66.79,Yes,C++,83.96,Employment
+ID_2069,,,7.0,Group-study,5.0,75.69,No,Java,,Employment
+ID_1545,19.0,Sophomore,30.0,Lecture,14.0,89.83,No,Python,51.44,Freelancing
+ID_2101,22.0,Senior,19.0,Group-study,4.0,66.9,Yes,R,66.91,
+ID_2096,18.0,Senior,36.0,Self-study,10.0,85.27,No,R,55.39,Higher education
+,24.0,Junior,36.0,Self-study,8.0,59.38,Yes,Java,63.12,
+ID_1248,24.0,,8.0,Lecture,,87.53,,JavaScript,91.94,Higher education
+ID_1046,,,,Group-study,13.0,61.8,Yes,JavaScript,51.62,Freelancing
+ID_2144,,Senior,23.0,Lecture,12.0,57.18,,Python,76.01,
+ID_1213,19.0,Junior,39.0,Practical,10.0,59.27,Yes,JavaScript,78.36,
+ID_1238,24.0,Sophomore,18.0,Lecture,,,,Java,,Employment
+ID_2079,21.0,Junior,37.0,Lecture,11.0,,No,Python,73.76,Higher education
+ID_1349,23.0,Senior,18.0,Self-study,1.0,92.24,No,,89.53,Undecided
+ID_1106,21.0,,38.0,,10.0,53.98,No,JavaScript,56.68,Higher education
+ID_1830,24.0,,,Group-study,11.0,85.35,No,JavaScript,65.53,Higher education
+ID_1047,23.0,Freshman,,Self-study,,82.72,No,Python,80.79,Undecided
+ID_1336,22.0,Senior,33.0,Lecture,8.0,93.63,No,R,84.55,Undecided
+ID_2049,21.0,Senior,23.0,Practical,,62.21,Yes,JavaScript,70.21,Undecided
+ID_1803,,,10.0,Lecture,2.0,72.51,Yes,,93.77,Employment
+ID_1007,19.0,Freshman,37.0,Lecture,7.0,96.29,No,JavaScript,70.77,Higher education
+ID_1624,,Senior,23.0,,10.0,83.0,No,C++,70.14,Freelancing
+ID_1718,24.0,Sophomore,,Self-study,14.0,69.44,Yes,JavaScript,51.81,Undecided
+,,Junior,9.0,Group-study,8.0,56.57,Yes,R,77.56,Undecided
+ID_1638,22.0,Senior,31.0,Practical,7.0,63.12,,JavaScript,85.43,Higher education
+ID_1055,18.0,Sophomore,20.0,Lecture,3.0,79.06,Yes,Python,55.72,Freelancing
+,24.0,Senior,10.0,Group-study,11.0,85.91,Yes,,65.27,Higher education
+ID_1525,22.0,Sophomore,17.0,Group-study,0.0,56.22,No,R,89.06,Higher education
+ID_1473,23.0,Junior,39.0,Self-study,3.0,79.98,No,,68.3,Undecided
+ID_1027,22.0,Senior,23.0,Practical,13.0,,No,Java,62.08,Undecided
+ID_1077,24.0,Senior,16.0,Self-study,8.0,75.7,Yes,Python,83.61,
+ID_1364,23.0,Freshman,20.0,Group-study,1.0,84.51,No,C++,59.84,Freelancing
+ID_1665,24.0,Junior,14.0,Group-study,2.0,,No,Python,94.78,Freelancing
+ID_1525,19.0,Sophomore,29.0,Group-study,9.0,66.15,Yes,Java,55.28,Undecided
+ID_1698,18.0,Senior,24.0,Self-study,,94.45,No,JavaScript,85.33,
+,24.0,,35.0,Practical,5.0,58.03,Yes,Python,74.98,Undecided
+ID_2030,,Sophomore,8.0,Lecture,,58.65,Yes,Python,93.5,Freelancing
+ID_2026,19.0,Junior,27.0,,6.0,63.34,Yes,Python,56.31,Employment
+ID_1918,20.0,Freshman,6.0,Group-study,13.0,55.98,,Python,83.89,Freelancing
+ID_1749,19.0,Freshman,26.0,Self-study,12.0,61.52,Yes,Java,78.6,Undecided
+ID_1362,,Senior,12.0,Group-study,12.0,55.32,Yes,,74.0,Undecided
+ID_1805,19.0,Sophomore,11.0,Lecture,4.0,91.09,No,R,74.57,Employment
+ID_1738,19.0,Senior,18.0,Lecture,8.0,56.95,,,86.1,Higher education
+ID_2038,18.0,Sophomore,7.0,Practical,3.0,87.36,No,Java,96.89,Higher education
+ID_1484,19.0,Freshman,20.0,Group-study,5.0,52.4,Yes,Java,54.56,Freelancing
+ID_1027,24.0,Junior,23.0,Practical,1.0,97.43,No,Python,50.98,Higher education
+ID_1713,18.0,,22.0,,14.0,,,C++,90.29,Higher education
+ID_2062,21.0,Freshman,20.0,Lecture,1.0,50.34,No,Python,55.41,Freelancing
+,20.0,Senior,12.0,Self-study,1.0,88.19,Yes,C++,,Undecided
+ID_1125,18.0,,37.0,Self-study,9.0,75.7,No,Python,80.97,Higher education
+ID_1811,23.0,Junior,16.0,Practical,6.0,88.97,Yes,C++,82.54,Undecided
+ID_1536,21.0,,15.0,Lecture,,76.12,No,C++,59.94,Freelancing
+ID_1144,18.0,,9.0,,1.0,82.05,Yes,Python,62.02,Undecided
+ID_1024,18.0,Freshman,,Self-study,14.0,89.32,No,,82.97,Undecided
+,20.0,,16.0,Practical,14.0,70.26,Yes,JavaScript,95.49,Freelancing
+ID_1232,24.0,Senior,21.0,Self-study,11.0,50.14,No,R,99.12,
+ID_1108,23.0,Junior,10.0,Self-study,14.0,92.5,No,Java,59.9,Higher education
+ID_2169,22.0,Sophomore,37.0,Group-study,12.0,,No,C++,56.71,Higher education
+ID_1110,22.0,Junior,9.0,Lecture,1.0,74.8,Yes,C++,52.82,Higher education
+ID_1227,18.0,Senior,32.0,Group-study,14.0,50.39,,,93.41,Higher education
+ID_1110,19.0,Junior,18.0,Lecture,,74.6,,,64.74,Undecided
+ID_1033,23.0,Freshman,9.0,Self-study,,99.32,,Java,50.09,
+ID_1622,21.0,Junior,37.0,Practical,10.0,63.91,Yes,Python,61.19,Undecided
+ID_1747,19.0,Sophomore,23.0,Group-study,2.0,69.77,No,JavaScript,67.02,Employment
+ID_1594,19.0,Junior,26.0,Lecture,2.0,,,JavaScript,99.55,Undecided
+ID_1424,23.0,Junior,9.0,Self-study,6.0,90.74,No,R,76.18,Higher education
+ID_1612,24.0,Freshman,6.0,Lecture,4.0,70.87,No,C++,60.24,Employment
+ID_1691,18.0,,34.0,Lecture,9.0,65.48,Yes,R,66.74,Freelancing
+ID_1314,18.0,Junior,,Lecture,13.0,96.89,No,Python,66.52,Undecided
+ID_1876,18.0,Senior,37.0,,13.0,83.86,Yes,JavaScript,50.99,Higher education
+ID_1661,18.0,Senior,17.0,Practical,5.0,55.95,Yes,,56.76,Higher education
+ID_1276,22.0,Sophomore,24.0,Practical,12.0,53.45,Yes,Python,84.76,Higher education
+ID_1623,18.0,Senior,11.0,Practical,11.0,74.18,No,C++,56.01,Freelancing
+ID_1515,22.0,Senior,19.0,Lecture,7.0,61.0,Yes,Python,61.54,Employment
+ID_1842,22.0,Senior,27.0,Self-study,8.0,62.7,Yes,JavaScript,67.54,Employment
+ID_1349,24.0,Senior,18.0,Lecture,0.0,93.88,Yes,R,87.89,
+ID_1822,18.0,Freshman,27.0,Practical,2.0,54.48,No,JavaScript,79.12,Undecided
+ID_2160,20.0,Senior,23.0,Practical,,85.77,Yes,C++,84.45,Higher education
+ID_1758,21.0,Freshman,33.0,Self-study,6.0,,,JavaScript,78.35,Higher education
+ID_1898,19.0,Freshman,24.0,Lecture,5.0,88.02,No,Java,,Undecided
+ID_1242,22.0,Senior,33.0,Group-study,6.0,86.12,Yes,R,50.14,Higher education
+ID_1542,23.0,,,Group-study,7.0,,No,Java,96.54,Freelancing
+ID_2063,23.0,Freshman,22.0,Practical,5.0,75.46,,Java,55.55,Higher education
+ID_1228,21.0,Junior,14.0,Self-study,2.0,56.97,Yes,C++,70.31,
+ID_1547,23.0,Junior,12.0,Lecture,1.0,93.31,Yes,Python,,Higher education
+ID_1919,20.0,Senior,30.0,Lecture,,93.58,Yes,Java,71.76,Employment
+ID_1005,,Sophomore,33.0,Practical,6.0,70.92,,,97.34,Undecided
+ID_1467,19.0,Senior,14.0,Practical,,72.22,Yes,Python,73.38,Employment
+ID_1074,19.0,Sophomore,21.0,Lecture,11.0,65.16,No,JavaScript,93.75,Higher education
+,22.0,Sophomore,,Lecture,11.0,,No,JavaScript,90.54,Higher education
+,18.0,Senior,10.0,Practical,10.0,67.93,No,Python,,
+ID_1117,24.0,Senior,9.0,Lecture,,63.39,,Python,96.33,Higher education
+ID_1880,20.0,Sophomore,32.0,Group-study,2.0,71.61,No,JavaScript,,Higher education
+ID_1503,22.0,Senior,9.0,Practical,11.0,54.57,Yes,C++,86.58,
+ID_1946,20.0,Sophomore,22.0,Lecture,10.0,,Yes,R,68.35,Employment
+ID_1573,18.0,Junior,30.0,Practical,3.0,50.63,No,R,,Freelancing
+ID_1193,23.0,Senior,24.0,Self-study,12.0,82.22,No,C++,,Employment
+ID_1846,23.0,Junior,31.0,Practical,13.0,59.14,Yes,,98.93,Freelancing
+ID_1714,24.0,Freshman,16.0,Practical,0.0,61.62,Yes,JavaScript,86.33,Employment
+ID_2049,18.0,Junior,11.0,Self-study,4.0,81.78,No,R,96.44,Higher education
+ID_1172,22.0,Junior,7.0,Group-study,9.0,99.65,No,JavaScript,90.22,Employment
+ID_1325,24.0,Sophomore,14.0,Lecture,2.0,88.89,Yes,C++,58.16,Employment
+ID_2141,18.0,Junior,38.0,Self-study,1.0,61.29,,JavaScript,62.46,Freelancing
+ID_1835,21.0,Senior,29.0,Practical,14.0,,No,C++,,Freelancing
+ID_1723,19.0,Sophomore,39.0,Lecture,2.0,93.31,Yes,Python,58.41,Employment
+,,Freshman,20.0,,7.0,72.21,Yes,C++,79.08,Freelancing
+ID_1531,24.0,Senior,,Lecture,5.0,56.85,No,C++,98.77,
+ID_1112,22.0,Freshman,28.0,Lecture,,93.11,No,R,88.07,Freelancing
+ID_1139,20.0,,14.0,Self-study,13.0,90.8,No,JavaScript,71.17,
+ID_1558,21.0,,26.0,Lecture,6.0,99.2,Yes,R,50.23,Freelancing
+ID_1000,22.0,Senior,30.0,Group-study,11.0,95.49,No,Java,65.66,Undecided
+ID_1089,18.0,Freshman,31.0,Self-study,5.0,92.59,Yes,C++,76.34,Undecided
+ID_1653,18.0,Senior,,Group-study,,52.63,No,Java,66.21,
+ID_1319,18.0,Senior,24.0,Practical,11.0,55.22,No,R,,Employment
+ID_1138,,,31.0,Lecture,2.0,78.45,Yes,JavaScript,72.14,Freelancing
+ID_1844,20.0,,24.0,Practical,11.0,76.57,Yes,R,62.66,Higher education
+ID_1258,21.0,Freshman,23.0,Practical,12.0,72.9,No,JavaScript,95.46,Employment
+ID_1901,23.0,Senior,24.0,Lecture,13.0,69.84,,JavaScript,55.09,Undecided
+ID_1689,19.0,Sophomore,39.0,,7.0,,Yes,Python,52.46,Undecided
+,20.0,Sophomore,6.0,Lecture,11.0,,No,,50.27,Employment
+ID_1260,20.0,Sophomore,34.0,,6.0,50.1,Yes,R,66.4,Employment
+ID_1171,23.0,Sophomore,38.0,Practical,6.0,63.04,Yes,JavaScript,83.02,Freelancing
+ID_1897,23.0,Junior,26.0,Self-study,,75.91,No,R,86.52,Undecided
+ID_1012,19.0,Senior,7.0,Lecture,4.0,86.11,Yes,R,72.66,Higher education
+ID_2191,,Freshman,10.0,Practical,9.0,58.71,,JavaScript,84.22,Freelancing
+ID_1320,23.0,Senior,19.0,Group-study,7.0,77.34,Yes,Java,,Employment
+ID_1328,18.0,Junior,,Practical,4.0,85.72,No,C++,83.39,Undecided
+ID_1784,20.0,,14.0,,8.0,72.23,,C++,52.03,Employment
+ID_1776,22.0,Junior,13.0,Self-study,,,No,Python,69.54,Employment
+ID_1910,19.0,Senior,,Group-study,0.0,72.46,No,Python,,Employment
+ID_2118,,Freshman,36.0,Practical,,,No,Python,90.15,Freelancing
+ID_1317,23.0,Junior,10.0,Practical,6.0,,Yes,C++,85.81,Higher education
+ID_1235,21.0,Freshman,6.0,,2.0,56.23,Yes,Java,60.21,Higher education
+ID_1333,22.0,Junior,33.0,Lecture,6.0,,,C++,62.36,Undecided
+,22.0,Freshman,8.0,Lecture,10.0,52.64,No,C++,99.8,Employment
+ID_2160,19.0,Freshman,5.0,Practical,10.0,72.31,Yes,C++,55.17,Higher education
+ID_1587,18.0,Sophomore,23.0,Practical,6.0,77.7,No,,59.03,Employment
+ID_1512,21.0,Freshman,30.0,Lecture,13.0,64.9,No,,56.5,Undecided
+ID_1917,22.0,Sophomore,29.0,Self-study,12.0,72.75,Yes,Python,66.38,Employment
+ID_1872,19.0,Senior,14.0,Group-study,10.0,58.18,No,R,60.51,Higher education
+ID_1269,22.0,Senior,19.0,Group-study,1.0,65.21,Yes,,,Employment
+ID_1797,24.0,Sophomore,26.0,Self-study,6.0,81.06,Yes,Python,73.8,Higher education
+ID_1724,21.0,Sophomore,25.0,Self-study,,65.09,No,R,95.08,
+ID_2188,21.0,Junior,26.0,Self-study,0.0,94.99,Yes,C++,51.74,Employment
+ID_1004,24.0,Junior,38.0,Self-study,4.0,81.42,Yes,Java,,Higher education
+ID_1850,20.0,Junior,34.0,Self-study,8.0,71.93,Yes,,79.83,Undecided
+ID_1077,24.0,,29.0,Self-study,6.0,51.94,No,Python,,Employment
+ID_1573,23.0,Junior,32.0,Group-study,6.0,74.98,No,R,,Undecided
+ID_1131,23.0,Freshman,5.0,Self-study,10.0,88.24,No,,90.78,Higher education
+ID_1600,19.0,,8.0,Lecture,12.0,63.28,Yes,C++,53.14,Employment
+ID_2065,21.0,Junior,11.0,Self-study,11.0,90.34,Yes,Python,90.77,
+,20.0,Freshman,13.0,,1.0,62.59,No,Java,74.74,Employment
+ID_1401,20.0,Senior,23.0,,7.0,91.19,No,R,56.69,
+,22.0,Freshman,5.0,Group-study,2.0,54.26,Yes,R,94.29,Undecided
+ID_1615,22.0,Senior,14.0,Self-study,14.0,93.31,No,Python,82.46,Higher education
+ID_1799,,Sophomore,13.0,Group-study,,,No,JavaScript,58.18,Freelancing
+,20.0,Sophomore,36.0,Practical,2.0,64.83,No,Java,51.68,Employment
+ID_2046,,Sophomore,,,9.0,63.26,No,Python,57.06,Employment
+ID_1574,24.0,Sophomore,10.0,Group-study,6.0,71.6,No,JavaScript,80.44,Higher education
+,22.0,Freshman,21.0,Group-study,1.0,99.95,,R,58.96,Employment
+ID_1992,21.0,Junior,14.0,Group-study,3.0,61.02,No,C++,61.29,
+ID_1664,24.0,Freshman,31.0,Lecture,10.0,55.16,No,Java,51.26,
+ID_1144,18.0,Senior,39.0,Lecture,,79.25,Yes,Java,86.15,Employment
+ID_2006,,Freshman,25.0,Lecture,,74.43,Yes,JavaScript,,Employment
+ID_1502,20.0,Freshman,29.0,Self-study,8.0,76.21,,Python,,Undecided
+ID_1820,,Senior,32.0,Self-study,4.0,,,R,56.38,Employment
+ID_1103,24.0,Sophomore,,Practical,12.0,63.36,No,JavaScript,95.17,Undecided
+ID_2062,21.0,Sophomore,8.0,Lecture,8.0,95.53,No,C++,83.61,Freelancing
+,22.0,Sophomore,33.0,Self-study,14.0,71.78,No,C++,,Freelancing
+ID_1578,22.0,,13.0,Group-study,,56.45,No,C++,,Employment
+ID_1390,23.0,Senior,31.0,Group-study,,87.11,Yes,JavaScript,71.85,
+ID_1553,20.0,Senior,30.0,Lecture,7.0,,Yes,R,89.23,Employment
+ID_2038,19.0,Freshman,23.0,Practical,12.0,65.79,No,Java,54.66,Undecided
+ID_1477,23.0,Junior,32.0,Practical,12.0,81.08,,Python,76.04,Freelancing
+ID_1922,22.0,Sophomore,21.0,Group-study,0.0,60.99,No,Java,91.82,Freelancing
+ID_1419,21.0,Junior,24.0,Practical,6.0,72.24,No,R,91.51,Higher education
+ID_1156,22.0,,27.0,Lecture,3.0,94.97,Yes,Java,97.81,Higher education
+ID_1549,21.0,Senior,,Group-study,4.0,56.68,No,JavaScript,84.91,Employment
+ID_2120,23.0,Freshman,37.0,,5.0,69.33,Yes,C++,60.39,Undecided
+ID_2020,20.0,Freshman,9.0,Self-study,4.0,91.06,Yes,,51.01,Employment
+ID_1996,22.0,Senior,38.0,Practical,11.0,,Yes,R,73.97,Freelancing
+,24.0,Sophomore,15.0,Group-study,0.0,72.7,Yes,Java,75.69,Employment
+ID_1288,21.0,Sophomore,7.0,Group-study,11.0,75.35,No,,,Employment
+ID_1195,20.0,Junior,37.0,Self-study,8.0,78.61,No,Java,,Freelancing
+ID_1597,19.0,Senior,15.0,,1.0,96.62,No,Java,79.31,Freelancing
+,21.0,Senior,20.0,Group-study,8.0,92.91,No,R,88.21,
+ID_1864,23.0,Sophomore,22.0,Group-study,9.0,58.53,Yes,Java,,Freelancing
+ID_2141,19.0,Sophomore,34.0,Practical,1.0,71.84,Yes,C++,87.92,Higher education
+ID_1805,,Senior,14.0,Group-study,8.0,,Yes,Java,89.68,Undecided
+,,Freshman,22.0,,5.0,89.45,No,C++,80.82,Undecided
+ID_1814,22.0,,23.0,Practical,10.0,80.14,Yes,R,99.3,Freelancing
+ID_1227,21.0,Senior,17.0,Group-study,8.0,82.71,Yes,JavaScript,,Undecided
+ID_1215,19.0,Sophomore,7.0,Group-study,12.0,99.91,Yes,C++,93.01,Undecided
+ID_1947,18.0,Sophomore,14.0,Lecture,5.0,53.75,Yes,JavaScript,97.29,Undecided
+ID_1014,23.0,Freshman,5.0,,,61.15,No,JavaScript,96.49,Undecided
+ID_2180,20.0,Freshman,31.0,Self-study,12.0,70.39,Yes,C++,69.07,Freelancing
+ID_2180,24.0,Junior,12.0,Self-study,10.0,67.39,,R,53.93,Employment
+ID_1046,24.0,Senior,21.0,Practical,13.0,51.08,No,Python,58.59,
+ID_1323,21.0,,13.0,Group-study,1.0,54.59,No,JavaScript,52.96,Employment
+,19.0,Freshman,10.0,Group-study,7.0,84.05,No,JavaScript,55.27,Higher education
+ID_1129,24.0,Junior,29.0,Self-study,2.0,,Yes,R,59.23,Undecided
+ID_1094,22.0,Junior,32.0,Self-study,6.0,75.71,Yes,R,67.05,
+ID_1626,24.0,Sophomore,,Self-study,,76.96,Yes,Java,77.18,Freelancing
+ID_1754,24.0,Sophomore,13.0,Lecture,2.0,62.75,,R,85.58,Higher education
+ID_1793,24.0,Junior,22.0,Self-study,0.0,88.39,No,JavaScript,,Freelancing
+ID_1068,18.0,Freshman,25.0,Lecture,7.0,87.59,,C++,83.63,Employment
+ID_1010,19.0,Junior,6.0,Practical,2.0,79.42,Yes,Python,85.21,Higher education
+,22.0,Senior,19.0,Group-study,1.0,60.63,,Java,77.93,
+ID_1549,19.0,Senior,32.0,Self-study,0.0,54.85,No,C++,95.18,Higher education
+ID_2157,21.0,Sophomore,22.0,Group-study,3.0,53.21,No,Python,55.55,Higher education
+ID_1711,21.0,Freshman,38.0,Group-study,,79.63,Yes,Python,58.86,Freelancing
+ID_1022,21.0,Freshman,26.0,Self-study,7.0,91.25,Yes,,71.43,Employment
+ID_1814,23.0,Senior,,Self-study,12.0,,Yes,C++,56.34,Freelancing
+,24.0,Junior,17.0,Practical,2.0,,Yes,Java,78.31,Undecided
+ID_1301,23.0,Sophomore,8.0,Lecture,13.0,,Yes,Java,69.92,Undecided
+ID_1362,18.0,Junior,26.0,Lecture,0.0,97.34,No,Python,64.23,Freelancing
+ID_1395,21.0,Junior,,Group-study,3.0,63.76,No,C++,58.5,
+ID_1217,22.0,Junior,28.0,Self-study,8.0,69.9,Yes,Python,66.77,Undecided
+ID_1140,19.0,Freshman,8.0,,12.0,,Yes,R,80.4,Undecided
+ID_1957,24.0,Senior,32.0,Practical,0.0,,,Java,78.79,Freelancing
+ID_1984,20.0,Freshman,19.0,Practical,11.0,95.69,Yes,JavaScript,58.18,Freelancing
+,,Senior,,Practical,13.0,99.05,Yes,Python,56.25,Freelancing
+ID_1827,24.0,Sophomore,7.0,Practical,10.0,83.09,No,R,51.33,Higher education
+ID_1682,23.0,Sophomore,18.0,Lecture,1.0,90.84,No,Java,50.62,Higher education
+ID_2003,23.0,Junior,5.0,Lecture,8.0,87.48,No,,93.99,Higher education
+ID_1355,22.0,Senior,,Lecture,1.0,84.98,Yes,Java,52.25,Freelancing
+ID_2007,23.0,Senior,33.0,Self-study,12.0,,Yes,C++,86.56,Employment
+ID_2156,21.0,Senior,9.0,Group-study,2.0,52.85,No,C++,93.6,Undecided
+ID_1887,18.0,Junior,14.0,Practical,6.0,67.15,No,Python,54.9,Higher education
+ID_1126,19.0,Junior,32.0,Self-study,2.0,83.35,Yes,Python,71.82,Employment
+ID_2129,18.0,Sophomore,25.0,,8.0,55.13,No,Java,98.12,
+ID_2008,24.0,Freshman,,Lecture,5.0,50.6,No,R,,
+ID_1603,19.0,Senior,,,2.0,56.98,Yes,Java,74.49,
+ID_2013,19.0,,24.0,Lecture,8.0,85.79,No,JavaScript,88.13,Employment
+,18.0,Freshman,23.0,Practical,0.0,98.64,No,C++,91.67,Higher education
+ID_2052,22.0,Senior,39.0,Practical,9.0,99.15,No,C++,67.4,Higher education
+ID_1778,19.0,,8.0,,,74.7,Yes,Python,94.61,Higher education
+ID_1813,18.0,Junior,9.0,Practical,0.0,93.47,No,R,73.52,Higher education
+ID_1419,19.0,Senior,5.0,Lecture,1.0,86.84,No,Python,76.39,Employment
+ID_1982,20.0,Junior,8.0,Practical,11.0,75.05,No,JavaScript,99.99,Higher education
+ID_1824,22.0,Junior,16.0,Group-study,7.0,78.64,Yes,Java,92.17,Undecided
+ID_2024,21.0,Senior,31.0,Group-study,6.0,56.86,Yes,Java,68.09,Undecided
+ID_1566,19.0,Sophomore,27.0,Lecture,1.0,96.88,No,R,50.52,Freelancing
+ID_1370,20.0,Freshman,,Self-study,1.0,67.6,Yes,Python,81.31,Higher education
+ID_1935,21.0,Junior,25.0,,8.0,72.31,No,Python,85.2,Undecided
+,,Sophomore,28.0,Group-study,12.0,83.58,Yes,JavaScript,82.54,
+ID_1968,24.0,Junior,29.0,Practical,12.0,66.7,Yes,Java,98.39,
+ID_2160,19.0,Junior,36.0,Practical,5.0,62.71,No,Python,93.15,Employment
+ID_1201,18.0,Freshman,36.0,Self-study,4.0,81.55,No,R,72.44,Higher education
+ID_1312,19.0,Junior,9.0,Group-study,9.0,51.25,No,Java,53.14,Employment
+ID_1116,20.0,Freshman,20.0,Practical,5.0,86.04,Yes,JavaScript,73.8,Employment
+,21.0,Freshman,37.0,Group-study,,75.7,,R,84.46,Undecided
+,19.0,Freshman,25.0,Lecture,10.0,80.29,Yes,C++,80.39,Undecided
+ID_1243,18.0,,13.0,Lecture,,81.59,Yes,JavaScript,76.91,Freelancing
+ID_1536,24.0,Senior,10.0,Practical,14.0,76.35,No,R,73.44,Higher education
+ID_1074,19.0,Sophomore,39.0,Group-study,9.0,79.13,Yes,Python,64.69,Higher education
+ID_1385,22.0,Senior,26.0,,9.0,84.19,No,C++,63.87,Undecided
+ID_1474,,Senior,,Group-study,13.0,87.66,Yes,JavaScript,75.01,Undecided
+ID_1417,18.0,,27.0,Group-study,8.0,86.37,No,Python,58.03,Higher education
+ID_1346,20.0,Junior,21.0,Self-study,3.0,,Yes,C++,67.03,Freelancing
+ID_1639,21.0,Freshman,16.0,Self-study,1.0,59.47,Yes,Java,66.2,Undecided
+,,Junior,27.0,Self-study,11.0,70.06,No,Python,79.36,Freelancing
+ID_1954,18.0,Senior,20.0,Practical,,97.39,Yes,R,53.33,Employment
+ID_1875,24.0,,7.0,Self-study,3.0,69.83,No,JavaScript,91.48,Undecided
+ID_1762,22.0,Junior,34.0,Self-study,,56.24,,C++,78.12,Employment
+ID_1663,18.0,Sophomore,26.0,Lecture,8.0,76.27,Yes,Python,83.54,Undecided
+ID_1024,23.0,Junior,13.0,Group-study,,55.47,,Java,,Employment
+ID_1709,22.0,Freshman,33.0,Group-study,,60.14,No,JavaScript,64.57,Undecided
+ID_2184,24.0,Sophomore,27.0,Self-study,3.0,99.92,No,JavaScript,73.52,Freelancing
+ID_1176,20.0,Junior,17.0,Group-study,14.0,77.07,No,Python,97.81,Freelancing
+ID_1284,21.0,Junior,36.0,Lecture,7.0,64.2,No,Java,88.34,Freelancing
+,,Junior,27.0,Lecture,8.0,99.74,No,C++,98.48,Employment
+ID_2002,20.0,Junior,21.0,Self-study,,98.33,Yes,Python,87.31,Freelancing
+ID_1661,19.0,Junior,25.0,Lecture,8.0,72.04,Yes,C++,58.78,
+,18.0,Sophomore,6.0,,9.0,63.02,No,JavaScript,53.23,Undecided
+ID_1155,23.0,Senior,10.0,Practical,3.0,91.92,,C++,78.88,Employment
+ID_2072,22.0,,22.0,Group-study,0.0,85.78,Yes,Java,67.89,
+ID_1966,22.0,Sophomore,34.0,Practical,14.0,84.35,Yes,R,63.77,Higher education
+ID_1848,,Sophomore,26.0,,2.0,94.66,Yes,Java,90.36,Higher education
+ID_2107,23.0,Senior,37.0,Practical,8.0,84.47,No,C++,68.35,Higher education
+ID_1688,,Freshman,34.0,Lecture,3.0,64.19,Yes,Python,65.85,Employment
+ID_1147,,Senior,21.0,,4.0,84.69,No,JavaScript,92.5,Higher education
+ID_1341,20.0,Sophomore,36.0,,6.0,65.29,No,R,92.31,
+ID_1475,,Junior,18.0,Group-study,4.0,,Yes,Python,67.82,Higher education
+ID_2086,22.0,Junior,14.0,Self-study,3.0,80.99,No,Python,91.62,Undecided
+ID_1560,,Sophomore,38.0,Self-study,14.0,53.87,Yes,Java,92.54,Freelancing
+ID_1326,20.0,Junior,13.0,Lecture,1.0,75.64,Yes,C++,71.2,Employment
+ID_2164,19.0,Sophomore,32.0,Self-study,14.0,67.17,,Java,53.32,Higher education
+ID_1989,23.0,Junior,15.0,Practical,1.0,,No,C++,50.08,Undecided
+ID_1214,22.0,Senior,18.0,Self-study,12.0,80.11,No,Java,76.16,Freelancing
+ID_1434,24.0,Freshman,,Lecture,12.0,,No,Python,67.2,Freelancing
+ID_1951,18.0,Freshman,19.0,Group-study,3.0,88.84,Yes,JavaScript,99.86,
+ID_1722,18.0,Senior,32.0,Group-study,9.0,53.54,Yes,C++,88.62,Undecided
+ID_1031,20.0,Senior,28.0,Self-study,12.0,83.02,,R,88.06,Higher education
+ID_1669,24.0,Sophomore,12.0,Practical,9.0,,No,,97.76,Freelancing
+ID_1284,21.0,Sophomore,13.0,Lecture,12.0,83.64,Yes,Python,94.39,Undecided
+ID_1428,23.0,Sophomore,37.0,Practical,14.0,74.86,Yes,Java,65.91,Undecided
+ID_1285,,Junior,37.0,Lecture,8.0,97.52,No,Java,58.3,Employment
+ID_2167,21.0,Sophomore,23.0,Self-study,7.0,65.0,No,Python,87.29,
+ID_2042,19.0,Senior,7.0,Lecture,2.0,50.96,No,R,68.91,Freelancing
+ID_1017,23.0,Freshman,14.0,Lecture,14.0,71.6,,R,73.66,Freelancing
+ID_1768,19.0,Junior,5.0,Self-study,13.0,51.65,Yes,,81.52,Undecided
+ID_1589,24.0,Sophomore,33.0,Practical,8.0,97.7,Yes,C++,95.39,Freelancing
+ID_2198,22.0,Junior,38.0,Self-study,13.0,60.5,No,JavaScript,70.95,Undecided
+ID_2009,23.0,Junior,17.0,Lecture,4.0,89.45,No,C++,89.17,
+ID_1193,21.0,Sophomore,5.0,Self-study,10.0,88.73,No,R,,Employment
+ID_1501,22.0,,38.0,Lecture,,60.89,No,C++,84.9,Higher education
+ID_1987,18.0,Freshman,33.0,Self-study,4.0,81.06,Yes,JavaScript,50.08,Employment
+ID_2136,21.0,Senior,17.0,,12.0,52.4,Yes,C++,,Employment
+ID_1113,20.0,Senior,33.0,,9.0,74.18,Yes,C++,51.52,Higher education
+ID_1946,18.0,,28.0,Self-study,12.0,,Yes,C++,85.64,Freelancing
+ID_1830,18.0,Junior,30.0,Practical,3.0,96.06,Yes,C++,52.31,Higher education
+ID_1924,20.0,Sophomore,21.0,Lecture,7.0,98.8,Yes,Python,63.31,Undecided
+ID_1054,23.0,Junior,11.0,Group-study,12.0,61.11,,R,74.86,Higher education
+ID_1799,18.0,Freshman,17.0,Practical,11.0,60.41,Yes,JavaScript,71.0,Employment
+ID_1777,24.0,Junior,9.0,,4.0,,No,R,59.59,Higher education
+ID_1161,21.0,Senior,30.0,Group-study,9.0,62.67,No,Python,66.69,
+ID_1086,22.0,,7.0,Group-study,11.0,94.75,Yes,Python,86.39,Employment
+ID_1054,18.0,Freshman,11.0,Self-study,7.0,78.7,No,Python,83.46,Undecided
+ID_2031,21.0,Senior,,Lecture,8.0,67.54,Yes,Python,53.59,Freelancing
+ID_1832,19.0,,21.0,,3.0,91.63,Yes,C++,,Employment
+ID_1312,21.0,Junior,29.0,Practical,6.0,74.67,No,R,52.65,Undecided
+ID_1758,22.0,Senior,7.0,Practical,1.0,95.58,Yes,Java,77.15,Freelancing
+ID_1442,21.0,Sophomore,19.0,Lecture,5.0,96.4,Yes,JavaScript,63.0,
+ID_1327,20.0,,,Practical,7.0,58.27,Yes,Python,79.38,Higher education
+ID_2077,22.0,Sophomore,36.0,Practical,11.0,50.12,Yes,R,63.07,Higher education
+ID_1760,23.0,Freshman,30.0,,6.0,99.2,Yes,Python,,Undecided
+ID_1578,19.0,Freshman,20.0,Self-study,6.0,95.31,Yes,Python,65.49,
+ID_2074,20.0,Senior,29.0,Self-study,7.0,52.77,Yes,Python,62.1,Undecided
+ID_2006,23.0,Senior,32.0,Lecture,6.0,91.65,No,Python,63.92,Freelancing
+ID_1095,21.0,Freshman,13.0,Lecture,4.0,72.89,No,Python,94.82,
+ID_2111,22.0,Sophomore,5.0,,6.0,62.95,Yes,JavaScript,81.81,Undecided
+ID_2101,19.0,Freshman,33.0,Self-study,12.0,93.94,No,,86.53,
+ID_2143,20.0,,,Group-study,13.0,59.83,Yes,Python,95.9,Employment
+ID_1813,,Freshman,20.0,Group-study,9.0,97.36,Yes,Python,95.59,Undecided
+ID_1490,23.0,Senior,11.0,,2.0,60.28,Yes,Python,86.95,
+ID_1451,19.0,Senior,18.0,Practical,4.0,80.68,Yes,Python,59.89,Freelancing
+ID_1164,24.0,Freshman,33.0,Self-study,6.0,61.15,No,,92.17,Employment
+ID_1181,21.0,Sophomore,23.0,,14.0,77.28,No,C++,60.19,
+ID_1468,19.0,Junior,23.0,Self-study,8.0,84.2,No,Java,,Employment
+ID_1909,23.0,Freshman,,Lecture,14.0,59.51,No,Python,84.28,Undecided
+ID_1734,18.0,,19.0,Lecture,1.0,76.04,Yes,,87.94,Higher education
+ID_1822,20.0,Freshman,7.0,Practical,,73.45,No,,76.63,Freelancing
+ID_1943,19.0,Junior,15.0,,11.0,53.55,Yes,Java,81.94,Employment
+ID_1006,24.0,Sophomore,34.0,Self-study,6.0,90.92,,R,97.67,Undecided
+ID_1329,,Sophomore,22.0,Self-study,0.0,66.78,No,C++,55.05,
+ID_1774,21.0,Freshman,6.0,Lecture,12.0,78.73,Yes,C++,65.44,Employment
+ID_1150,23.0,Senior,36.0,Group-study,1.0,75.74,No,Python,80.57,Employment
+ID_2108,,Junior,,Practical,8.0,75.66,No,,98.2,Employment
+ID_1146,,Senior,26.0,Group-study,12.0,55.36,No,JavaScript,54.78,Higher education
+,21.0,Senior,10.0,Practical,9.0,71.17,No,JavaScript,51.13,Employment
+ID_1699,22.0,Senior,16.0,Group-study,6.0,72.62,No,R,52.79,Employment
+ID_1081,22.0,Sophomore,19.0,Lecture,11.0,86.68,Yes,Python,52.62,Higher education
+ID_1513,22.0,Freshman,32.0,Practical,9.0,92.0,No,Python,95.39,Undecided
+ID_1814,24.0,Freshman,22.0,Practical,6.0,77.25,No,JavaScript,,Employment
+ID_1708,,Sophomore,6.0,Practical,,,Yes,,83.86,
+ID_1745,18.0,Sophomore,17.0,Self-study,,61.84,No,JavaScript,76.13,Undecided
+ID_2022,24.0,Freshman,19.0,Self-study,9.0,,No,C++,89.1,Freelancing
+ID_1706,19.0,Senior,24.0,Group-study,,56.23,Yes,Java,57.78,Employment
+ID_1470,23.0,Junior,33.0,Lecture,1.0,68.29,Yes,,69.6,Higher education
+ID_2142,23.0,Junior,33.0,Self-study,10.0,61.47,No,Python,74.5,Higher education
+,,Junior,7.0,Practical,5.0,60.92,Yes,C++,,Higher education
+ID_1260,24.0,Senior,23.0,Self-study,3.0,52.73,,JavaScript,,Employment
+ID_1804,21.0,Freshman,7.0,Lecture,4.0,50.88,,Python,65.83,
+,18.0,Sophomore,18.0,Self-study,2.0,55.14,No,C++,51.78,Freelancing
+ID_1904,21.0,Freshman,8.0,Practical,5.0,58.61,No,R,,Higher education
+ID_2076,21.0,Senior,15.0,Group-study,10.0,71.55,No,C++,88.2,Employment
+ID_1939,20.0,Sophomore,35.0,,,75.53,Yes,Python,50.9,Undecided
+ID_1853,23.0,Senior,36.0,Lecture,2.0,57.03,No,Java,96.71,Employment
+ID_1592,22.0,,31.0,Group-study,13.0,71.24,Yes,JavaScript,,
+ID_1713,24.0,Junior,34.0,Self-study,14.0,67.09,No,R,89.96,
+ID_2181,21.0,,6.0,Self-study,13.0,59.17,No,C++,,Higher education
+ID_1631,20.0,Sophomore,13.0,,7.0,50.34,No,Python,97.06,Undecided
+ID_1058,23.0,Sophomore,,Group-study,8.0,,No,Python,,Higher education
+ID_1127,22.0,Freshman,35.0,Practical,3.0,84.28,No,JavaScript,64.38,Undecided
+ID_1735,21.0,Junior,38.0,Group-study,14.0,61.31,,Python,66.65,Freelancing
+ID_1720,21.0,Freshman,,Group-study,8.0,56.59,,Python,71.33,Higher education
+ID_2138,18.0,Freshman,29.0,Lecture,11.0,94.35,Yes,JavaScript,56.96,Employment
+ID_1525,18.0,Senior,,Group-study,6.0,63.75,No,R,,Freelancing
+ID_1520,23.0,,,Self-study,2.0,61.18,,Java,93.46,Higher education
+ID_1551,22.0,Freshman,36.0,Practical,6.0,92.85,Yes,Java,77.71,Higher education
+ID_1236,21.0,Junior,21.0,Practical,13.0,90.86,No,C++,80.44,Higher education
+ID_1493,23.0,Senior,39.0,Practical,0.0,72.42,No,R,96.35,Undecided
+ID_1003,23.0,Freshman,23.0,Self-study,,74.46,No,C++,83.26,Higher education
+ID_1665,,Freshman,33.0,Self-study,,60.89,Yes,Java,84.54,Employment
+ID_1441,24.0,Freshman,11.0,Self-study,3.0,53.92,Yes,,89.35,Higher education
+ID_1028,18.0,Freshman,32.0,Self-study,,78.67,Yes,Python,55.82,Employment
+ID_2132,22.0,Freshman,13.0,Self-study,13.0,54.92,Yes,Java,68.01,Employment
+ID_1609,21.0,Freshman,32.0,Group-study,2.0,72.46,Yes,R,98.41,Employment
+ID_1804,23.0,Senior,10.0,Self-study,0.0,97.02,No,Java,96.15,Freelancing
+ID_1074,21.0,,33.0,,8.0,97.64,,R,94.2,
+,19.0,Freshman,21.0,Self-study,14.0,61.97,,R,72.6,Undecided
+ID_2169,22.0,Sophomore,20.0,Self-study,5.0,81.21,No,R,92.86,Higher education
+,23.0,Senior,27.0,,7.0,,Yes,C++,52.42,Undecided
+ID_1041,21.0,Senior,35.0,Self-study,2.0,93.78,Yes,JavaScript,57.43,Freelancing
+ID_1040,18.0,,7.0,Group-study,7.0,63.57,No,Java,,Higher education
+ID_1933,24.0,Senior,25.0,Group-study,1.0,50.19,Yes,JavaScript,74.17,
+,19.0,Freshman,30.0,Group-study,11.0,58.13,No,Python,63.18,Higher education
+ID_2040,22.0,,26.0,Lecture,3.0,67.48,No,Java,67.82,
+ID_2176,19.0,Junior,16.0,Practical,2.0,65.79,No,JavaScript,58.14,Freelancing
+ID_1997,18.0,Senior,17.0,Self-study,9.0,89.57,,JavaScript,,Undecided
+ID_1587,22.0,Senior,15.0,,0.0,84.03,Yes,Python,89.69,Higher education
+ID_1341,19.0,Sophomore,20.0,Self-study,14.0,64.98,No,R,83.07,Higher education
+ID_1026,20.0,Senior,12.0,Lecture,12.0,72.89,Yes,Java,,Higher education
+ID_1645,18.0,Sophomore,6.0,Lecture,12.0,54.78,No,Java,74.38,Undecided
+ID_1730,18.0,Junior,34.0,Group-study,6.0,94.91,No,Python,84.88,Freelancing
+ID_1167,18.0,Junior,34.0,Group-study,10.0,96.77,No,R,76.49,Employment
+ID_1609,,Freshman,16.0,Lecture,9.0,98.99,No,Java,69.58,Higher education
+ID_1267,20.0,Junior,14.0,Group-study,1.0,93.43,Yes,Java,,Undecided
+ID_1820,21.0,Sophomore,15.0,Lecture,3.0,58.7,No,Java,98.43,Undecided
+ID_1454,23.0,Senior,19.0,Practical,8.0,52.31,,R,54.75,Employment
+ID_1905,24.0,Freshman,20.0,Group-study,5.0,78.98,No,Python,69.5,Freelancing
+,19.0,Sophomore,21.0,,7.0,95.63,No,Java,70.33,Higher education
+,21.0,Senior,30.0,Group-study,1.0,58.87,No,JavaScript,78.85,Higher education
+ID_1701,19.0,Freshman,6.0,Practical,6.0,50.35,Yes,R,57.61,Undecided
+ID_1633,24.0,Junior,16.0,Lecture,5.0,90.27,No,C++,58.83,Freelancing
+ID_1129,,Sophomore,30.0,Self-study,12.0,53.84,No,Python,,Higher education
+ID_2019,20.0,Senior,27.0,Group-study,13.0,70.69,No,JavaScript,97.79,Employment
+ID_1818,23.0,,22.0,Lecture,8.0,83.94,No,Java,86.71,Freelancing
+ID_1692,20.0,,36.0,Practical,6.0,61.84,No,C++,83.08,Freelancing
+ID_1793,24.0,Junior,7.0,Self-study,0.0,54.2,Yes,Python,90.85,Undecided
+,23.0,Senior,7.0,,13.0,88.5,,R,56.38,Undecided
+ID_1148,21.0,Junior,34.0,Practical,,81.51,No,C++,92.97,Higher education
+ID_1010,22.0,Junior,5.0,Practical,10.0,99.42,No,C++,79.74,Undecided
+ID_1675,21.0,Senior,34.0,Self-study,9.0,67.22,Yes,JavaScript,66.77,Freelancing
+ID_2136,19.0,Senior,36.0,Lecture,14.0,53.09,No,Python,90.79,Higher education
+ID_1186,21.0,Senior,32.0,Group-study,2.0,86.72,Yes,JavaScript,90.13,Higher education
+ID_1806,24.0,Sophomore,25.0,Group-study,13.0,76.09,No,JavaScript,92.29,Freelancing
+ID_1743,18.0,Senior,17.0,Lecture,1.0,60.66,No,Java,55.78,
+ID_1097,19.0,Freshman,31.0,,11.0,89.09,Yes,R,98.47,Employment
+ID_1054,,Junior,11.0,Lecture,2.0,60.19,No,C++,,Employment
+ID_1622,19.0,Sophomore,26.0,Self-study,10.0,63.03,Yes,Python,67.87,Higher education
+ID_1663,,Senior,14.0,Self-study,5.0,54.63,Yes,,53.29,Undecided
+ID_1757,20.0,,19.0,Group-study,12.0,69.97,Yes,R,58.35,Employment
+ID_1405,23.0,Senior,19.0,Self-study,13.0,70.95,No,,99.64,Higher education
+ID_1068,19.0,Sophomore,8.0,Practical,2.0,75.73,Yes,R,,Employment
+ID_1750,23.0,Junior,36.0,Group-study,9.0,85.45,Yes,Java,67.83,Undecided
+ID_2171,23.0,Junior,27.0,Self-study,4.0,95.31,No,,64.41,Freelancing
+ID_1957,23.0,Freshman,10.0,Lecture,5.0,56.89,No,Java,,Higher education
+ID_1364,20.0,Freshman,28.0,Practical,7.0,52.72,No,C++,,
+ID_1481,24.0,Senior,24.0,Lecture,6.0,50.93,No,C++,70.97,Higher education
+,21.0,Junior,24.0,,13.0,57.18,No,JavaScript,98.27,Higher education
+ID_1153,23.0,Sophomore,16.0,Lecture,10.0,82.9,No,Java,84.19,Higher education
+ID_1072,18.0,Sophomore,37.0,Self-study,7.0,,Yes,C++,89.6,Higher education
+ID_1712,24.0,Sophomore,32.0,Self-study,2.0,89.33,No,R,64.64,Undecided
+ID_1295,22.0,Freshman,12.0,Group-study,3.0,,Yes,Python,,Freelancing
+ID_2040,20.0,Sophomore,5.0,,5.0,65.29,No,Python,74.39,Undecided
+ID_1060,,Freshman,26.0,Group-study,10.0,74.16,Yes,Java,65.73,Undecided
+ID_1938,20.0,Freshman,10.0,Lecture,6.0,,Yes,JavaScript,60.1,Freelancing
+ID_1041,19.0,Senior,25.0,Practical,8.0,80.56,,R,97.63,Undecided
+ID_1024,20.0,Sophomore,36.0,Self-study,12.0,99.19,No,Java,72.2,Employment
+ID_2062,19.0,Sophomore,39.0,,0.0,68.04,Yes,Python,,Undecided
+ID_1130,23.0,Junior,19.0,Practical,12.0,87.64,No,Java,59.93,Higher education
+ID_1107,21.0,Senior,9.0,Practical,14.0,,No,R,64.04,Employment
+,19.0,Junior,10.0,Group-study,7.0,56.39,Yes,C++,99.97,Employment
+ID_1101,19.0,Senior,29.0,Group-study,7.0,79.11,Yes,R,63.4,Freelancing
+ID_1865,18.0,Sophomore,33.0,Practical,,64.99,Yes,C++,66.44,Undecided
+ID_1523,19.0,Freshman,11.0,,3.0,51.72,No,,82.97,Undecided
+ID_1274,18.0,Freshman,17.0,Practical,2.0,81.75,No,C++,64.7,Employment
+ID_2067,22.0,Freshman,22.0,Group-study,10.0,92.95,No,Java,60.79,
+ID_1816,23.0,Freshman,6.0,Practical,2.0,67.24,No,Python,57.93,Undecided
+ID_1956,18.0,Freshman,12.0,Lecture,5.0,69.51,Yes,Java,65.63,Freelancing
+ID_2040,21.0,Junior,15.0,Self-study,,94.55,No,Python,55.3,Employment
+ID_1329,,Senior,,Self-study,7.0,90.68,,R,50.93,Higher education
+ID_1011,23.0,Sophomore,31.0,Practical,6.0,85.75,No,JavaScript,90.23,Employment
+ID_1215,18.0,Junior,24.0,Lecture,10.0,62.44,No,R,56.89,Freelancing
+ID_1338,23.0,Senior,16.0,Self-study,0.0,95.51,Yes,Java,88.8,Freelancing
+ID_1660,23.0,Freshman,35.0,Practical,10.0,,No,Java,89.88,Freelancing
+ID_2104,23.0,Senior,31.0,Practical,5.0,81.34,No,Python,76.9,
+ID_1373,22.0,Senior,36.0,Lecture,6.0,51.44,,Java,65.48,Employment
+ID_1975,21.0,Freshman,14.0,Group-study,11.0,,No,,57.25,Undecided
+ID_1709,20.0,Freshman,7.0,Practical,6.0,63.86,Yes,Java,86.84,
+ID_1465,20.0,Freshman,31.0,Group-study,8.0,72.48,Yes,Python,80.07,Employment
+ID_2112,18.0,Sophomore,39.0,,10.0,67.26,Yes,,82.77,Freelancing
+ID_1488,23.0,Freshman,35.0,Self-study,10.0,58.64,,C++,50.43,
+ID_1046,18.0,Sophomore,19.0,Group-study,9.0,81.1,No,Python,96.38,Higher education
+,22.0,Freshman,20.0,Lecture,4.0,94.1,No,JavaScript,,Employment
+ID_2039,22.0,Sophomore,17.0,,0.0,97.95,No,R,68.34,Employment
+ID_1710,19.0,Senior,39.0,Self-study,1.0,59.62,Yes,Java,70.14,Freelancing
+ID_1400,22.0,Junior,15.0,Self-study,,85.87,,JavaScript,50.07,Employment
+ID_1980,19.0,,25.0,Practical,3.0,83.22,No,Java,74.85,Employment
+ID_2109,21.0,Senior,15.0,Practical,4.0,67.17,No,JavaScript,87.64,Freelancing
+ID_1249,18.0,Freshman,34.0,Group-study,8.0,50.95,No,,91.16,Freelancing
+ID_1390,24.0,Sophomore,39.0,Self-study,10.0,84.49,Yes,C++,93.97,
+ID_1334,21.0,Junior,26.0,Self-study,14.0,97.27,Yes,Python,74.39,
+ID_1628,22.0,Freshman,35.0,Lecture,,81.61,No,Python,,Higher education
+ID_1136,21.0,Freshman,,Group-study,2.0,71.76,Yes,C++,53.98,Employment
+ID_1882,,Freshman,28.0,Lecture,4.0,76.26,No,,74.4,Higher education
+ID_1687,21.0,Senior,,Group-study,2.0,59.98,,R,57.74,Higher education
+ID_1826,22.0,Sophomore,36.0,Group-study,3.0,,No,JavaScript,68.48,Higher education
+ID_1726,24.0,Sophomore,19.0,Practical,14.0,87.32,Yes,Python,,Undecided
+,23.0,Junior,39.0,Practical,13.0,57.28,No,R,71.18,Freelancing
+ID_1989,21.0,Sophomore,7.0,,2.0,93.9,Yes,Java,78.58,Freelancing
+ID_1371,19.0,Sophomore,20.0,Group-study,3.0,,Yes,R,95.14,Undecided
