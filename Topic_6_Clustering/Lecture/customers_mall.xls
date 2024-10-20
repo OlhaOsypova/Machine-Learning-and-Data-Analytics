@@ -1,0 +1,201 @@
+Annual Income (k$),Spending Score (1-100),Discount Tier,Satisfaction Level
+15,39,Bronze,Satisfied
+15,81,Silver,Satisfied
+16,6,No,Satisfied
+16,77,Silver,Neutral
+17,40,Bronze,Very Satisfied
+17,76,Silver,Very Dissatisfied
+18,6,No,Neutral
+18,94,Gold,Dissatisfied
+19,3,No,Very Dissatisfied
+19,72,Silver,Very Satisfied
+19,14,No,Dissatisfied
+19,99,Gold,Very Dissatisfied
+20,15,No,Very Satisfied
+20,77,Silver,Dissatisfied
+20,13,No,Very Dissatisfied
+20,79,Silver,Very Satisfied
+21,35,Bronze,Neutral
+21,66,Silver,Very Dissatisfied
+23,29,No,Dissatisfied
+23,98,Gold,Very Dissatisfied
+24,35,Bronze,Satisfied
+24,73,Silver,Dissatisfied
+25,5,No,Very Dissatisfied
+25,73,Silver,Very Satisfied
+28,14,No,Very Satisfied
+28,82,Silver,Neutral
+28,32,Bronze,Neutral
+28,61,Silver,Neutral
+29,31,Bronze,Satisfied
+29,87,Silver,Dissatisfied
+30,4,No,Dissatisfied
+30,73,Silver,Dissatisfied
+33,4,No,Satisfied
+33,92,Gold,Neutral
+33,14,No,Very Satisfied
+33,81,Silver,Dissatisfied
+34,17,No,Very Satisfied
+34,73,Silver,Very Satisfied
+37,26,No,Dissatisfied
+37,75,Silver,Very Dissatisfied
+38,35,Bronze,Dissatisfied
+38,92,Gold,Dissatisfied
+39,36,Bronze,Satisfied
+39,61,Silver,Very Dissatisfied
+39,28,No,Satisfied
+39,65,Silver,Neutral
+40,55,Bronze,Very Satisfied
+40,47,Bronze,Dissatisfied
+40,42,Bronze,Neutral
+40,42,Bronze,Very Dissatisfied
+42,52,Bronze,Very Dissatisfied
+42,60,Silver,Very Dissatisfied
+43,54,Bronze,Neutral
+43,60,Silver,Satisfied
+43,45,Bronze,Neutral
+43,41,Bronze,Satisfied
+44,50,Bronze,Neutral
+44,46,Bronze,Dissatisfied
+46,51,Bronze,Very Dissatisfied
+46,46,Bronze,Neutral
+46,56,Bronze,Very Dissatisfied
+46,55,Bronze,Dissatisfied
+47,52,Bronze,Satisfied
+47,59,Bronze,Neutral
+48,51,Bronze,Neutral
+48,59,Bronze,Neutral
+48,50,Bronze,Satisfied
+48,48,Bronze,Neutral
+48,59,Bronze,Very Dissatisfied
+48,47,Bronze,Very Satisfied
+49,55,Bronze,Satisfied
+49,42,Bronze,Very Satisfied
+50,49,Bronze,Very Dissatisfied
+50,56,Bronze,Very Dissatisfied
+54,47,Bronze,Very Dissatisfied
+54,54,Bronze,Very Dissatisfied
+54,53,Bronze,Very Dissatisfied
+54,48,Bronze,Very Dissatisfied
+54,52,Bronze,Very Dissatisfied
+54,42,Bronze,Very Dissatisfied
+54,51,Bronze,Very Dissatisfied
+54,55,Bronze,Neutral
+54,41,Bronze,Dissatisfied
+54,44,Bronze,Neutral
+54,57,Bronze,Very Satisfied
+54,46,Bronze,Neutral
+57,58,Bronze,Satisfied
+57,55,Bronze,Very Dissatisfied
+58,60,Silver,Very Satisfied
+58,46,Bronze,Very Satisfied
+59,55,Bronze,Very Satisfied
+59,41,Bronze,Dissatisfied
+60,49,Bronze,Very Satisfied
+60,40,Bronze,Neutral
+60,42,Bronze,Satisfied
+60,52,Bronze,Dissatisfied
+60,47,Bronze,Very Dissatisfied
+60,50,Bronze,Dissatisfied
+61,42,Bronze,Satisfied
+61,49,Bronze,Satisfied
+62,41,Bronze,Very Dissatisfied
+62,48,Bronze,Satisfied
+62,59,Bronze,Very Dissatisfied
+62,55,Bronze,Very Satisfied
+62,56,Bronze,Neutral
+62,42,Bronze,Dissatisfied
+63,50,Bronze,Dissatisfied
+63,46,Bronze,Very Satisfied
+63,43,Bronze,Satisfied
+63,48,Bronze,Very Dissatisfied
+63,52,Bronze,Dissatisfied
+63,54,Bronze,Very Dissatisfied
+64,42,Bronze,Neutral
+64,46,Bronze,Satisfied
+65,48,Bronze,Very Dissatisfied
+65,50,Bronze,Satisfied
+65,43,Bronze,Satisfied
+65,59,Bronze,Very Dissatisfied
+67,43,Bronze,Dissatisfied
+67,57,Bronze,Very Satisfied
+67,56,Bronze,Neutral
+67,40,Bronze,Dissatisfied
+69,58,Bronze,Dissatisfied
+69,91,Gold,Very Satisfied
+70,29,No,Satisfied
+70,77,Silver,Neutral
+71,35,Bronze,Dissatisfied
+71,95,Gold,Neutral
+71,11,No,Neutral
+71,75,Silver,Dissatisfied
+71,9,No,Very Satisfied
+71,75,Silver,Satisfied
+72,34,Bronze,Dissatisfied
+72,71,Silver,Very Dissatisfied
+73,5,No,Very Dissatisfied
+73,88,Silver,Satisfied
+73,7,No,Dissatisfied
+73,73,Silver,Very Dissatisfied
+74,10,No,Very Satisfied
+74,72,Silver,Dissatisfied
+75,5,No,Satisfied
+75,93,Gold,Very Satisfied
+76,40,Bronze,Dissatisfied
+76,87,Silver,Dissatisfied
+77,12,No,Very Satisfied
+77,97,Gold,Neutral
+77,36,Bronze,Satisfied
+77,74,Silver,Satisfied
+78,22,No,Neutral
+78,90,Gold,Very Satisfied
+78,17,No,Very Satisfied
+78,88,Silver,Satisfied
+78,20,No,Dissatisfied
+78,76,Silver,Dissatisfied
+78,16,No,Neutral
+78,89,Silver,Dissatisfied
+78,1,No,Very Dissatisfied
+78,78,Silver,Very Dissatisfied
+78,1,No,Very Dissatisfied
+78,73,Silver,Dissatisfied
+79,35,Bronze,Very Satisfied
+79,83,Silver,Neutral
+81,5,No,Dissatisfied
+81,93,Gold,Very Satisfied
+85,26,No,Satisfied
+85,75,Silver,Satisfied
+86,20,No,Satisfied
+86,95,Gold,Satisfied
+87,27,No,Very Dissatisfied
+87,63,Silver,Neutral
+87,13,No,Very Satisfied
+87,75,Silver,Satisfied
+87,10,No,Very Dissatisfied
+87,92,Gold,Dissatisfied
+88,13,No,Very Dissatisfied
+88,86,Silver,Satisfied
+88,15,No,Neutral
+88,69,Silver,Very Dissatisfied
+93,14,No,Dissatisfied
+93,90,Gold,Very Satisfied
+97,32,Bronze,Very Satisfied
+97,86,Silver,Neutral
+98,15,No,Satisfied
+98,88,Silver,Dissatisfied
+99,39,Bronze,Dissatisfied
+99,97,Gold,Very Satisfied
+101,24,No,Very Satisfied
+101,68,Silver,Very Dissatisfied
+103,17,No,Satisfied
+103,85,Silver,Dissatisfied
+103,23,No,Satisfied
+103,69,Silver,Very Satisfied
+113,8,No,Very Satisfied
+113,91,Gold,Satisfied
+120,16,No,Very Satisfied
+120,79,Silver,Satisfied
+126,28,No,Satisfied
+126,74,Silver,Very Satisfied
+137,18,No,Satisfied
+137,83,Silver,Very Satisfied
