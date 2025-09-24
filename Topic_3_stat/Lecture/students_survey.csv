@@ -1,0 +1,1201 @@
+Age,Grade_level,Study_hours_per_week,Preferred_study_method,Absent_days,Math_test_score,Extracurricular_participation,Preferred_language,Satisfaction_level,Future_plans
+24.0,Junior,20.0,Group-study,11,93.85,Yes,C++,95.79,Undecided
+20.0,Sophomore,31.0,Practical,7,54.99,Yes,Java,90.09,Freelancing
+22.0,Junior,8.0,Lecture,4,67.82,Yes,C++,96.21,Undecided
+23.0,Senior,24.0,Lecture,13,54.81,No,Java,76.23,Employment
+22.0,Senior,28.0,Lecture,11,67.19,Yes,Java,92.51,Higher education
+20.0,,21.0,Lecture,6,51.53,Yes,R,63.85,Freelancing
+23.0,Senior,21.0,Practical,10,88.7,No,R,83.12,Higher education
+18.0,Freshman,15.0,Practical,7,60.39,Yes,C++,68.01,Undecided
+20.0,Junior,9.0,Lecture,10,68.14,Yes,C++,91.52,Undecided
+22.0,Sophomore,24.0,Lecture,5,84.23,Yes,Java,88.98,Higher education
+20.0,Sophomore,31.0,Practical,8,96.24,No,R,54.33,Higher education
+22.0,Junior,22.0,Self-study,14,50.48,Yes,R,99.5,Higher education
+20.0,Junior,16.0,Lecture,7,74.31,Yes,C++,69.27,Undecided
+22.0,Senior,38.0,Group-study,8,79.71,No,C++,92.81,Employment
+20.0,,17.0,Practical,2,88.09,Yes,Python,70.66,Employment
+23.0,Junior,25.0,Group-study,12,65.07,Yes,R,79.83,Freelancing
+20.0,Sophomore,33.0,Group-study,10,63.31,Yes,Python,92.52,Higher education
+18.0,Freshman,29.0,Practical,13,54.95,No,Java,80.09,Higher education
+24.0,Sophomore,6.0,Self-study,0,51.9,No,Java,68.73,Higher education
+22.0,Junior,14.0,Self-study,12,95.51,No,C++,91.33,Higher education
+18.0,Freshman,19.0,Self-study,5,82.12,Yes,Java,80.66,Employment
+18.0,Freshman,23.0,Group-study,11,52.5,Yes,Java,72.96,Undecided
+23.0,Senior,32.0,Group-study,4,97.76,No,Python,84.98,Undecided
+,Senior,31.0,Lecture,14,95.26,Yes,R,66.69,Undecided
+23.0,Senior,27.0,Practical,10,58.3,No,Java,53.46,Undecided
+24.0,Sophomore,19.0,Lecture,0,66.42,No,C++,74.49,Employment
+23.0,Sophomore,17.0,Lecture,14,57.82,No,R,95.06,Employment
+21.0,Sophomore,23.0,Lecture,12,99.41,Yes,Python,91.8,Undecided
+22.0,Sophomore,7.0,Practical,11,96.67,Yes,C++,51.57,Employment
+18.0,Freshman,21.0,Group-study,13,75.07,Yes,R,93.06,Undecided
+24.0,Sophomore,30.0,Group-study,7,70.48,Yes,Python,66.37,Undecided
+22.0,Junior,26.0,Lecture,8,72.9,No,R,78.92,Freelancing
+23.0,,5.0,Group-study,14,78.74,Yes,Java,62.15,Higher education
+22.0,Junior,24.0,Lecture,1,72.83,Yes,,82.01,Higher education
+20.0,Freshman,20.0,Practical,1,87.62,No,R,71.13,Employment
+20.0,Junior,24.0,Self-study,7,76.65,No,Java,87.52,Undecided
+21.0,Junior,39.0,Practical,11,69.73,Yes,C++,86.85,Employment
+23.0,Senior,17.0,Lecture,10,96.49,Yes,Java,98.65,Higher education
+20.0,Freshman,29.0,Group-study,3,59.54,Yes,Python,59.15,Freelancing
+22.0,Junior,17.0,Group-study,6,92.23,Yes,Java,62.29,Freelancing
+20.0,Sophomore,27.0,Practical,5,66.42,No,Java,58.32,Undecided
+18.0,Freshman,20.0,Group-study,11,55.73,No,Python,81.01,Freelancing
+23.0,Senior,25.0,Lecture,0,65.93,Yes,C++,92.17,Employment
+,Sophomore,5.0,Practical,6,60.92,No,C++,80.12,Higher education
+,Junior,18.0,Practical,1,64.48,Yes,Java,63.79,Undecided
+22.0,Junior,8.0,Practical,6,53.16,Yes,Java,75.3,Employment
+19.0,Freshman,38.0,Practical,0,91.97,No,R,63.63,Freelancing
+18.0,Freshman,,Group-study,8,76.97,No,Java,56.78,Higher education
+23.0,Senior,23.0,Lecture,10,52.74,No,Java,72.37,Freelancing
+,Sophomore,15.0,Self-study,11,69.51,No,Java,85.1,Higher education
+24.0,Junior,18.0,Group-study,0,78.95,Yes,Java,75.86,Freelancing
+21.0,Junior,21.0,Lecture,1,70.49,No,C++,70.18,Higher education
+23.0,Junior,9.0,Group-study,5,66.58,Yes,Python,63.3,Higher education
+22.0,Senior,31.0,Lecture,0,93.15,Yes,Java,96.73,Undecided
+21.0,Sophomore,13.0,Group-study,13,76.41,No,Java,98.07,Employment
+22.0,Senior,,Self-study,7,71.91,Yes,R,84.27,Higher education
+23.0,Sophomore,,Self-study,12,89.83,Yes,Python,98.35,Undecided
+22.0,Junior,37.0,Self-study,4,77.54,Yes,Java,72.09,Freelancing
+,Sophomore,10.0,Practical,0,66.04,Yes,Java,61.98,Freelancing
+18.0,Freshman,26.0,Group-study,8,60.88,No,R,81.49,Undecided
+18.0,Freshman,33.0,Group-study,10,70.86,Yes,Java,95.68,Employment
+19.0,Freshman,16.0,Practical,9,85.99,Yes,Java,87.62,Undecided
+22.0,Junior,21.0,Self-study,0,63.79,Yes,C++,63.09,Freelancing
+18.0,Freshman,9.0,Self-study,7,95.63,Yes,Python,52.89,Higher education
+18.0,Freshman,10.0,Group-study,2,85.54,Yes,Java,78.48,Undecided
+22.0,Senior,18.0,Lecture,13,87.71,Yes,R,57.64,Employment
+24.0,Senior,12.0,Lecture,1,61.72,Yes,,63.43,Freelancing
+22.0,Junior,33.0,Self-study,8,71.54,Yes,Java,60.82,Higher education
+22.0,Sophomore,33.0,Practical,14,51.35,No,R,77.16,Higher education
+27.0,Senior,36.0,Self-study,14,50.06,Yes,C++,72.58,Higher education
+,Senior,13.0,Lecture,5,71.0,No,Java,76.84,Employment
+21.0,Sophomore,13.0,Practical,14,85.27,Yes,R,96.49,Freelancing
+22.0,Junior,7.0,Lecture,10,61.46,No,Java,92.07,Freelancing
+23.0,Junior,26.0,Self-study,6,65.46,Yes,Java,69.08,Higher education
+20.0,Sophomore,11.0,Group-study,4,68.37,No,R,65.38,Freelancing
+24.0,Junior,18.0,Group-study,9,84.86,No,R,56.88,Undecided
+19.0,Sophomore,18.0,Lecture,6,66.93,No,Java,94.3,Employment
+18.0,Freshman,14.0,Self-study,5,70.43,Yes,Python,70.35,Undecided
+23.0,Senior,15.0,Practical,4,85.51,Yes,R,58.37,Undecided
+23.0,Sophomore,13.0,Group-study,12,84.88,No,R,80.8,Higher education
+19.0,Freshman,23.0,Practical,12,64.36,No,Java,69.19,Freelancing
+21.0,Sophomore,16.0,Lecture,3,93.53,Yes,Python,97.61,Employment
+22.0,Junior,,Group-study,3,98.12,No,Java,91.09,Freelancing
+18.0,Freshman,15.0,Practical,8,56.03,No,Java,58.33,Freelancing
+23.0,Senior,35.0,Self-study,2,56.93,No,Java,99.31,Undecided
+20.0,Junior,15.0,Group-study,9,56.05,Yes,Java,86.94,Undecided
+23.0,Sophomore,15.0,Practical,0,69.26,Yes,C++,67.13,Freelancing
+20.0,Sophomore,15.0,Self-study,2,81.56,No,R,72.58,Employment
+24.0,Sophomore,6.0,Self-study,11,77.02,No,Java,66.68,Undecided
+21.0,Junior,21.0,Practical,11,61.84,No,R,73.01,Freelancing
+24.0,Sophomore,32.0,Lecture,12,62.77,No,Python,96.58,Undecided
+24.0,Junior,33.0,Lecture,3,91.3,Yes,Java,66.94,Undecided
+24.0,Senior,22.0,Group-study,8,96.75,No,R,89.28,Undecided
+20.0,Sophomore,,Self-study,0,56.99,No,Java,58.75,Undecided
+18.0,Freshman,,Self-study,2,55.82,No,Java,97.98,Employment
+20.0,Sophomore,12.0,Practical,12,66.67,No,Java,70.1,Employment
+23.0,Senior,27.0,Practical,11,85.75,No,Java,71.12,Freelancing
+22.0,Junior,10.0,Lecture,9,51.6,Yes,C++,70.97,Employment
+18.0,Freshman,24.0,Self-study,12,50.22,Yes,Python,59.43,Higher education
+23.0,Junior,16.0,Self-study,6,83.97,No,Java,51.42,Employment
+22.0,Senior,35.0,Practical,13,90.15,Yes,C++,69.0,Undecided
+,Junior,35.0,Practical,9,62.22,Yes,Java,76.65,Freelancing
+21.0,Junior,19.0,Lecture,7,87.49,No,Python,74.54,Higher education
+18.0,Freshman,19.0,Practical,5,88.62,Yes,Java,51.82,Undecided
+21.0,Junior,15.0,Practical,13,60.27,No,Java,89.57,Undecided
+21.0,Sophomore,31.0,Lecture,13,51.37,Yes,R,62.82,Employment
+18.0,Freshman,8.0,Practical,4,79.44,No,Python,76.8,Undecided
+,Sophomore,13.0,Practical,12,61.13,No,Java,72.87,Freelancing
+19.0,Freshman,27.0,Group-study,12,68.19,Yes,C++,70.81,Undecided
+,,11.0,Practical,14,60.33,Yes,C++,88.62,Undecided
+26.0,Senior,20.0,Practical,9,66.37,Yes,Python,61.45,Employment
+18.0,Freshman,,Group-study,4,94.77,Yes,Java,96.78,Undecided
+23.0,Sophomore,33.0,Lecture,4,90.79,Yes,Java,97.32,Employment
+21.0,Sophomore,21.0,Lecture,11,90.28,No,Java,72.71,Higher education
+18.0,Freshman,35.0,Lecture,0,55.0,No,Java,88.16,Undecided
+18.0,Freshman,18.0,Practical,7,76.56,Yes,Python,63.19,Employment
+24.0,Senior,23.0,Self-study,0,60.08,Yes,C++,72.25,Undecided
+24.0,Senior,19.0,Practical,6,99.05,Yes,Java,58.81,Undecided
+21.0,Junior,24.0,Lecture,11,67.6,No,R,93.33,Employment
+21.0,Sophomore,35.0,Self-study,8,60.85,Yes,Java,74.33,Employment
+23.0,Senior,14.0,Practical,8,69.26,Yes,C++,70.96,Freelancing
+23.0,Senior,34.0,Lecture,8,69.48,Yes,R,75.49,Employment
+24.0,Junior,6.0,Lecture,0,77.89,No,Python,76.01,Freelancing
+22.0,Senior,6.0,Self-study,3,72.58,Yes,C++,84.19,Undecided
+23.0,Senior,21.0,Self-study,1,89.93,Yes,Java,55.29,Employment
+23.0,Senior,37.0,Practical,5,56.94,Yes,Java,55.02,Higher education
+22.0,Junior,37.0,Lecture,8,75.13,Yes,C++,78.63,Higher education
+20.0,Freshman,6.0,Lecture,9,93.32,Yes,Java,75.31,Undecided
+23.0,Senior,5.0,Practical,7,97.85,No,R,88.43,Undecided
+24.0,Senior,22.0,Self-study,5,59.58,Yes,Python,59.65,Employment
+22.0,Junior,32.0,Practical,11,91.61,Yes,Java,56.22,Freelancing
+23.0,Senior,6.0,Practical,11,69.27,Yes,Java,52.12,Higher education
+24.0,Junior,34.0,Self-study,1,55.16,No,R,63.15,Employment
+19.0,Freshman,22.0,Lecture,12,54.73,No,R,88.05,Freelancing
+21.0,Sophomore,,Self-study,6,59.03,Yes,Python,92.13,Employment
+18.0,Freshman,5.0,Lecture,2,75.84,Yes,R,62.44,Undecided
+24.0,Senior,27.0,Lecture,13,65.44,Yes,C++,94.34,Employment
+19.0,Sophomore,16.0,Practical,0,82.44,No,Java,92.56,Higher education
+21.0,Sophomore,31.0,Practical,8,76.23,No,Java,65.96,Employment
+20.0,Junior,18.0,Group-study,1,68.29,Yes,C++,56.52,Higher education
+23.0,Senior,13.0,Group-study,7,82.11,Yes,C++,52.63,Undecided
+20.0,Sophomore,28.0,Group-study,1,77.57,Yes,Java,81.2,Employment
+18.0,Freshman,23.0,Lecture,0,69.48,Yes,Java,84.19,Higher education
+19.0,Freshman,21.0,Self-study,6,79.39,No,Python,57.12,Undecided
+22.0,Senior,9.0,Group-study,13,94.18,No,Python,76.83,Employment
+18.0,Freshman,39.0,Lecture,5,96.13,Yes,R,56.85,Higher education
+22.0,Sophomore,9.0,Self-study,0,52.0,No,Python,59.97,Freelancing
+21.0,Sophomore,24.0,Group-study,11,83.82,Yes,C++,65.03,Undecided
+24.0,Junior,36.0,Practical,13,59.29,Yes,Python,57.82,Higher education
+18.0,,5.0,Lecture,14,75.97,Yes,R,69.98,Employment
+19.0,Sophomore,9.0,Group-study,3,91.17,No,Java,90.53,Employment
+23.0,Senior,10.0,Group-study,1,61.63,Yes,Java,84.22,Undecided
+24.0,Senior,7.0,Group-study,2,90.5,No,R,66.5,Employment
+23.0,Senior,21.0,Practical,7,86.2,No,Java,97.99,Freelancing
+21.0,Junior,22.0,Practical,6,89.35,Yes,Java,76.77,Higher education
+20.0,Junior,16.0,Group-study,3,58.6,Yes,C++,85.15,Higher education
+23.0,Sophomore,32.0,Practical,1,85.58,No,Java,69.06,Employment
+23.0,Sophomore,26.0,Practical,8,94.2,Yes,Python,65.55,Employment
+18.0,Freshman,10.0,Self-study,9,70.85,Yes,Java,61.94,Higher education
+22.0,Junior,29.0,Practical,5,93.01,No,Python,98.35,Employment
+24.0,Sophomore,8.0,Group-study,4,79.2,No,Java,85.97,Freelancing
+18.0,Freshman,10.0,Practical,1,63.36,Yes,R,77.79,Freelancing
+22.0,Junior,30.0,Group-study,8,69.56,Yes,Python,61.22,Employment
+23.0,Senior,30.0,Self-study,6,78.39,Yes,R,69.3,Undecided
+20.0,Freshman,30.0,Self-study,12,71.34,No,Python,58.42,Freelancing
+18.0,Freshman,20.0,Group-study,1,61.53,No,C++,82.1,Undecided
+24.0,Sophomore,24.0,Practical,6,84.98,Yes,Java,73.03,Undecided
+23.0,Senior,32.0,Group-study,6,71.49,No,Java,85.01,Undecided
+20.0,Sophomore,9.0,Lecture,9,78.81,No,Java,67.65,Freelancing
+18.0,Freshman,36.0,Group-study,4,71.23,Yes,Java,57.41,Freelancing
+,Sophomore,19.0,Self-study,11,72.77,No,R,72.84,Undecided
+18.0,Freshman,12.0,Practical,7,80.96,Yes,Python,93.64,Employment
+20.0,Sophomore,39.0,Practical,5,75.27,No,Java,50.85,Undecided
+22.0,Sophomore,,Group-study,7,63.06,Yes,,79.13,Freelancing
+19.0,Freshman,29.0,Group-study,3,53.62,Yes,C++,73.46,Higher education
+21.0,Sophomore,18.0,Practical,5,89.59,No,Java,97.3,Undecided
+18.0,Freshman,32.0,Lecture,7,77.09,No,R,63.3,Freelancing
+18.0,Freshman,14.0,Lecture,1,79.06,Yes,Python,80.83,Freelancing
+24.0,Sophomore,5.0,Self-study,8,91.41,No,Java,71.51,Undecided
+23.0,Junior,28.0,Self-study,9,89.17,No,Java,63.55,Undecided
+23.0,Senior,19.0,Self-study,14,50.73,Yes,R,74.34,Employment
+20.0,Sophomore,20.0,Practical,6,66.48,No,C++,77.51,Higher education
+18.0,Freshman,36.0,Lecture,0,86.53,Yes,R,52.79,Higher education
+20.0,Sophomore,24.0,Lecture,3,82.49,No,Java,81.31,Freelancing
+18.0,Freshman,17.0,Self-study,4,98.59,Yes,Python,66.51,Freelancing
+22.0,,17.0,Group-study,8,64.28,No,Java,84.19,Undecided
+24.0,Junior,20.0,Self-study,7,62.72,No,R,70.55,Freelancing
+20.0,Junior,22.0,Practical,13,97.71,No,Python,78.67,Freelancing
+22.0,Sophomore,,Practical,8,78.33,Yes,Java,91.17,Undecided
+18.0,Freshman,32.0,Group-study,4,82.8,Yes,,57.83,Undecided
+19.0,Sophomore,27.0,Practical,9,97.68,Yes,Python,85.61,Higher education
+24.0,Sophomore,25.0,Self-study,10,57.74,Yes,Java,60.71,Employment
+23.0,Sophomore,15.0,Self-study,11,74.58,No,Python,86.68,Higher education
+22.0,Junior,23.0,Self-study,0,79.72,Yes,C++,81.19,Undecided
+108.0,Freshman,20.0,Group-study,0,59.15,Yes,C++,66.84,Employment
+23.0,Sophomore,6.0,Lecture,2,83.91,No,Python,93.28,Freelancing
+19.0,Sophomore,9.0,Group-study,4,64.69,Yes,C++,82.13,Employment
+20.0,Sophomore,5.0,Lecture,12,67.11,No,R,88.63,Higher education
+24.0,Sophomore,31.0,Lecture,2,66.84,Yes,Java,89.33,Freelancing
+22.0,Senior,,Practical,7,55.71,No,,64.95,Undecided
+180.0,Junior,36.0,Practical,3,71.57,No,Java,58.19,Freelancing
+22.0,Sophomore,27.0,Group-study,13,56.68,No,Python,69.97,Higher education
+24.0,Junior,39.0,Practical,13,86.41,No,Java,59.26,Higher education
+18.0,Freshman,17.0,Self-study,12,68.67,No,C++,78.79,Undecided
+22.0,Senior,25.0,Lecture,4,92.11,No,Java,77.27,Freelancing
+23.0,Senior,6.0,Group-study,9,93.34,Yes,Java,77.96,Freelancing
+24.0,Junior,26.0,Group-study,11,61.36,Yes,Java,80.94,Undecided
+22.0,,21.0,Practical,14,84.33,No,Python,81.67,Employment
+92.0,Junior,33.0,Group-study,1,64.75,No,Java,52.1,Freelancing
+19.0,Sophomore,17.0,Self-study,5,69.99,Yes,Java,55.89,Higher education
+19.0,Sophomore,25.0,Lecture,9,96.98,Yes,C++,95.41,Employment
+18.0,Freshman,33.0,Lecture,7,55.85,No,R,63.13,Employment
+20.0,Freshman,23.0,Practical,1,60.99,No,R,84.31,Higher education
+23.0,Senior,25.0,Practical,12,71.41,Yes,Java,89.42,Undecided
+18.0,Freshman,,Lecture,5,59.49,No,Java,56.62,Undecided
+23.0,Senior,9.0,Group-study,11,60.12,Yes,Python,55.33,Higher education
+21.0,Sophomore,29.0,Practical,6,71.4,Yes,Python,71.56,Undecided
+24.0,Senior,20.0,Practical,8,69.92,No,Java,75.25,Employment
+22.0,Junior,11.0,Lecture,2,65.12,No,Java,89.89,Freelancing
+20.0,Junior,15.0,Practical,14,64.5,No,C++,98.26,Undecided
+18.0,Freshman,27.0,Lecture,13,89.96,No,C++,83.72,Undecided
+23.0,Senior,19.0,Group-study,1,56.5,Yes,Java,97.35,Employment
+21.0,Sophomore,9.0,Self-study,7,64.37,No,C++,53.68,Higher education
+24.0,Junior,10.0,Group-study,9,53.36,No,R,95.73,Higher education
+210.0,Sophomore,5.0,Lecture,7,55.25,No,Java,72.89,Freelancing
+22.0,Junior,29.0,Lecture,4,52.47,Yes,C++,93.05,Higher education
+19.0,Sophomore,5.0,Group-study,0,98.27,No,C++,94.53,Employment
+23.0,Junior,25.0,Group-study,6,70.84,No,Java,93.5,Employment
+24.0,Senior,7.0,Group-study,14,85.92,No,Java,71.23,Employment
+19.0,,5.0,Self-study,12,94.73,Yes,R,96.17,Freelancing
+24.0,Senior,17.0,Self-study,7,59.86,No,R,72.35,Higher education
+23.0,Senior,18.0,Practical,7,81.45,Yes,Python,60.39,Employment
+22.0,Junior,13.0,Group-study,1,77.34,No,Java,71.01,Higher education
+23.0,Senior,31.0,Lecture,9,55.36,Yes,Java,66.12,Employment
+23.0,Senior,9.0,Lecture,10,62.14,No,R,80.07,Higher education
+23.0,Junior,7.0,Lecture,13,84.81,No,Python,77.73,Employment
+18.0,Freshman,37.0,Lecture,6,65.2,Yes,Java,60.45,Higher education
+195.0,Sophomore,25.0,Lecture,5,81.84,Yes,Python,58.08,Freelancing
+18.0,Freshman,27.0,Practical,3,53.2,Yes,C++,65.34,Employment
+24.0,Sophomore,7.0,Group-study,9,58.43,Yes,C++,89.53,Freelancing
+,Sophomore,32.0,Practical,10,94.74,No,C++,69.07,Higher education
+20.0,Sophomore,26.0,Self-study,1,67.63,No,C++,63.55,Freelancing
+24.0,Junior,13.0,Lecture,2,85.47,Yes,Java,64.49,Employment
+,,8.0,Group-study,8,92.89,No,R,85.28,Employment
+23.0,Sophomore,35.0,Self-study,3,90.82,Yes,C++,87.58,Higher education
+23.0,Senior,39.0,Practical,6,56.26,Yes,Java,52.0,Freelancing
+18.0,Freshman,5.0,Self-study,9,86.09,No,C++,77.06,Freelancing
+23.0,Senior,37.0,Self-study,6,50.73,Yes,R,65.77,Freelancing
+22.0,Junior,21.0,Self-study,2,89.52,No,Java,75.09,Freelancing
+23.0,Senior,5.0,Self-study,4,91.24,Yes,C++,55.41,Higher education
+23.0,Senior,30.0,Self-study,7,68.34,No,Java,69.41,Undecided
+23.0,Junior,27.0,Self-study,8,73.12,Yes,Java,74.24,Undecided
+20.0,Junior,29.0,Self-study,7,94.57,Yes,Java,68.42,Higher education
+21.0,Junior,9.0,Practical,6,93.49,Yes,Python,94.48,Employment
+20.0,Sophomore,,Lecture,4,60.21,Yes,Python,95.27,Higher education
+18.0,Freshman,,Lecture,0,93.75,No,Java,89.24,Employment
+20.0,Junior,6.0,Self-study,5,54.31,Yes,,68.35,Freelancing
+22.0,Sophomore,33.0,Group-study,7,77.85,No,C++,57.08,Undecided
+19.0,Freshman,18.0,Group-study,13,82.29,No,Java,80.13,Freelancing
+18.0,Freshman,29.0,Practical,7,66.54,No,Java,97.5,Freelancing
+21.0,Sophomore,31.0,Lecture,0,99.28,No,Python,89.08,Undecided
+23.0,Senior,38.0,Self-study,14,71.96,No,Java,81.83,Higher education
+22.0,Senior,9.0,Group-study,5,50.4,Yes,,69.72,Freelancing
+20.0,Junior,36.0,Practical,2,80.36,No,R,52.84,Freelancing
+20.0,Sophomore,5.0,Practical,10,76.91,Yes,Java,84.27,Undecided
+23.0,Senior,32.0,Group-study,4,93.74,Yes,C++,67.34,Employment
+18.0,Freshman,31.0,Lecture,4,74.49,Yes,R,88.59,Higher education
+24.0,Junior,19.0,Practical,12,78.47,Yes,R,80.52,Freelancing
+21.0,Junior,10.0,Group-study,13,70.65,Yes,Python,91.64,Undecided
+20.0,Freshman,15.0,Practical,5,58.56,No,Java,83.55,Higher education
+18.0,Freshman,14.0,Practical,0,60.84,Yes,R,79.21,Freelancing
+20.0,Freshman,28.0,Practical,14,95.17,No,Python,70.86,Undecided
+23.0,Senior,12.0,Lecture,13,55.65,Yes,Python,59.8,Higher education
+24.0,Senior,12.0,Practical,1,83.38,Yes,C++,76.92,Freelancing
+22.0,Junior,6.0,Practical,6,78.54,No,C++,83.62,Undecided
+18.0,Freshman,29.0,Self-study,12,57.63,Yes,,75.96,Freelancing
+22.0,Junior,15.0,Self-study,8,83.3,No,C++,52.72,Undecided
+,Junior,14.0,Lecture,13,87.18,Yes,Java,56.09,Higher education
+22.0,Senior,29.0,Lecture,10,60.14,No,R,76.5,Undecided
+18.0,Freshman,15.0,Group-study,5,89.26,Yes,R,81.32,Undecided
+24.0,Senior,12.0,Self-study,6,97.6,Yes,C++,65.47,Higher education
+20.0,Junior,31.0,Practical,12,87.16,Yes,C++,93.17,Higher education
+18.0,Freshman,29.0,Self-study,9,97.45,Yes,R,69.48,Employment
+22.0,Junior,26.0,Lecture,4,67.76,Yes,Java,79.21,Higher education
+21.0,Sophomore,9.0,Self-study,1,83.35,No,Python,64.25,Undecided
+22.0,Senior,26.0,Lecture,10,95.04,No,Java,51.11,Freelancing
+22.0,Sophomore,27.0,Lecture,14,67.54,No,Java,58.24,Employment
+23.0,Senior,15.0,Practical,7,53.09,No,C++,73.75,Undecided
+23.0,Senior,9.0,Group-study,3,61.82,No,C++,99.07,Undecided
+20.0,Freshman,24.0,Self-study,6,53.79,No,Java,75.22,Undecided
+19.0,Freshman,7.0,Practical,5,59.91,No,Java,96.75,Higher education
+24.0,Junior,12.0,Self-study,12,82.97,Yes,C++,97.33,Higher education
+22.0,Senior,25.0,Group-study,12,59.91,Yes,R,75.01,Employment
+24.0,Junior,22.0,Lecture,3,53.11,Yes,Java,63.85,Freelancing
+22.0,Junior,6.0,Self-study,9,86.73,No,R,53.74,Higher education
+19.0,Freshman,17.0,Lecture,12,81.67,Yes,Java,78.88,Employment
+20.0,Freshman,19.0,Self-study,11,94.59,Yes,Java,82.32,Freelancing
+18.0,Freshman,25.0,Group-study,11,81.21,Yes,C++,63.17,Undecided
+18.0,Freshman,34.0,Group-study,1,52.36,No,Java,78.52,Undecided
+22.0,Senior,39.0,Group-study,8,65.63,Yes,Java,50.6,Undecided
+18.0,Freshman,38.0,Group-study,12,59.06,No,Python,75.85,Undecided
+20.0,Freshman,31.0,Practical,12,86.29,No,Java,51.7,Employment
+18.0,Freshman,29.0,Lecture,7,78.87,No,Java,50.0,Freelancing
+21.0,Junior,39.0,Practical,3,97.77,Yes,R,88.65,Employment
+23.0,Senior,21.0,Lecture,10,52.26,No,Java,63.83,Higher education
+22.0,Sophomore,5.0,Self-study,4,76.61,Yes,Java,55.33,Freelancing
+18.0,Freshman,18.0,Self-study,3,78.59,No,C++,66.77,Employment
+22.0,Sophomore,12.0,Self-study,12,53.9,No,C++,63.41,Employment
+22.0,Junior,26.0,Group-study,8,74.14,No,Python,62.44,Freelancing
+23.0,Sophomore,37.0,Group-study,9,78.24,No,Java,99.07,Employment
+21.0,Junior,12.0,Self-study,4,83.31,Yes,R,82.87,Freelancing
+19.0,Freshman,6.0,Self-study,13,84.9,No,Python,99.89,Freelancing
+18.0,Freshman,34.0,Lecture,1,79.75,No,Python,73.27,Freelancing
+22.0,Sophomore,28.0,Practical,9,64.12,No,Java,92.81,Freelancing
+18.0,Freshman,35.0,Group-study,14,50.42,No,Python,73.89,Freelancing
+22.0,Sophomore,15.0,Lecture,2,56.29,No,R,71.31,Higher education
+19.0,Sophomore,25.0,Group-study,4,52.27,No,C++,74.5,Employment
+23.0,Junior,32.0,Group-study,13,69.79,Yes,Python,78.27,Employment
+23.0,Senior,17.0,Lecture,7,72.71,No,R,50.92,Undecided
+24.0,Sophomore,6.0,Group-study,6,84.14,Yes,C++,82.59,Higher education
+23.0,Junior,39.0,Group-study,7,85.32,Yes,C++,71.36,Freelancing
+,Junior,38.0,Group-study,13,72.43,No,Python,79.09,Employment
+23.0,Senior,12.0,Lecture,6,92.54,Yes,Java,87.57,Employment
+,Senior,10.0,Group-study,13,86.28,Yes,C++,78.14,Employment
+20.0,Freshman,20.0,Practical,0,60.03,Yes,Python,73.59,Freelancing
+21.0,Sophomore,22.0,Practical,8,55.35,Yes,Python,74.39,Higher education
+21.0,Sophomore,20.0,Lecture,14,78.55,Yes,R,58.26,Employment
+22.0,Junior,13.0,Lecture,12,77.6,Yes,C++,97.26,Undecided
+19.0,Sophomore,19.0,Self-study,12,68.67,Yes,Java,73.26,Freelancing
+19.0,,25.0,Group-study,5,88.34,No,R,55.2,Freelancing
+19.0,Freshman,20.0,Group-study,4,94.49,Yes,Python,66.32,Higher education
+22.0,Junior,19.0,Self-study,9,85.58,Yes,C++,76.52,Freelancing
+20.0,Freshman,20.0,Self-study,0,69.35,Yes,R,55.31,Freelancing
+24.0,Junior,30.0,Group-study,8,51.2,No,R,65.13,Higher education
+24.0,Junior,21.0,Self-study,11,81.86,No,Python,98.8,Undecided
+20.0,Sophomore,8.0,Practical,4,74.37,Yes,R,52.12,Employment
+18.0,Freshman,21.0,Self-study,8,99.17,No,Python,93.03,Freelancing
+23.0,Senior,19.0,Lecture,0,89.83,No,Java,64.38,Undecided
+22.0,Sophomore,32.0,Lecture,8,72.81,Yes,Python,79.05,Undecided
+23.0,Junior,35.0,Lecture,9,78.23,Yes,Java,51.31,Freelancing
+23.0,Senior,18.0,Lecture,12,57.95,Yes,Python,98.64,Higher education
+21.0,Sophomore,19.0,Lecture,13,67.37,Yes,Python,69.42,Employment
+,Junior,30.0,Group-study,13,94.83,No,R,80.78,Employment
+18.0,Freshman,12.0,Self-study,7,59.72,Yes,Java,99.31,Freelancing
+,,18.0,Self-study,7,52.96,Yes,Java,79.49,Freelancing
+23.0,Sophomore,39.0,Group-study,6,76.77,No,C++,61.77,Freelancing
+18.0,Freshman,29.0,Self-study,14,85.72,Yes,C++,98.66,Higher education
+20.0,Junior,29.0,Self-study,7,75.25,No,C++,92.15,Undecided
+23.0,Senior,15.0,Lecture,0,79.09,Yes,Java,81.35,Undecided
+24.0,Junior,11.0,Practical,3,65.82,No,Java,66.25,Undecided
+19.0,Freshman,36.0,Group-study,7,66.25,Yes,C++,70.65,Employment
+23.0,Senior,11.0,Self-study,10,93.57,No,C++,74.35,Higher education
+24.0,Senior,14.0,Lecture,3,71.41,No,R,63.17,Freelancing
+24.0,Junior,16.0,Self-study,12,83.91,No,Java,62.58,Employment
+,Senior,15.0,Practical,5,54.3,Yes,,51.82,Freelancing
+,Junior,36.0,Self-study,11,93.17,Yes,Java,56.09,Higher education
+23.0,Senior,10.0,Practical,5,69.31,No,R,57.94,Employment
+24.0,,14.0,Group-study,14,82.53,No,Java,64.08,Employment
+,Freshman,8.0,Lecture,8,65.75,Yes,R,61.44,Undecided
+24.0,Junior,35.0,Group-study,7,84.12,No,C++,53.41,Freelancing
+19.0,Sophomore,8.0,Self-study,8,76.07,Yes,Python,53.79,Undecided
+23.0,Senior,21.0,Practical,13,86.27,Yes,Python,66.36,Employment
+,Freshman,28.0,Lecture,14,96.02,No,R,62.96,Undecided
+22.0,Junior,26.0,Lecture,0,65.25,Yes,,94.24,Undecided
+18.0,Freshman,33.0,Lecture,7,95.16,No,Python,57.82,Higher education
+19.0,Freshman,20.0,Lecture,0,64.93,No,R,96.12,Higher education
+23.0,Senior,5.0,Lecture,6,67.66,No,C++,96.71,Employment
+22.0,Junior,32.0,Practical,7,73.27,Yes,Java,99.1,Higher education
+24.0,Senior,19.0,Self-study,8,92.76,Yes,Java,85.01,Employment
+21.0,Sophomore,34.0,Practical,12,76.01,Yes,Java,99.19,Freelancing
+24.0,Senior,31.0,Practical,14,58.31,No,Java,82.21,Undecided
+18.0,Freshman,25.0,Group-study,11,55.84,Yes,C++,52.34,Employment
+23.0,Junior,35.0,Self-study,10,96.09,No,R,87.38,Freelancing
+23.0,Senior,15.0,Group-study,8,68.81,No,Python,57.48,Higher education
+18.0,Freshman,30.0,Group-study,10,76.43,Yes,Java,97.59,Employment
+18.0,Freshman,38.0,Lecture,13,75.41,No,Java,84.17,Employment
+20.0,Freshman,18.0,Group-study,3,54.58,No,R,88.21,Employment
+22.0,Junior,18.0,Self-study,2,68.71,No,Python,88.11,Undecided
+19.0,Freshman,29.0,Practical,4,66.34,No,Python,82.89,Employment
+20.0,Sophomore,28.0,Self-study,12,56.94,No,Java,61.83,Higher education
+,Junior,5.0,Practical,5,64.72,Yes,C++,85.47,Employment
+20.0,Sophomore,24.0,Self-study,11,87.25,Yes,R,79.76,Undecided
+20.0,Sophomore,38.0,Lecture,9,56.47,Yes,Python,69.02,Employment
+18.0,Freshman,23.0,Group-study,14,90.34,Yes,C++,77.42,Freelancing
+21.0,Junior,35.0,Practical,8,84.19,No,C++,83.51,Freelancing
+19.0,Sophomore,27.0,Group-study,0,76.53,No,R,87.42,Undecided
+22.0,Sophomore,23.0,Lecture,13,53.36,No,Java,98.33,Freelancing
+22.0,Sophomore,38.0,Self-study,12,78.73,Yes,Java,77.62,Employment
+20.0,Sophomore,10.0,Lecture,9,53.37,No,Python,53.09,Undecided
+18.0,Freshman,37.0,Practical,2,86.21,Yes,R,89.83,Freelancing
+,Sophomore,19.0,Self-study,8,92.42,Yes,Java,59.43,Employment
+20.0,Junior,37.0,Group-study,8,94.79,Yes,Java,87.87,Employment
+18.0,Freshman,36.0,Self-study,1,59.93,No,C++,69.39,Freelancing
+23.0,Senior,15.0,Self-study,12,53.57,No,Java,50.62,Undecided
+22.0,Sophomore,29.0,Practical,13,87.78,No,Java,73.53,Higher education
+23.0,Senior,15.0,Lecture,4,52.38,No,Java,79.53,Employment
+22.0,Junior,25.0,Group-study,11,63.2,Yes,Java,56.79,Undecided
+22.0,Senior,7.0,Lecture,8,54.47,No,C++,62.38,Higher education
+22.0,Sophomore,36.0,Lecture,5,95.74,Yes,Java,58.78,Freelancing
+21.0,Sophomore,23.0,Group-study,7,89.92,Yes,,67.7,Freelancing
+23.0,Senior,12.0,Lecture,4,80.48,No,Java,72.25,Employment
+22.0,Sophomore,25.0,Group-study,9,58.82,No,Java,51.9,Undecided
+24.0,,35.0,Practical,11,65.61,Yes,Java,79.78,Freelancing
+23.0,Senior,19.0,Self-study,13,84.8,No,Java,63.89,Undecided
+24.0,Senior,35.0,Lecture,10,96.06,Yes,R,78.86,Undecided
+20.0,Sophomore,29.0,Self-study,4,96.0,Yes,Java,93.34,Freelancing
+22.0,Junior,9.0,Group-study,14,78.77,No,R,98.31,Undecided
+24.0,Sophomore,28.0,Self-study,12,69.99,No,R,98.77,Undecided
+23.0,Senior,,Self-study,11,73.72,Yes,R,60.12,Employment
+23.0,Senior,26.0,Practical,6,62.35,No,,63.9,Higher education
+21.0,Junior,,Self-study,5,76.39,No,R,63.43,Freelancing
+,Sophomore,24.0,Self-study,5,51.44,No,R,96.27,Undecided
+18.0,Freshman,14.0,Practical,5,51.11,Yes,R,89.05,Higher education
+18.0,Freshman,39.0,Self-study,13,91.17,No,C++,54.84,Freelancing
+20.0,Sophomore,35.0,Group-study,12,95.33,Yes,R,83.21,Higher education
+23.0,Senior,32.0,Group-study,2,95.36,No,Java,58.87,Freelancing
+23.0,Sophomore,21.0,Lecture,6,64.25,No,Java,67.55,Higher education
+19.0,Freshman,26.0,Group-study,11,89.65,No,R,51.4,Higher education
+18.0,Freshman,21.0,Lecture,14,60.25,Yes,R,66.84,Higher education
+22.0,,17.0,Self-study,2,53.85,Yes,R,52.4,Employment
+21.0,Sophomore,8.0,Self-study,10,54.2,Yes,Java,71.2,Undecided
+23.0,Senior,38.0,Lecture,7,80.17,Yes,Java,72.41,Freelancing
+20.0,Junior,28.0,Self-study,10,69.79,No,C++,50.82,Employment
+,Junior,10.0,Lecture,4,66.39,No,R,76.01,Freelancing
+22.0,Junior,19.0,Self-study,1,81.33,No,Python,74.15,Undecided
+18.0,Freshman,29.0,Group-study,10,66.3,No,Java,61.88,Higher education
+24.0,Senior,30.0,Group-study,8,80.64,Yes,Python,64.36,Higher education
+,Sophomore,20.0,Lecture,11,97.99,Yes,C++,70.64,Freelancing
+21.0,Junior,38.0,Self-study,0,70.59,Yes,C++,94.08,Employment
+23.0,Senior,18.0,Practical,9,59.21,No,Java,71.88,Undecided
+20.0,Sophomore,31.0,Group-study,0,78.69,Yes,Java,61.89,Undecided
+22.0,Junior,9.0,Practical,7,84.84,No,Java,75.65,Higher education
+24.0,Senior,30.0,Group-study,5,69.09,No,Java,54.0,Freelancing
+23.0,Sophomore,11.0,Self-study,2,77.67,No,Java,84.0,Higher education
+22.0,Sophomore,21.0,Group-study,4,93.54,No,Java,96.64,Undecided
+18.0,Freshman,37.0,Practical,2,70.33,No,Java,56.65,Employment
+22.0,Sophomore,25.0,Self-study,2,76.59,Yes,C++,73.87,Higher education
+21.0,Junior,21.0,Lecture,14,66.92,Yes,Python,92.33,Employment
+20.0,Sophomore,26.0,Group-study,13,86.92,Yes,Python,73.35,Undecided
+,Senior,18.0,Lecture,7,56.17,Yes,R,70.45,Employment
+23.0,Sophomore,33.0,Self-study,3,58.26,No,C++,98.63,Undecided
+18.0,Freshman,15.0,Group-study,13,78.8,Yes,Python,67.37,Higher education
+22.0,Junior,19.0,Self-study,14,74.66,No,Java,80.98,Employment
+24.0,Senior,6.0,Practical,13,70.17,No,Java,61.77,Employment
+23.0,Sophomore,10.0,Group-study,14,83.89,Yes,R,99.17,Higher education
+20.0,Sophomore,9.0,Group-study,11,63.11,Yes,C++,91.5,Undecided
+24.0,Junior,30.0,Lecture,13,55.14,Yes,C++,75.51,Employment
+20.0,Junior,21.0,Practical,4,87.11,No,,59.92,Higher education
+24.0,Junior,18.0,Self-study,7,54.4,Yes,Java,75.87,Employment
+23.0,Senior,27.0,Group-study,12,51.05,No,R,61.5,Undecided
+22.0,Junior,10.0,Self-study,7,87.72,Yes,C++,53.42,Higher education
+23.0,Senior,31.0,Practical,8,86.28,Yes,Java,53.76,Freelancing
+20.0,Sophomore,30.0,Group-study,11,96.51,Yes,Java,95.83,Freelancing
+23.0,Senior,9.0,Group-study,12,68.85,Yes,C++,59.55,Freelancing
+21.0,Sophomore,37.0,Group-study,6,50.55,Yes,Java,50.35,Employment
+22.0,Junior,33.0,Self-study,1,82.37,Yes,Java,59.31,Freelancing
+24.0,Senior,10.0,Self-study,12,89.07,No,C++,68.79,Undecided
+22.0,Junior,33.0,Lecture,8,59.7,No,Java,58.25,Employment
+20.0,Sophomore,39.0,Practical,3,97.54,No,Java,56.57,Employment
+22.0,Junior,15.0,Group-study,4,67.81,No,R,78.42,Higher education
+24.0,Senior,35.0,Lecture,5,66.27,Yes,C++,80.19,Employment
+24.0,Senior,16.0,Lecture,0,65.28,Yes,Python,79.73,Undecided
+22.0,Sophomore,36.0,Group-study,5,71.51,No,C++,76.02,Freelancing
+23.0,Senior,32.0,Group-study,3,85.69,Yes,C++,79.95,Employment
+24.0,Senior,35.0,Self-study,1,94.83,No,Java,71.39,Employment
+23.0,Senior,11.0,Practical,2,58.28,Yes,,73.01,Employment
+23.0,Sophomore,34.0,Group-study,6,53.15,Yes,R,94.64,Higher education
+20.0,Junior,16.0,Practical,10,69.7,No,Java,94.91,Higher education
+18.0,Freshman,34.0,Lecture,12,89.66,Yes,C++,71.82,Employment
+24.0,Junior,15.0,Group-study,14,62.09,Yes,C++,96.18,Higher education
+23.0,Senior,10.0,Group-study,3,69.4,No,Python,67.32,Freelancing
+23.0,Senior,18.0,Lecture,14,92.21,Yes,Java,89.68,Employment
+23.0,Junior,23.0,Self-study,2,55.58,No,Java,82.67,Employment
+22.0,Junior,25.0,Practical,3,63.22,No,C++,68.42,Higher education
+19.0,Sophomore,,Self-study,11,60.79,Yes,R,57.29,Undecided
+21.0,Junior,20.0,Group-study,3,90.69,No,Java,64.83,Higher education
+18.0,Freshman,10.0,Lecture,2,95.41,No,Java,91.83,Freelancing
+23.0,Senior,27.0,Practical,7,64.09,Yes,C++,75.73,Higher education
+18.0,Freshman,25.0,Practical,11,69.71,Yes,Java,52.0,Freelancing
+24.0,Junior,17.0,Lecture,0,88.01,Yes,C++,54.59,Undecided
+22.0,Junior,9.0,Group-study,12,59.33,No,C++,75.88,Employment
+23.0,Senior,23.0,Group-study,11,91.99,No,C++,87.45,Undecided
+18.0,Freshman,28.0,Group-study,8,91.0,Yes,Java,94.95,Undecided
+23.0,Senior,35.0,Lecture,5,79.66,No,Java,74.7,Freelancing
+22.0,Junior,7.0,Practical,7,58.3,No,Java,88.31,Freelancing
+20.0,Freshman,27.0,Lecture,4,75.86,Yes,,75.02,Employment
+18.0,Freshman,,Group-study,12,58.97,No,Python,94.2,Employment
+19.0,Freshman,31.0,Group-study,9,94.69,Yes,R,82.25,Freelancing
+24.0,,15.0,Group-study,12,97.87,No,Java,65.29,Freelancing
+23.0,Senior,31.0,Practical,1,89.22,No,R,96.93,Employment
+18.0,Freshman,17.0,Group-study,4,77.57,Yes,Java,88.43,Undecided
+19.0,Sophomore,37.0,Practical,14,90.28,No,R,68.05,Undecided
+20.0,Junior,37.0,Lecture,6,56.73,No,R,94.42,Undecided
+22.0,Sophomore,39.0,Self-study,14,87.44,Yes,Java,54.3,Higher education
+21.0,Sophomore,14.0,Practical,11,89.53,Yes,Python,87.69,Employment
+22.0,,31.0,Self-study,8,73.22,No,R,70.51,Freelancing
+20.0,Sophomore,30.0,Practical,13,55.92,Yes,C++,78.55,Undecided
+22.0,Senior,33.0,Practical,9,93.93,Yes,Java,71.19,Freelancing
+21.0,Junior,,Practical,4,92.76,No,Java,60.07,Employment
+24.0,Sophomore,36.0,Group-study,3,74.33,No,Python,90.81,Higher education
+18.0,Freshman,34.0,Group-study,4,57.87,No,R,58.11,Higher education
+20.0,,13.0,Practical,5,88.23,No,Java,52.27,Higher education
+22.0,Junior,39.0,Self-study,9,57.98,Yes,C++,52.6,Employment
+22.0,Senior,23.0,Group-study,2,54.45,Yes,R,62.8,Employment
+23.0,Senior,24.0,Group-study,14,83.35,No,C++,64.22,Freelancing
+21.0,Junior,33.0,Practical,1,71.68,No,Python,64.15,Undecided
+18.0,Freshman,30.0,Practical,14,81.06,No,C++,85.16,Undecided
+23.0,Sophomore,39.0,Practical,1,53.18,Yes,C++,77.41,Employment
+24.0,Senior,32.0,Practical,11,56.61,Yes,C++,79.2,Employment
+24.0,Senior,14.0,Lecture,13,99.02,Yes,Java,94.13,Higher education
+24.0,Sophomore,,Group-study,9,85.87,No,C++,51.15,Employment
+20.0,Junior,24.0,Group-study,5,85.78,Yes,Python,76.27,Freelancing
+22.0,Junior,6.0,Group-study,6,97.57,Yes,Java,91.38,Higher education
+21.0,Junior,29.0,Group-study,7,92.11,Yes,Python,91.35,Undecided
+23.0,Junior,34.0,Lecture,4,60.64,Yes,C++,71.3,Higher education
+21.0,Junior,15.0,Group-study,9,99.17,Yes,Java,64.08,Higher education
+20.0,Sophomore,39.0,Self-study,3,94.57,Yes,Python,63.39,Freelancing
+18.0,Freshman,11.0,Self-study,13,95.0,No,Java,94.16,Freelancing
+21.0,Junior,30.0,Practical,8,80.54,No,Python,87.86,Freelancing
+22.0,Junior,25.0,Lecture,4,60.11,No,Java,54.78,Undecided
+22.0,Sophomore,17.0,Lecture,13,79.96,No,Java,60.65,Freelancing
+24.0,Senior,12.0,Practical,6,99.16,Yes,Java,81.33,Freelancing
+24.0,Senior,11.0,Practical,14,91.02,No,Java,56.02,Employment
+,Senior,27.0,Self-study,14,97.34,No,Java,79.59,Higher education
+18.0,Freshman,7.0,Practical,2,99.22,Yes,Java,94.54,Higher education
+22.0,Sophomore,20.0,Self-study,4,78.71,No,R,73.13,Employment
+23.0,Senior,30.0,Group-study,12,95.08,No,Python,94.47,Higher education
+20.0,Junior,31.0,Self-study,6,58.1,Yes,R,70.9,Higher education
+22.0,Sophomore,,Practical,0,94.04,No,Java,73.27,Undecided
+21.0,Sophomore,30.0,Group-study,8,92.82,No,R,54.99,Employment
+24.0,Sophomore,33.0,Group-study,3,88.68,Yes,Java,96.11,Employment
+18.0,Freshman,30.0,Lecture,13,83.14,No,Python,50.7,Freelancing
+24.0,Senior,15.0,Group-study,12,53.09,No,Java,64.15,Undecided
+22.0,Senior,35.0,Self-study,7,79.94,Yes,C++,79.41,Employment
+23.0,Senior,20.0,Practical,14,81.76,Yes,Python,96.21,Undecided
+22.0,Senior,17.0,Self-study,13,67.31,No,Java,86.51,Higher education
+19.0,Sophomore,7.0,Practical,9,72.91,No,Java,71.13,Freelancing
+19.0,Freshman,25.0,Practical,5,87.05,Yes,R,51.18,Undecided
+22.0,Junior,39.0,Group-study,8,50.07,No,C++,50.7,Higher education
+24.0,Senior,8.0,Practical,10,57.84,Yes,R,83.22,Freelancing
+20.0,Sophomore,33.0,Group-study,9,55.05,No,Python,72.7,Undecided
+22.0,Senior,8.0,Self-study,8,51.62,Yes,C++,78.37,Higher education
+18.0,Freshman,28.0,Group-study,4,57.78,No,R,97.62,Employment
+22.0,Junior,39.0,Self-study,8,70.94,Yes,Java,62.25,Freelancing
+22.0,Junior,13.0,Group-study,7,63.93,No,Python,65.78,Higher education
+24.0,Senior,14.0,Group-study,11,91.55,Yes,R,66.85,Undecided
+19.0,Freshman,6.0,Lecture,3,93.38,No,Java,71.35,Employment
+19.0,Freshman,38.0,Group-study,11,52.5,Yes,C++,67.53,Freelancing
+23.0,Sophomore,32.0,Group-study,9,78.18,No,Java,94.7,Employment
+19.0,Sophomore,29.0,Group-study,6,68.31,No,Java,61.98,Undecided
+22.0,Senior,39.0,Group-study,3,56.98,No,Java,91.75,Undecided
+24.0,Senior,22.0,Practical,5,98.45,No,Java,71.82,Undecided
+24.0,Senior,16.0,Group-study,11,74.62,No,Java,74.29,Higher education
+20.0,Sophomore,,Lecture,4,63.96,No,Java,53.73,Freelancing
+24.0,Senior,32.0,Self-study,3,93.23,Yes,R,58.19,Higher education
+19.0,Freshman,28.0,Self-study,11,77.86,Yes,Java,91.99,Higher education
+23.0,Senior,26.0,Self-study,14,86.84,No,C++,82.87,Higher education
+21.0,Sophomore,37.0,Self-study,3,74.49,Yes,C++,54.25,Higher education
+23.0,Senior,38.0,Practical,1,86.97,Yes,Python,84.71,Employment
+23.0,Junior,6.0,Practical,9,69.37,Yes,R,70.83,Employment
+23.0,Senior,32.0,Lecture,8,64.73,Yes,Java,67.51,Undecided
+23.0,Senior,8.0,Self-study,7,91.42,Yes,R,80.21,Higher education
+24.0,Senior,13.0,Group-study,4,86.86,Yes,R,63.51,Employment
+21.0,,18.0,Lecture,10,54.12,No,C++,50.94,Higher education
+18.0,Freshman,23.0,Lecture,10,69.22,Yes,R,55.67,Employment
+22.0,Senior,24.0,Lecture,4,50.18,Yes,Java,58.57,Undecided
+19.0,Freshman,12.0,Practical,10,65.53,Yes,C++,92.38,Freelancing
+22.0,Junior,33.0,Practical,4,96.92,No,C++,92.55,Freelancing
+23.0,Senior,39.0,Practical,5,78.03,No,Java,80.69,Freelancing
+19.0,Sophomore,21.0,Group-study,6,95.05,No,Python,92.08,Higher education
+,Senior,30.0,Practical,10,88.13,No,C++,95.8,Employment
+24.0,Junior,32.0,Group-study,7,57.65,Yes,C++,83.45,Higher education
+23.0,Senior,37.0,Group-study,12,81.01,Yes,R,88.18,Higher education
+18.0,Freshman,26.0,Group-study,13,88.12,No,Java,52.29,Higher education
+21.0,Sophomore,7.0,Lecture,10,72.09,No,Java,69.59,Freelancing
+24.0,Sophomore,16.0,Practical,11,56.51,Yes,R,64.34,Undecided
+24.0,Junior,38.0,Self-study,3,61.74,Yes,Python,62.69,Higher education
+18.0,Freshman,27.0,Lecture,4,86.56,No,Java,69.45,Freelancing
+19.0,Sophomore,8.0,Lecture,12,80.64,No,Java,75.7,Undecided
+23.0,Senior,28.0,Group-study,12,91.87,Yes,C++,56.86,Higher education
+24.0,Senior,26.0,Lecture,3,69.42,No,Java,94.26,Higher education
+20.0,Junior,9.0,Practical,11,73.81,Yes,Java,56.87,Higher education
+18.0,Freshman,23.0,Group-study,8,64.92,Yes,Java,53.76,Employment
+18.0,Freshman,8.0,Lecture,2,78.83,No,,67.42,Undecided
+22.0,Junior,17.0,Group-study,2,70.53,Yes,R,80.39,Employment
+22.0,Sophomore,34.0,Self-study,14,64.33,Yes,Java,65.6,Employment
+21.0,Sophomore,24.0,Self-study,10,69.42,No,Java,97.17,Higher education
+18.0,Freshman,36.0,Group-study,2,53.37,No,R,82.85,Employment
+21.0,Junior,37.0,Lecture,3,76.17,No,Java,96.99,Employment
+24.0,Junior,30.0,Lecture,1,58.03,Yes,,65.35,Undecided
+21.0,Sophomore,6.0,Group-study,9,95.12,No,Python,86.75,Undecided
+23.0,Sophomore,31.0,Group-study,11,72.41,No,Java,66.34,Freelancing
+22.0,Junior,21.0,Group-study,0,89.8,No,C++,67.36,Higher education
+23.0,Sophomore,26.0,Practical,13,72.04,Yes,Java,92.9,Employment
+23.0,Senior,34.0,Self-study,2,67.56,Yes,Java,53.54,Freelancing
+23.0,Senior,,Practical,11,99.41,No,Java,79.5,Higher education
+,Freshman,14.0,Practical,1,81.81,No,Python,86.84,Employment
+20.0,Junior,36.0,Lecture,9,55.61,No,C++,76.12,Undecided
+,Junior,,Practical,6,52.19,Yes,C++,84.93,Freelancing
+20.0,Freshman,31.0,Group-study,10,97.93,No,Java,59.88,Undecided
+20.0,Sophomore,25.0,Self-study,11,56.14,Yes,R,66.03,Freelancing
+18.0,Freshman,7.0,Practical,7,95.27,No,C++,92.09,Employment
+18.0,Freshman,13.0,Practical,12,74.43,Yes,Java,87.37,Undecided
+23.0,Junior,34.0,Practical,14,76.78,No,Java,97.88,Higher education
+18.0,Freshman,25.0,Self-study,1,51.27,No,Python,68.06,Higher education
+24.0,Senior,36.0,Self-study,6,61.7,Yes,C++,70.02,Freelancing
+22.0,Sophomore,38.0,Lecture,6,62.98,No,,80.65,Freelancing
+18.0,Freshman,38.0,Lecture,10,76.56,Yes,Python,50.85,Employment
+18.0,Freshman,25.0,Practical,13,98.63,No,Python,93.43,Freelancing
+,Senior,39.0,Lecture,9,52.03,Yes,Java,96.0,Freelancing
+24.0,Senior,,Self-study,2,72.31,Yes,R,60.33,Higher education
+23.0,Senior,8.0,Self-study,10,56.28,Yes,C++,75.4,Higher education
+23.0,Senior,9.0,Lecture,14,50.94,No,R,70.47,Freelancing
+22.0,Junior,36.0,Practical,4,68.69,Yes,Python,93.7,Freelancing
+23.0,Senior,21.0,Self-study,11,65.35,Yes,C++,51.81,Freelancing
+20.0,Sophomore,32.0,Self-study,0,84.4,Yes,Python,84.24,Employment
+22.0,Junior,14.0,Lecture,13,58.31,Yes,C++,54.56,Employment
+20.0,Sophomore,5.0,Practical,2,58.57,No,Python,68.33,Freelancing
+21.0,Junior,22.0,Lecture,6,85.65,No,Java,62.08,Employment
+18.0,Freshman,9.0,Group-study,13,60.71,No,R,86.95,Undecided
+18.0,Freshman,21.0,Self-study,11,84.44,No,C++,87.16,Higher education
+19.0,Sophomore,12.0,Lecture,13,79.68,Yes,Python,62.38,Employment
+22.0,Junior,11.0,Group-study,1,69.76,Yes,R,54.85,Freelancing
+23.0,Senior,10.0,Lecture,2,90.42,Yes,Java,70.25,Employment
+23.0,Senior,7.0,Practical,14,68.37,Yes,Java,64.8,Employment
+21.0,Sophomore,5.0,Lecture,2,99.19,No,C++,72.75,Undecided
+20.0,Freshman,37.0,Self-study,1,64.17,No,R,66.09,Higher education
+18.0,Freshman,11.0,Practical,3,90.73,No,R,60.84,Undecided
+19.0,Sophomore,12.0,Lecture,12,71.25,Yes,Java,71.09,Freelancing
+24.0,Sophomore,8.0,Practical,2,75.6,No,C++,81.41,Freelancing
+22.0,Sophomore,20.0,Self-study,9,58.52,No,Java,85.3,Undecided
+18.0,Freshman,11.0,Group-study,13,84.43,Yes,,63.19,Freelancing
+23.0,Sophomore,16.0,Lecture,3,80.39,Yes,Java,73.69,Freelancing
+23.0,Senior,17.0,Lecture,3,84.33,No,R,71.76,Undecided
+23.0,Sophomore,32.0,Self-study,2,87.21,No,R,90.56,Higher education
+24.0,Senior,16.0,Self-study,5,82.59,Yes,Java,59.64,Employment
+20.0,Sophomore,17.0,Self-study,9,69.3,No,,91.56,Undecided
+20.0,Sophomore,37.0,Practical,2,73.38,No,C++,62.04,Undecided
+22.0,Senior,18.0,Lecture,7,88.44,Yes,C++,65.94,Higher education
+19.0,Freshman,8.0,Self-study,8,77.47,Yes,Java,87.27,Undecided
+18.0,Freshman,19.0,Practical,11,57.21,Yes,,96.37,Higher education
+19.0,,27.0,Group-study,13,69.98,No,Java,89.58,Undecided
+18.0,Freshman,6.0,Practical,0,96.61,No,Java,86.82,Employment
+20.0,,29.0,Practical,5,54.81,Yes,Java,88.8,Higher education
+20.0,Sophomore,,Group-study,8,86.25,No,R,54.1,Higher education
+23.0,Senior,6.0,Self-study,12,70.55,No,Java,95.15,Higher education
+18.0,Freshman,6.0,Group-study,10,88.55,No,C++,84.88,Employment
+22.0,Junior,30.0,Group-study,3,55.03,Yes,Python,55.5,Higher education
+22.0,Junior,12.0,Practical,10,63.6,No,C++,63.62,Higher education
+21.0,Sophomore,22.0,Group-study,8,70.85,No,Java,87.28,Employment
+23.0,Senior,19.0,Lecture,5,93.51,No,Java,76.23,Higher education
+20.0,Sophomore,12.0,Practical,12,89.56,No,C++,89.12,Freelancing
+,Sophomore,20.0,Lecture,9,86.64,Yes,C++,50.75,Undecided
+21.0,Junior,16.0,Practical,1,90.74,Yes,Python,54.94,Freelancing
+22.0,Junior,16.0,Practical,12,73.11,No,Python,66.81,Undecided
+22.0,,33.0,Lecture,2,87.13,Yes,Python,60.21,Employment
+22.0,Junior,13.0,Practical,13,69.78,Yes,,80.53,Higher education
+23.0,Junior,,Self-study,5,93.98,Yes,C++,50.24,Undecided
+21.0,Sophomore,21.0,Lecture,0,64.46,No,C++,68.07,Freelancing
+20.0,Sophomore,30.0,Lecture,10,62.45,Yes,Java,97.52,Undecided
+24.0,Senior,6.0,Self-study,6,86.3,No,Java,54.58,Employment
+18.0,Freshman,13.0,Self-study,7,68.81,No,Java,57.58,Freelancing
+18.0,Freshman,19.0,Group-study,3,75.52,No,R,61.77,Employment
+22.0,Senior,5.0,Self-study,12,83.04,No,Java,91.18,Freelancing
+23.0,Senior,27.0,Self-study,0,74.15,No,C++,96.65,Undecided
+24.0,Senior,8.0,Lecture,12,88.72,Yes,C++,53.58,Higher education
+23.0,Sophomore,29.0,Lecture,11,98.06,No,R,97.46,Undecided
+20.0,Junior,8.0,Practical,7,83.02,No,C++,53.69,Higher education
+18.0,Freshman,27.0,Lecture,4,67.36,Yes,Python,84.68,Undecided
+18.0,Freshman,31.0,Self-study,2,58.91,No,,51.65,Employment
+24.0,Senior,6.0,Practical,5,93.67,No,,52.85,Higher education
+22.0,Junior,21.0,Practical,13,73.42,No,Python,93.26,Employment
+23.0,Sophomore,14.0,Self-study,11,89.79,No,Java,57.67,Freelancing
+24.0,Sophomore,9.0,Lecture,10,71.73,Yes,Python,51.03,Higher education
+24.0,Senior,36.0,Lecture,7,91.16,Yes,Java,58.55,Higher education
+21.0,Sophomore,33.0,Practical,8,55.51,Yes,C++,98.24,Higher education
+,Senior,28.0,Practical,12,96.99,No,Java,78.59,Higher education
+,Freshman,26.0,Group-study,2,80.26,Yes,Java,59.58,Higher education
+22.0,Senior,38.0,Practical,9,96.8,Yes,C++,68.65,Undecided
+24.0,Senior,12.0,Lecture,3,91.56,Yes,C++,68.16,Employment
+22.0,Senior,27.0,Self-study,7,73.73,No,Java,56.01,Freelancing
+23.0,Sophomore,25.0,Self-study,5,52.38,Yes,Python,86.63,Freelancing
+21.0,Junior,16.0,Lecture,10,66.64,Yes,R,96.46,Undecided
+20.0,Sophomore,19.0,Self-study,9,62.85,Yes,R,56.5,Undecided
+22.0,Junior,,Self-study,1,65.46,No,Python,61.97,Undecided
+22.0,Junior,19.0,Self-study,7,78.12,No,C++,88.65,Freelancing
+19.0,Freshman,19.0,Self-study,13,58.18,No,Java,94.51,Undecided
+22.0,Junior,32.0,Lecture,1,57.66,No,C++,55.7,Employment
+23.0,Senior,11.0,Group-study,11,64.26,No,Java,65.91,Higher education
+22.0,Sophomore,14.0,Lecture,1,82.5,No,R,78.21,Employment
+18.0,Freshman,38.0,Practical,14,75.23,No,Java,63.13,Higher education
+21.0,Sophomore,16.0,Lecture,7,57.67,Yes,R,93.88,Freelancing
+,Sophomore,34.0,Practical,3,84.74,Yes,Python,69.14,Employment
+24.0,Senior,25.0,Group-study,13,52.54,No,,57.64,Freelancing
+20.0,Freshman,9.0,Self-study,0,96.25,Yes,Java,61.56,Undecided
+18.0,Freshman,34.0,Lecture,10,78.92,Yes,Java,58.71,Employment
+18.0,Freshman,17.0,Group-study,6,56.23,No,Java,51.45,Undecided
+18.0,Freshman,9.0,Self-study,2,57.66,No,Java,91.48,Freelancing
+22.0,,18.0,Self-study,6,72.16,Yes,,58.0,Higher education
+18.0,Freshman,24.0,Self-study,8,77.16,Yes,R,79.26,Employment
+18.0,Freshman,26.0,Practical,2,51.86,Yes,C++,60.73,Employment
+23.0,Senior,23.0,Group-study,13,71.98,Yes,R,69.96,Freelancing
+24.0,Sophomore,24.0,Self-study,1,87.5,No,Java,96.9,Undecided
+23.0,Sophomore,28.0,Practical,11,70.96,No,C++,80.82,Higher education
+23.0,Junior,6.0,Lecture,5,84.93,Yes,Python,55.52,Freelancing
+22.0,Senior,,Lecture,1,87.88,Yes,Java,68.58,Employment
+18.0,Freshman,31.0,Lecture,11,92.88,No,Java,65.92,Higher education
+23.0,Sophomore,21.0,Practical,3,52.46,No,R,69.44,Higher education
+23.0,Sophomore,29.0,Lecture,3,72.87,No,Java,54.5,Freelancing
+21.0,Junior,6.0,Lecture,6,61.12,Yes,Python,89.18,Freelancing
+18.0,Freshman,21.0,Self-study,11,57.58,No,Java,50.36,Higher education
+21.0,Sophomore,13.0,Group-study,6,59.42,Yes,Java,81.87,Employment
+23.0,Senior,31.0,Practical,14,81.81,No,Python,69.3,Freelancing
+22.0,Junior,19.0,Self-study,12,88.76,No,Java,92.79,Freelancing
+23.0,Senior,14.0,Lecture,12,78.74,No,Python,76.31,Freelancing
+23.0,Senior,25.0,Lecture,9,76.7,Yes,Java,83.24,Employment
+20.0,Junior,18.0,Practical,3,80.57,No,,85.27,Higher education
+18.0,Freshman,37.0,Self-study,3,89.51,Yes,Java,62.48,Freelancing
+22.0,Junior,24.0,Practical,0,70.72,Yes,Java,93.09,Undecided
+19.0,Freshman,14.0,Lecture,12,96.88,No,Java,95.37,Freelancing
+19.0,Sophomore,11.0,Practical,4,87.09,No,Java,86.92,Employment
+20.0,Sophomore,20.0,Self-study,0,96.52,Yes,R,52.16,Undecided
+23.0,Sophomore,34.0,Practical,4,52.87,Yes,Java,96.64,Higher education
+22.0,,35.0,Group-study,9,72.44,Yes,,66.63,Higher education
+23.0,Senior,23.0,Practical,3,77.5,Yes,R,63.5,Higher education
+23.0,Senior,31.0,Practical,5,91.79,No,C++,78.25,Higher education
+21.0,,12.0,Group-study,13,65.83,Yes,C++,72.95,Freelancing
+,Junior,26.0,Lecture,6,57.84,Yes,Python,83.28,Employment
+20.0,Sophomore,39.0,Lecture,10,89.68,No,Python,99.72,Freelancing
+24.0,Senior,6.0,Self-study,12,71.18,Yes,,89.77,Undecided
+24.0,,8.0,Practical,5,72.51,Yes,Java,83.46,Freelancing
+18.0,Freshman,14.0,Self-study,2,64.0,No,Python,84.83,Higher education
+22.0,Junior,22.0,Lecture,5,76.84,No,Java,88.56,Undecided
+23.0,Senior,10.0,Group-study,11,93.49,No,Python,81.16,Employment
+22.0,Junior,16.0,Lecture,4,78.64,Yes,Java,83.55,Freelancing
+24.0,,5.0,Self-study,5,52.62,No,Java,69.77,Undecided
+18.0,Freshman,,Practical,2,50.2,Yes,,76.74,Higher education
+19.0,Freshman,35.0,Practical,9,50.69,Yes,C++,55.78,Freelancing
+24.0,Junior,22.0,Self-study,7,55.61,Yes,R,86.17,Undecided
+22.0,Junior,12.0,Group-study,5,60.85,Yes,Python,53.38,Undecided
+22.0,Junior,,Self-study,9,74.66,Yes,Java,55.02,Employment
+20.0,Freshman,18.0,Group-study,14,80.82,No,,81.27,Undecided
+20.0,Junior,20.0,Self-study,6,58.33,No,Java,61.45,Undecided
+22.0,Senior,6.0,Practical,9,91.58,No,Python,88.99,Higher education
+20.0,Freshman,32.0,Self-study,5,83.24,No,Java,66.4,Higher education
+23.0,Senior,19.0,Group-study,2,92.83,No,C++,89.22,Freelancing
+18.0,Freshman,35.0,Group-study,2,65.29,Yes,Java,81.11,Employment
+22.0,Junior,25.0,Practical,4,64.73,No,,91.94,Freelancing
+22.0,Junior,12.0,Practical,14,50.83,Yes,Python,50.96,Undecided
+20.0,Sophomore,9.0,Lecture,12,52.41,No,R,92.04,Higher education
+24.0,Senior,6.0,Self-study,0,56.23,Yes,C++,80.24,Higher education
+20.0,Junior,31.0,Lecture,10,96.26,No,Python,85.35,Employment
+24.0,Sophomore,9.0,Group-study,14,59.31,No,Python,67.53,Employment
+20.0,Freshman,11.0,Group-study,13,87.72,No,C++,59.93,Undecided
+18.0,Freshman,8.0,Group-study,10,70.34,Yes,R,89.55,Employment
+22.0,Junior,,Self-study,5,56.39,No,C++,58.31,Higher education
+23.0,Senior,33.0,Group-study,13,94.38,No,C++,72.45,Higher education
+24.0,Junior,25.0,Practical,3,98.45,Yes,Java,52.14,Higher education
+18.0,Freshman,19.0,Group-study,7,77.52,Yes,,67.32,Higher education
+23.0,Senior,23.0,Group-study,7,55.58,No,Java,53.44,Employment
+20.0,Sophomore,13.0,Self-study,4,60.36,Yes,Java,69.74,Freelancing
+18.0,Freshman,24.0,Practical,10,81.73,Yes,Java,52.73,Undecided
+22.0,Junior,7.0,Group-study,10,58.19,No,C++,96.11,Undecided
+24.0,Junior,9.0,Lecture,6,76.09,Yes,Python,98.12,Employment
+20.0,Freshman,31.0,Group-study,13,60.67,Yes,Java,97.69,Employment
+,Sophomore,32.0,Practical,7,98.84,Yes,R,87.75,Employment
+23.0,Senior,18.0,Group-study,3,59.89,Yes,Java,65.94,Higher education
+20.0,Freshman,22.0,Self-study,4,77.71,Yes,Java,54.25,Freelancing
+18.0,Freshman,16.0,Practical,8,62.63,No,Java,87.27,Employment
+23.0,Senior,13.0,Group-study,1,50.75,No,Python,87.96,Freelancing
+24.0,Sophomore,,Lecture,4,95.61,No,Java,62.95,Freelancing
+18.0,Freshman,18.0,Group-study,14,86.23,No,Java,79.17,Employment
+20.0,Junior,12.0,Lecture,10,98.83,Yes,Java,74.22,Freelancing
+23.0,Senior,12.0,Lecture,4,71.88,Yes,R,82.5,Employment
+24.0,,27.0,Group-study,14,82.13,Yes,Java,57.23,Employment
+19.0,Sophomore,30.0,Self-study,2,64.64,Yes,C++,87.55,Higher education
+23.0,Sophomore,23.0,Lecture,9,72.86,No,,92.9,Higher education
+22.0,Junior,10.0,Lecture,14,60.24,No,C++,97.27,Higher education
+20.0,Junior,13.0,Self-study,6,69.29,No,Python,76.57,Freelancing
+24.0,Senior,26.0,Group-study,3,86.93,No,Python,54.24,Freelancing
+23.0,Senior,34.0,Self-study,0,79.4,No,Python,72.83,Undecided
+18.0,,6.0,Lecture,14,85.32,No,Java,58.41,Freelancing
+22.0,Sophomore,39.0,Lecture,8,91.6,No,Java,91.58,Freelancing
+21.0,Sophomore,34.0,Self-study,1,99.12,Yes,C++,75.0,Undecided
+22.0,Junior,7.0,Lecture,4,76.02,Yes,Java,86.37,Employment
+22.0,Senior,17.0,Self-study,0,72.01,No,C++,90.83,Undecided
+24.0,Sophomore,17.0,Group-study,6,69.75,No,Java,79.49,Freelancing
+22.0,Junior,27.0,Practical,7,63.51,Yes,C++,74.65,Higher education
+19.0,Freshman,8.0,Lecture,9,72.44,Yes,C++,93.26,Employment
+24.0,Sophomore,39.0,Self-study,7,91.57,No,R,74.64,Higher education
+19.0,Sophomore,11.0,Practical,14,89.77,Yes,Python,50.56,Undecided
+22.0,Junior,25.0,Practical,12,62.37,No,Python,79.12,Employment
+23.0,Junior,19.0,Practical,7,88.13,No,C++,57.99,Higher education
+19.0,Sophomore,14.0,Lecture,0,62.4,No,R,50.19,Freelancing
+23.0,,25.0,Lecture,13,98.67,No,Java,66.63,Higher education
+24.0,Senior,39.0,Group-study,0,87.06,Yes,Java,92.84,Undecided
+24.0,Sophomore,12.0,Self-study,0,69.1,Yes,C++,99.98,Undecided
+18.0,Freshman,28.0,Practical,8,77.52,Yes,Python,54.9,Undecided
+23.0,Senior,22.0,Self-study,14,86.83,Yes,R,89.82,Higher education
+18.0,,33.0,Lecture,1,88.2,Yes,Python,83.15,Undecided
+20.0,Sophomore,25.0,Group-study,1,56.17,Yes,,55.73,Undecided
+20.0,Junior,33.0,Lecture,0,89.26,No,C++,67.74,Freelancing
+22.0,Sophomore,33.0,Lecture,7,65.93,Yes,R,85.43,Higher education
+21.0,Sophomore,23.0,Practical,4,56.25,No,Python,51.83,Higher education
+22.0,Junior,5.0,Group-study,9,87.64,Yes,Python,90.32,Employment
+23.0,Junior,20.0,Lecture,10,90.75,Yes,Python,91.72,Employment
+22.0,Sophomore,31.0,Self-study,1,50.52,No,Java,75.62,Employment
+22.0,Junior,38.0,Self-study,9,73.92,Yes,Python,86.45,Higher education
+19.0,Sophomore,21.0,Practical,7,90.65,Yes,R,74.04,Undecided
+122.0,Junior,24.0,Practical,11,64.24,No,Java,60.11,Undecided
+20.0,Sophomore,20.0,Lecture,1,56.89,No,R,57.29,Freelancing
+22.0,Junior,34.0,Lecture,9,52.63,No,Java,66.51,Higher education
+19.0,Sophomore,31.0,Group-study,10,66.02,No,Java,86.43,Undecided
+23.0,Senior,39.0,Self-study,1,78.9,No,Java,62.53,Employment
+24.0,Senior,13.0,Lecture,0,69.88,Yes,R,70.47,Undecided
+18.0,Freshman,16.0,Practical,13,69.17,No,Java,63.9,Employment
+18.0,Freshman,9.0,Lecture,3,53.15,No,Java,89.25,Employment
+21.0,Junior,13.0,Self-study,0,78.05,Yes,C++,62.19,Employment
+23.0,Senior,39.0,Group-study,3,88.06,Yes,R,74.04,Employment
+22.0,Junior,20.0,Practical,5,64.97,Yes,Java,65.57,Freelancing
+,Freshman,11.0,Group-study,2,68.15,Yes,C++,96.94,Undecided
+19.0,Sophomore,36.0,Practical,7,65.51,Yes,Java,53.96,Employment
+93.0,Senior,10.0,Self-study,3,91.55,No,Java,59.55,Higher education
+23.0,Senior,24.0,Group-study,13,56.74,No,Java,76.01,Employment
+23.0,Sophomore,15.0,Group-study,10,80.69,No,C++,70.73,Freelancing
+21.0,Junior,16.0,Self-study,9,53.61,Yes,Python,99.31,Undecided
+24.0,Senior,38.0,Practical,7,81.36,Yes,,73.33,Freelancing
+91.0,Junior,38.0,Group-study,6,70.89,Yes,C++,67.93,Freelancing
+18.0,,27.0,Lecture,5,66.42,Yes,R,90.14,Higher education
+24.0,Senior,30.0,Practical,14,79.41,No,Java,74.72,Employment
+21.0,Sophomore,22.0,Self-study,9,72.43,Yes,R,70.98,Undecided
+22.0,Sophomore,27.0,Group-study,3,71.82,Yes,R,71.4,Freelancing
+19.0,Freshman,15.0,Self-study,13,75.11,Yes,Python,74.06,Freelancing
+23.0,Senior,,Group-study,2,72.49,No,Java,67.58,Higher education
+20.0,Sophomore,13.0,Lecture,9,69.72,No,Python,74.96,Higher education
+20.0,Freshman,,Lecture,1,94.18,Yes,Java,78.71,Employment
+21.0,Junior,27.0,Self-study,13,78.5,No,Java,64.87,Undecided
+23.0,Senior,27.0,Lecture,8,89.13,No,Java,55.53,Employment
+,Senior,29.0,Group-study,6,63.28,Yes,R,62.35,Employment
+24.0,Senior,17.0,Lecture,4,69.14,Yes,Java,96.65,Undecided
+18.0,Freshman,39.0,Group-study,13,68.59,Yes,Java,75.35,Higher education
+22.0,Senior,39.0,Group-study,13,66.93,Yes,,51.76,Freelancing
+21.0,Junior,35.0,Group-study,4,68.48,Yes,C++,62.76,Higher education
+18.0,Freshman,21.0,Practical,1,70.06,No,Python,98.22,Undecided
+20.0,Sophomore,23.0,Practical,11,58.44,No,R,91.04,Employment
+20.0,Sophomore,21.0,Group-study,4,62.77,No,Python,89.69,Higher education
+21.0,Sophomore,7.0,Self-study,12,66.6,Yes,C++,65.08,Higher education
+21.0,Junior,35.0,Practical,4,77.18,Yes,Java,71.18,Employment
+23.0,Junior,34.0,Practical,11,84.95,No,Java,76.36,Undecided
+,Freshman,28.0,Group-study,12,59.14,No,,97.16,Undecided
+24.0,Sophomore,,Self-study,12,64.06,Yes,R,58.83,Undecided
+18.0,,,Practical,12,80.47,No,Java,67.94,Undecided
+23.0,Senior,19.0,Practical,0,53.44,No,Python,86.22,Employment
+18.0,Freshman,38.0,Self-study,7,59.23,No,Python,91.95,Employment
+23.0,Senior,10.0,Lecture,7,83.31,No,R,52.68,Freelancing
+,Freshman,21.0,Practical,12,96.18,No,Java,50.27,Employment
+22.0,Senior,9.0,Practical,12,50.51,No,Java,99.2,Employment
+24.0,Senior,10.0,Group-study,14,79.33,No,Python,64.36,Higher education
+20.0,Sophomore,5.0,Group-study,7,79.37,Yes,Java,68.95,Higher education
+20.0,Junior,34.0,Self-study,7,50.86,No,Java,66.34,Undecided
+21.0,Sophomore,6.0,Group-study,5,84.99,Yes,C++,55.58,Undecided
+24.0,Sophomore,35.0,Practical,12,72.13,Yes,R,98.59,Employment
+23.0,Senior,5.0,Lecture,3,65.93,Yes,Java,77.94,Undecided
+23.0,Junior,37.0,Group-study,0,75.85,Yes,R,89.68,Undecided
+23.0,Senior,11.0,Lecture,3,86.3,No,Java,98.8,Undecided
+,Sophomore,27.0,Practical,2,80.86,No,R,69.28,Freelancing
+22.0,Junior,36.0,Self-study,9,99.35,Yes,R,98.11,Higher education
+20.0,Sophomore,5.0,Practical,4,87.5,No,Python,53.7,Higher education
+24.0,Senior,14.0,Lecture,6,80.25,No,Python,52.64,Employment
+22.0,Junior,6.0,Group-study,10,62.04,No,R,93.05,Employment
+24.0,Junior,24.0,Practical,9,76.79,No,Java,80.95,Freelancing
+18.0,Freshman,13.0,Group-study,11,55.12,No,C++,85.37,Freelancing
+23.0,Senior,30.0,Self-study,12,68.55,Yes,Java,90.26,Freelancing
+23.0,Senior,21.0,Self-study,14,54.93,Yes,Java,54.85,Employment
+23.0,Junior,38.0,Lecture,13,62.41,Yes,C++,95.35,Higher education
+18.0,Freshman,34.0,Lecture,10,72.75,No,R,61.1,Freelancing
+18.0,Freshman,17.0,Group-study,2,66.7,Yes,R,95.11,Employment
+18.0,Freshman,15.0,Practical,14,85.53,Yes,R,55.11,Employment
+20.0,Freshman,38.0,Lecture,1,60.87,No,Python,64.07,Higher education
+22.0,Junior,21.0,Group-study,13,53.96,No,Python,81.37,Higher education
+24.0,Junior,21.0,Self-study,5,64.27,Yes,Java,93.38,Freelancing
+24.0,Senior,8.0,Self-study,14,71.81,No,Java,91.3,Higher education
+19.0,Freshman,36.0,Lecture,8,75.31,Yes,R,98.72,Freelancing
+18.0,Freshman,11.0,Group-study,13,51.86,No,R,62.93,Freelancing
+19.0,Sophomore,28.0,Practical,9,90.46,Yes,R,74.53,Higher education
+24.0,Senior,7.0,Practical,0,58.61,Yes,C++,50.43,Higher education
+24.0,Sophomore,12.0,Lecture,10,53.38,No,C++,71.64,Freelancing
+22.0,Junior,36.0,Group-study,11,60.34,Yes,C++,80.29,Freelancing
+18.0,Freshman,30.0,Lecture,4,65.3,No,Java,80.8,Freelancing
+18.0,Freshman,22.0,Practical,5,98.45,No,Java,64.34,Employment
+18.0,Freshman,27.0,Group-study,1,88.25,Yes,Java,62.9,Employment
+24.0,Sophomore,,Self-study,8,73.17,Yes,Java,55.87,Freelancing
+22.0,Junior,12.0,Lecture,1,62.67,No,Python,73.42,Freelancing
+,Freshman,15.0,Group-study,9,80.0,No,C++,83.39,Freelancing
+19.0,Freshman,34.0,Lecture,6,93.19,No,Python,96.73,Undecided
+23.0,Senior,33.0,Practical,3,55.06,No,Java,81.13,Freelancing
+22.0,Sophomore,22.0,Group-study,1,99.02,No,R,97.71,Employment
+18.0,Freshman,35.0,Lecture,6,96.52,No,R,92.34,Undecided
+20.0,Junior,13.0,Practical,0,86.17,No,Java,63.41,Higher education
+22.0,Senior,33.0,Lecture,10,92.9,Yes,Python,79.97,Employment
+22.0,Junior,18.0,Practical,3,97.61,Yes,Java,67.93,Freelancing
+18.0,Freshman,9.0,Lecture,5,53.17,Yes,R,90.42,Undecided
+20.0,Sophomore,37.0,Lecture,8,89.71,No,C++,89.6,Employment
+18.0,Freshman,24.0,Group-study,1,92.07,No,Python,99.38,Undecided
+23.0,Senior,31.0,Practical,1,69.95,No,Java,76.46,Undecided
+22.0,Sophomore,24.0,Group-study,11,50.37,No,Java,83.46,Freelancing
+23.0,Junior,26.0,Self-study,13,96.44,No,Python,57.26,Higher education
+21.0,,20.0,Self-study,8,73.06,Yes,R,84.16,Employment
+24.0,Senior,31.0,Group-study,6,91.54,Yes,Java,91.66,Freelancing
+20.0,Junior,16.0,Practical,1,62.65,No,Java,51.55,Freelancing
+21.0,Sophomore,19.0,Self-study,9,86.07,Yes,Python,78.17,Employment
+24.0,Senior,29.0,Self-study,3,85.9,Yes,Java,83.98,Undecided
+22.0,Junior,28.0,Practical,10,66.8,No,C++,79.6,Freelancing
+18.0,Freshman,14.0,Group-study,10,91.78,Yes,Python,74.89,Higher education
+21.0,Junior,17.0,Self-study,11,68.81,Yes,C++,53.51,Undecided
+24.0,Senior,24.0,Self-study,6,56.27,Yes,Java,54.17,Higher education
+18.0,Freshman,22.0,Practical,9,79.8,Yes,Java,91.47,Freelancing
+20.0,Sophomore,13.0,Lecture,8,86.17,No,R,96.89,Undecided
+19.0,Sophomore,24.0,Lecture,9,81.18,No,Java,53.56,Freelancing
+23.0,Senior,19.0,Practical,2,83.12,No,Java,50.59,Freelancing
+23.0,Senior,22.0,Group-study,11,57.61,Yes,R,62.72,Higher education
+18.0,Freshman,20.0,Self-study,7,71.83,No,,81.56,Employment
+23.0,Senior,26.0,Lecture,10,87.1,No,Java,54.38,Freelancing
+20.0,Junior,35.0,Lecture,13,54.95,No,Java,54.17,Freelancing
+22.0,Senior,15.0,Practical,0,80.14,No,Java,72.46,Undecided
+21.0,,5.0,Group-study,11,91.52,No,Python,95.2,Employment
+19.0,Sophomore,17.0,Practical,8,51.65,No,C++,89.39,Freelancing
+22.0,Junior,30.0,Lecture,12,64.92,Yes,Java,58.18,Undecided
+22.0,Junior,30.0,Lecture,10,62.1,No,Java,60.84,Higher education
+18.0,Freshman,10.0,Lecture,4,73.72,Yes,Java,86.21,Freelancing
+22.0,Junior,33.0,Self-study,2,58.54,No,R,72.77,Undecided
+18.0,Freshman,6.0,Self-study,8,99.17,Yes,,57.7,Employment
+20.0,Sophomore,10.0,Lecture,3,99.66,Yes,R,78.21,Freelancing
+22.0,Sophomore,32.0,Lecture,6,80.59,No,R,51.0,Employment
+20.0,Sophomore,15.0,Lecture,3,97.53,Yes,Java,77.81,Employment
+22.0,Senior,5.0,Practical,13,52.21,No,Java,90.71,Higher education
+23.0,Senior,28.0,Practical,2,82.75,Yes,R,60.01,Freelancing
+18.0,Freshman,25.0,Group-study,8,56.94,Yes,Java,78.72,Higher education
+22.0,Junior,25.0,Lecture,7,76.17,Yes,C++,74.74,Freelancing
+23.0,Senior,15.0,Group-study,3,92.43,No,Python,62.26,Higher education
+19.0,Sophomore,,Self-study,13,53.79,No,Python,99.34,Higher education
+20.0,Sophomore,11.0,Practical,1,62.33,No,,98.66,Higher education
+23.0,Senior,28.0,Self-study,2,76.67,Yes,Java,99.77,Employment
+24.0,Senior,35.0,Practical,12,79.34,Yes,R,85.46,Undecided
+23.0,Junior,29.0,Lecture,9,90.78,No,C++,69.09,Freelancing
+23.0,Senior,27.0,Group-study,13,82.3,Yes,Java,84.97,Freelancing
+24.0,Senior,30.0,Practical,3,87.19,Yes,Java,55.7,Undecided
+18.0,Freshman,36.0,Practical,0,86.22,No,Java,61.79,Undecided
+22.0,Junior,16.0,Group-study,6,64.21,Yes,R,56.11,Employment
+20.0,Junior,30.0,Self-study,1,99.83,No,Java,77.36,Undecided
+,Senior,36.0,Group-study,14,96.91,No,Java,88.42,Employment
+24.0,Senior,6.0,Self-study,12,82.32,Yes,C++,88.46,Undecided
+20.0,Sophomore,7.0,Self-study,3,62.62,Yes,Java,52.0,Employment
+23.0,Senior,17.0,Group-study,0,75.8,No,C++,77.49,Employment
+19.0,Freshman,31.0,Self-study,3,55.11,Yes,Java,63.16,Undecided
+18.0,Freshman,34.0,Practical,2,82.3,Yes,Python,57.54,Undecided
+22.0,Sophomore,12.0,Lecture,12,60.9,Yes,C++,58.28,Freelancing
+24.0,Senior,23.0,Group-study,5,86.1,No,C++,90.43,Higher education
+20.0,Sophomore,22.0,Self-study,2,64.55,No,C++,74.54,Employment
+20.0,,32.0,Group-study,10,85.5,Yes,R,78.4,Undecided
+18.0,Freshman,10.0,Group-study,14,88.72,No,Java,64.44,Freelancing
+23.0,Senior,15.0,Practical,3,86.98,Yes,Java,85.42,Higher education
+23.0,Sophomore,28.0,Self-study,3,53.44,Yes,C++,65.53,Undecided
+24.0,Senior,32.0,Group-study,9,81.98,Yes,Java,96.67,Employment
+23.0,Sophomore,34.0,Lecture,10,84.29,No,C++,66.08,Higher education
+20.0,Junior,11.0,Group-study,4,51.51,No,Python,71.7,Undecided
+20.0,Sophomore,9.0,Group-study,13,74.15,No,Python,96.87,Higher education
+22.0,Sophomore,30.0,Self-study,4,70.03,Yes,C++,60.53,Freelancing
+21.0,Junior,26.0,Lecture,13,70.11,Yes,C++,96.07,Freelancing
+21.0,Junior,,Self-study,14,58.3,Yes,Python,97.58,Employment
+18.0,Freshman,28.0,Lecture,10,93.21,Yes,R,87.75,Employment
+18.0,Freshman,22.0,Lecture,14,90.71,Yes,Java,56.57,Employment
+19.0,Sophomore,18.0,Group-study,12,82.37,No,C++,72.8,Undecided
+19.0,Freshman,23.0,Practical,12,77.67,No,,95.0,Freelancing
+,Junior,5.0,Practical,8,75.8,Yes,Java,60.32,Employment
+20.0,,12.0,Practical,13,98.68,Yes,Java,63.85,Freelancing
+22.0,,29.0,Lecture,8,96.71,Yes,C++,58.65,Higher education
+20.0,Junior,18.0,Lecture,5,52.33,Yes,Java,86.04,Undecided
+23.0,Sophomore,22.0,Group-study,4,50.44,No,Java,58.3,Employment
+22.0,Junior,35.0,Practical,5,89.6,Yes,R,87.84,Employment
+19.0,Freshman,8.0,Practical,1,69.29,No,Python,77.01,Freelancing
+20.0,Sophomore,8.0,Practical,8,51.26,No,C++,66.55,Higher education
+18.0,Freshman,23.0,Self-study,7,84.39,Yes,C++,51.44,Freelancing
+23.0,Senior,13.0,Self-study,13,59.78,No,R,53.37,Undecided
+23.0,Senior,6.0,Self-study,12,76.22,Yes,Java,92.67,Undecided
+23.0,Senior,5.0,Group-study,8,68.72,No,Java,60.69,Employment
+23.0,Sophomore,26.0,Lecture,14,91.46,No,Python,99.02,Freelancing
+21.0,Sophomore,30.0,Group-study,4,85.15,No,R,99.56,Employment
+23.0,Sophomore,11.0,Practical,4,94.7,No,Java,94.65,Freelancing
+20.0,Sophomore,30.0,Self-study,13,80.53,Yes,Java,55.55,Employment
+23.0,Junior,11.0,Group-study,7,86.41,Yes,Python,88.14,Undecided
+24.0,Sophomore,5.0,Lecture,8,57.73,No,R,67.94,Undecided
+20.0,Freshman,10.0,Self-study,5,92.15,No,Python,67.78,Higher education
+22.0,,,Practical,14,69.51,Yes,R,56.3,Higher education
+18.0,Freshman,5.0,Practical,0,71.92,Yes,R,84.16,Undecided
+20.0,Junior,8.0,Self-study,1,97.66,No,R,56.29,Undecided
+21.0,Sophomore,26.0,Practical,10,64.08,Yes,R,52.9,Employment
+20.0,Freshman,16.0,Self-study,4,71.86,No,Java,72.09,Freelancing
+18.0,Freshman,,Lecture,0,94.8,Yes,C++,61.78,Employment
+22.0,Senior,17.0,Practical,1,67.18,Yes,Python,67.78,Higher education
+23.0,Senior,26.0,Self-study,12,53.0,Yes,R,88.97,Undecided
+20.0,Freshman,19.0,Practical,7,52.41,Yes,Java,85.35,Undecided
+23.0,Senior,26.0,Lecture,0,58.28,No,Java,52.74,Higher education
+23.0,Sophomore,17.0,Self-study,13,57.24,No,R,94.2,Freelancing
+22.0,Junior,27.0,Self-study,7,98.62,Yes,C++,93.26,Employment
+23.0,Sophomore,37.0,Lecture,8,52.59,No,Java,55.02,Freelancing
+20.0,Sophomore,28.0,Lecture,2,94.63,No,Python,92.34,Employment
+23.0,Senior,28.0,Self-study,10,88.76,Yes,C++,54.03,Employment
+23.0,Junior,20.0,Self-study,7,78.24,Yes,Python,95.5,Undecided
+22.0,Junior,19.0,Group-study,5,99.72,Yes,C++,84.24,Higher education
+21.0,Junior,28.0,Practical,7,82.57,Yes,Java,91.51,Freelancing
+24.0,Sophomore,28.0,Self-study,14,83.68,No,Python,58.14,Freelancing
+20.0,Freshman,29.0,Lecture,13,50.85,Yes,Java,73.06,Freelancing
+20.0,Junior,26.0,Self-study,7,95.42,No,Python,61.93,Employment
+22.0,Sophomore,35.0,Group-study,8,89.11,Yes,Python,80.02,Freelancing
+22.0,Junior,34.0,Group-study,3,71.32,Yes,Java,67.7,Freelancing
+19.0,Sophomore,,Lecture,10,76.86,No,Java,66.4,Employment
+19.0,Freshman,37.0,Practical,11,97.1,Yes,R,78.75,Undecided
+19.0,Sophomore,38.0,Practical,13,78.62,Yes,Python,85.84,Undecided
+22.0,Junior,20.0,Self-study,8,98.96,Yes,Java,97.81,Freelancing
+23.0,Senior,36.0,Self-study,8,91.27,No,C++,92.21,Freelancing
+20.0,Sophomore,18.0,Self-study,7,57.74,Yes,Python,71.37,Undecided
+19.0,Sophomore,9.0,Group-study,1,96.21,Yes,Java,95.24,Employment
+20.0,Freshman,10.0,Practical,12,68.23,Yes,Java,64.99,Undecided
+21.0,Junior,15.0,Lecture,11,95.55,Yes,Python,98.34,Freelancing
+18.0,Freshman,25.0,Self-study,3,59.29,Yes,Java,63.96,Higher education
+20.0,Sophomore,38.0,Lecture,7,67.28,Yes,R,72.1,Freelancing
+22.0,Junior,28.0,Self-study,3,81.73,No,R,53.79,Higher education
+20.0,Freshman,17.0,Self-study,0,53.81,Yes,R,69.25,Higher education
+18.0,Freshman,33.0,Lecture,10,97.91,No,Java,66.19,Employment
+22.0,Junior,30.0,Lecture,5,95.18,Yes,C++,50.8,Employment
+19.0,Sophomore,15.0,Lecture,7,84.64,No,R,98.23,Freelancing
+18.0,Freshman,38.0,Self-study,1,86.01,No,Java,80.75,Higher education
+20.0,Freshman,13.0,Self-study,7,97.68,Yes,Java,73.2,Undecided
+24.0,Junior,13.0,Group-study,11,76.89,Yes,C++,87.93,Higher education
+22.0,Junior,22.0,Group-study,12,60.18,Yes,R,84.36,Employment
+24.0,Junior,34.0,Lecture,12,74.4,Yes,Python,58.03,Undecided
+18.0,Freshman,6.0,Group-study,5,68.27,Yes,Python,91.85,Higher education
+22.0,Senior,,Group-study,6,77.64,No,Java,60.93,Employment
+18.0,Freshman,5.0,Group-study,6,86.22,Yes,C++,84.88,Employment
+18.0,Freshman,7.0,Self-study,2,98.5,Yes,R,63.51,Higher education
+19.0,Freshman,37.0,Group-study,5,68.96,No,R,89.93,Undecided
+20.0,Freshman,20.0,Practical,2,89.4,Yes,Java,76.71,Freelancing
+23.0,Sophomore,7.0,Practical,4,66.07,No,Java,79.15,Higher education
+23.0,Senior,21.0,Self-study,11,55.87,Yes,,89.81,Higher education
+20.0,Junior,37.0,Self-study,13,97.11,Yes,Java,54.47,Freelancing
+23.0,Junior,20.0,Lecture,14,66.4,Yes,C++,67.08,Employment
+22.0,Junior,37.0,Practical,0,92.62,Yes,Python,94.17,Freelancing
+21.0,Junior,27.0,Lecture,0,71.22,No,Python,71.72,Employment
+23.0,Senior,36.0,Group-study,1,69.49,No,,50.27,Employment
+24.0,Junior,,Self-study,0,97.53,Yes,Python,77.72,Higher education
+23.0,Senior,24.0,Self-study,0,85.39,No,Java,94.05,Undecided
+19.0,,39.0,Self-study,4,50.46,No,Java,88.57,Undecided
+23.0,Sophomore,6.0,Practical,8,81.45,No,R,97.1,Employment
+23.0,Sophomore,9.0,Self-study,2,77.67,Yes,Python,82.66,Freelancing
+23.0,Senior,7.0,Self-study,12,88.49,No,Java,93.76,Higher education
+22.0,Junior,14.0,Group-study,12,56.73,No,Python,95.11,Undecided
+22.0,Sophomore,36.0,Practical,13,96.08,Yes,Java,61.96,Freelancing
+18.0,Freshman,20.0,Practical,1,93.15,No,Python,99.82,Undecided
+23.0,Senior,7.0,Practical,2,91.88,Yes,Java,65.76,Freelancing
+21.0,Sophomore,7.0,Lecture,12,81.25,Yes,Java,76.79,Employment
+19.0,Freshman,25.0,Lecture,13,92.28,No,Java,95.84,Employment
+20.0,Sophomore,28.0,Self-study,3,82.25,Yes,Java,52.36,Employment
+20.0,Sophomore,38.0,Lecture,8,51.27,Yes,Java,84.11,Higher education
+23.0,,32.0,Practical,12,92.0,No,C++,70.68,Higher education
+,Sophomore,18.0,Self-study,4,77.39,Yes,C++,63.97,Freelancing
+20.0,,9.0,Group-study,7,73.37,Yes,Python,95.52,Higher education
+19.0,Freshman,26.0,Group-study,6,88.24,Yes,Python,81.49,Higher education
+22.0,,19.0,Lecture,4,60.05,No,Java,70.16,Undecided
+18.0,Freshman,19.0,Practical,0,58.42,No,C++,82.07,Undecided
+21.0,Junior,10.0,Self-study,10,57.23,No,Java,86.14,Higher education
+18.0,Freshman,34.0,Lecture,2,73.03,Yes,R,86.14,Higher education
+23.0,Senior,11.0,Group-study,5,71.85,No,C++,71.54,Employment
+18.0,Freshman,29.0,Self-study,8,59.72,No,Java,73.13,Freelancing
+22.0,Sophomore,7.0,Practical,13,92.21,No,Java,73.45,Higher education
+23.0,Senior,14.0,Group-study,14,53.21,No,C++,91.95,Undecided
+18.0,Freshman,10.0,Self-study,12,84.82,Yes,Java,76.03,Undecided
+19.0,Freshman,18.0,Lecture,8,52.38,Yes,Python,92.9,Employment
+23.0,Junior,35.0,Practical,8,72.31,Yes,Java,95.04,Freelancing
+19.0,Freshman,11.0,Lecture,7,92.93,No,Python,87.31,Higher education
+24.0,Sophomore,25.0,Practical,4,63.84,No,C++,59.57,Undecided
+24.0,Sophomore,10.0,Lecture,8,92.94,No,Java,91.41,Higher education
+23.0,Senior,25.0,Self-study,4,88.32,Yes,C++,60.34,Freelancing
+22.0,Senior,28.0,Group-study,10,86.7,Yes,Java,61.39,Employment
+23.0,Junior,31.0,Lecture,8,84.32,Yes,Java,89.92,Employment
+18.0,Freshman,38.0,Lecture,8,97.22,No,Java,53.89,Undecided
+18.0,Freshman,7.0,Lecture,7,60.16,Yes,C++,94.07,Higher education
+23.0,Junior,16.0,Group-study,2,50.04,Yes,R,68.05,Higher education
+22.0,Senior,33.0,Lecture,3,66.8,Yes,Python,54.06,Undecided
+19.0,Freshman,13.0,Practical,10,67.52,Yes,Python,56.91,Freelancing
+21.0,Junior,10.0,Lecture,4,72.78,Yes,R,74.83,Employment
+24.0,Junior,14.0,Practical,11,57.82,Yes,,84.15,Higher education
+22.0,Junior,24.0,Lecture,6,92.66,No,Java,75.26,Higher education
+20.0,Junior,32.0,Group-study,7,85.43,No,Java,54.15,Freelancing
+72.0,Sophomore,21.0,Practical,12,71.82,No,Python,89.92,Freelancing
+20.0,Sophomore,35.0,Group-study,0,94.65,No,Java,91.85,Higher education
+19.0,Freshman,32.0,Self-study,14,56.37,No,Java,85.1,Employment
+24.0,Senior,26.0,Practical,13,58.27,Yes,Java,55.25,Undecided
+23.0,,13.0,Group-study,9,70.81,Yes,Java,75.34,Undecided
+19.0,Sophomore,26.0,Lecture,1,92.61,No,Python,81.28,Higher education
+19.0,Sophomore,6.0,Self-study,14,79.52,Yes,C++,79.67,Freelancing
+22.0,Junior,14.0,Group-study,7,83.54,No,,99.36,Freelancing
+23.0,Junior,8.0,Practical,13,50.75,No,Python,58.18,Employment
+23.0,Senior,7.0,Self-study,0,73.4,Yes,Python,67.98,Freelancing
+80.0,Sophomore,31.0,Lecture,7,93.97,No,C++,94.14,Freelancing
+23.0,Senior,20.0,Practical,3,95.17,No,,53.35,Employment
+23.0,Senior,,Self-study,4,63.09,Yes,Java,59.68,Employment
+23.0,Senior,39.0,Self-study,6,53.96,Yes,Java,80.85,Undecided
+,Freshman,7.0,Self-study,4,95.07,Yes,R,59.83,Higher education
+24.0,Sophomore,,Practical,10,65.04,Yes,Python,61.28,Higher education
+22.0,Junior,31.0,Lecture,1,73.87,Yes,R,95.37,Undecided
+22.0,Junior,10.0,Lecture,8,92.0,Yes,,80.36,Higher education
+24.0,Senior,9.0,Practical,3,61.5,Yes,Java,60.77,Freelancing
+20.0,Sophomore,19.0,Lecture,12,61.74,No,R,65.46,Higher education
+18.0,,34.0,Self-study,1,85.53,No,R,78.4,Freelancing
+20.0,Freshman,24.0,Lecture,13,53.29,No,Java,54.71,Higher education
+22.0,Junior,5.0,Lecture,13,74.23,No,C++,93.29,Undecided
+22.0,,32.0,Group-study,12,81.14,Yes,Python,75.61,Freelancing
+24.0,Senior,16.0,Self-study,8,86.41,No,Java,83.64,Undecided
+19.0,Freshman,37.0,Lecture,5,86.98,No,Java,50.42,Freelancing
+,Senior,19.0,Practical,2,82.97,No,Python,75.34,Employment
+19.0,Freshman,9.0,Group-study,8,96.06,No,Java,91.97,Undecided
+20.0,Freshman,28.0,Self-study,8,52.36,No,R,52.19,Higher education
+19.0,Sophomore,33.0,Lecture,8,96.37,Yes,R,86.94,Undecided
+24.0,Senior,,Practical,10,82.55,No,R,93.39,Higher education
+23.0,,35.0,Practical,11,54.71,No,Java,63.36,Undecided
+18.0,Freshman,35.0,Group-study,0,60.15,Yes,Java,90.78,Freelancing
+22.0,Sophomore,9.0,Lecture,13,74.59,Yes,Python,80.91,Freelancing
+18.0,Freshman,8.0,Self-study,4,53.62,No,Python,84.71,Undecided
+23.0,Sophomore,8.0,Practical,0,52.5,No,R,87.83,Employment
+20.0,Sophomore,16.0,Group-study,5,65.81,Yes,R,63.49,Freelancing
+18.0,Freshman,25.0,Self-study,5,87.16,Yes,Python,97.07,Freelancing
+18.0,Freshman,,Practical,4,79.98,Yes,Java,87.2,Freelancing
+24.0,Junior,38.0,Lecture,12,50.82,Yes,R,58.49,Employment
+18.0,Freshman,33.0,Practical,3,78.82,Yes,Python,60.29,Freelancing
+23.0,Senior,24.0,Lecture,3,55.59,Yes,Java,74.81,Higher education
+20.0,Sophomore,6.0,Self-study,1,72.28,Yes,R,82.98,Undecided
+19.0,Freshman,19.0,Group-study,0,85.89,Yes,Java,82.98,Freelancing
+20.0,Freshman,33.0,Practical,13,97.08,Yes,C++,81.05,Undecided
+23.0,Senior,12.0,Practical,12,88.27,Yes,Java,61.69,Freelancing
+22.0,Sophomore,15.0,Self-study,12,89.63,No,R,89.08,Employment
+20.0,Junior,14.0,Group-study,3,61.96,Yes,R,98.52,Higher education
+24.0,Junior,25.0,Practical,10,81.2,No,Python,64.24,Freelancing
+21.0,Junior,30.0,Group-study,7,51.78,Yes,Python,89.89,Employment
+22.0,Sophomore,15.0,Practical,13,50.11,Yes,Java,84.48,Undecided
+21.0,Junior,25.0,Practical,9,55.25,No,Python,88.69,Higher education
+24.0,Junior,25.0,Lecture,3,69.6,Yes,,54.55,Undecided
+23.0,Senior,21.0,Practical,12,74.66,Yes,Java,52.17,Employment
+19.0,Freshman,9.0,Self-study,1,71.25,Yes,Python,95.0,Undecided
+24.0,Senior,34.0,Practical,12,72.62,Yes,C++,79.29,Employment
+23.0,,21.0,Group-study,7,65.23,Yes,R,74.54,Employment
+24.0,Senior,36.0,Self-study,12,62.57,Yes,C++,66.98,Undecided
+18.0,Freshman,19.0,Self-study,2,87.88,No,C++,52.27,Undecided
+23.0,Junior,8.0,Group-study,2,54.93,No,Java,94.68,Undecided
+21.0,Sophomore,26.0,Group-study,14,57.99,No,C++,62.44,Undecided
+24.0,Senior,33.0,Practical,13,98.39,No,Java,94.86,Higher education
+23.0,Senior,10.0,Group-study,1,73.68,No,Java,97.35,Higher education
+23.0,Senior,32.0,Lecture,4,97.77,Yes,Java,94.66,Higher education
+24.0,Senior,39.0,Group-study,3,58.07,No,C++,60.97,Freelancing
+23.0,Senior,11.0,Group-study,3,90.33,Yes,Python,94.88,Undecided
+23.0,Sophomore,14.0,Self-study,12,90.07,Yes,R,53.11,Employment
+21.0,,5.0,Lecture,12,91.57,No,Java,75.82,Undecided
+23.0,Senior,15.0,Practical,9,61.5,Yes,C++,51.39,Undecided
+22.0,Sophomore,38.0,Practical,12,81.86,No,Python,86.6,Undecided
+22.0,Junior,36.0,Group-study,0,91.51,No,C++,53.07,Undecided
+18.0,Freshman,27.0,Self-study,5,90.56,Yes,Python,82.55,Undecided
+23.0,Senior,5.0,Self-study,5,94.02,No,Java,71.7,Undecided
+24.0,Senior,31.0,Group-study,5,62.37,Yes,C++,59.52,Freelancing
+20.0,Sophomore,31.0,Self-study,5,81.76,Yes,,63.11,Employment
+22.0,Junior,17.0,Lecture,2,55.8,No,R,69.69,Higher education
+18.0,Freshman,6.0,Practical,12,50.7,Yes,Java,79.5,Higher education
+22.0,Junior,17.0,Lecture,13,75.89,Yes,Java,57.67,Freelancing
+19.0,Freshman,14.0,Self-study,13,94.25,No,Java,53.97,Higher education
+23.0,Junior,34.0,Lecture,4,58.64,Yes,Python,96.22,Undecided
+18.0,Freshman,19.0,Group-study,12,94.21,Yes,Java,73.24,Freelancing
+22.0,Junior,17.0,Group-study,14,99.49,No,Java,83.3,Freelancing
+23.0,Sophomore,33.0,Practical,9,78.77,Yes,R,93.67,Employment
+23.0,Junior,37.0,Group-study,14,55.71,No,Java,50.42,Higher education
+,Sophomore,28.0,Self-study,7,56.11,No,Java,76.4,Higher education
+21.0,Junior,16.0,Lecture,0,65.47,No,Java,99.69,Employment
+22.0,Sophomore,27.0,Self-study,9,90.97,Yes,C++,73.42,Undecided
+22.0,Junior,,Lecture,12,57.98,No,Python,97.78,Undecided
+20.0,Freshman,17.0,Group-study,13,87.56,Yes,R,99.27,Employment
+18.0,Freshman,10.0,Self-study,9,55.56,No,Python,82.86,Employment
+20.0,Junior,13.0,Group-study,6,99.28,No,R,90.99,Undecided
+24.0,Senior,32.0,Group-study,4,99.73,Yes,Java,57.03,Higher education
+22.0,Senior,9.0,Self-study,10,67.89,No,R,57.78,Undecided
+22.0,Junior,11.0,Self-study,1,77.36,Yes,R,72.97,Employment
+21.0,,11.0,Lecture,4,87.85,No,Python,84.39,Higher education
+22.0,Junior,12.0,Lecture,2,96.32,No,R,82.59,Undecided
+23.0,Senior,25.0,Practical,9,72.83,Yes,Java,60.24,Higher education
+23.0,Senior,19.0,Practical,8,50.76,Yes,R,69.04,Employment
+21.0,Junior,38.0,Practical,4,96.74,No,R,93.57,Undecided
+18.0,Freshman,39.0,Group-study,6,92.8,Yes,Java,67.27,Higher education
+19.0,,7.0,Practical,1,81.38,Yes,R,87.52,Undecided
+24.0,Junior,10.0,Lecture,4,99.54,Yes,R,89.0,Freelancing
+21.0,Sophomore,11.0,Self-study,2,63.9,No,Python,52.07,Higher education
+19.0,Sophomore,28.0,Lecture,12,93.25,Yes,Java,91.77,Freelancing
+23.0,Senior,26.0,Lecture,14,62.75,Yes,R,50.7,Employment
+20.0,Sophomore,25.0,Lecture,2,70.01,No,Java,84.06,Employment
